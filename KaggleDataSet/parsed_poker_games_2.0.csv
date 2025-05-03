@@ -1,0 +1,2469 @@
+num_players,player_stack,player_cards,pre_flop,flop,decision_flop,turn,decision_turn,river,decision_river,net_result,winners
+9,43.0,9d 7d,"received, received, folds, does",,,,,,folded,0.0,dankmann
+9,43.0,Js 3h,"received, received, folds",6d 5d 6s,,7s,,7c,,0.0,"StephCurry, VegetablesArentYummy"
+9,43.0,9s Qc,"received, received, folds, does",,,,,,folded,0.0,AironVega
+6,40.0,4s 5d,"received, received, folds",Jc 6c 8d,,,,,,0.0,aleks0v
+6,40.0,Jd,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+9,43.0,3s 6d,"received, received, folds",Ah Js 2s,,,,,,0.0,ElvenEyes
+6,40.0,9d,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+5,20.25,7d Kh,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+8,31.57,Ad Kd,"received, received, raises",10d 2h 5s,checks,2c,checks,4d,"checks, folds, folded",-1.75,VamosRafaFTW
+9,43.0,2h 6d,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+8,31.57,3c 6c,"received, received, folds, does",,,,,,folded,0.0,hoocher
+9,43.5,5c 3d,"has, received, received, folds, does",,,,,,folded,-0.5,ElvenEyes
+5,20.25,9h 3s,"received, received, folds, does",,,,,,folded,0.0,Jui
+6,40.0,7s Kh,"has, received, received, calls",Qh 2s 4s,bets,Qd,checks,5c,"checks, folds, folded",-2.26,WeakAndWeary
+5,20.25,7c 4c,"received, received, folds, does",,,,,,folded,0.0,Jui
+4,40.28,5h 6s,"received, received, folds, does",,,,,,folded,0.0,AironVega
+8,44.5,6c,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+6,40.0,7h 5c,"has, received, received, folds, does",,,,,,folded,-1.0,Sephiroth1
+8,30.25,4s 4h,"received, received, raises",7d Ah 6d,checks,3h,checks,Ac,checks,1.32,IlxxxlI
+5,20.5,3h 5c,"has, received, received, folds, does",,,,,,folded,-0.25,IampokerKidd
+4,40.78,Ks Qs,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+4,20.0,Ah As,"received, received, raises",Ac Ad 5d,bets,4s,"bets, mucks, mucks",,,1.77,IlxxxlI
+8,26.19,Kd 2c,"received, received, folds, does",,,,,,folded,0.0,wvlax1425
+8,44.5,9c 6s,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+4,40.28,8h 7h,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+9,26.19,9c 7h,"received, received, folds, does",,,,,,folded,0.0,Spagetti1
+4,40.28,4c,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+8,30.25,8s 6h,"received, received, folds",Kd 10c 8c,,7s,,,,0.0,dankmann
+8,44.5,Kh 3s,"received, received, folds, does",,,,,,folded,0.0,gust
+5,21.0,2s,"has, received, received, folds, does",,,,,,folded,-0.5,Jui
+5,21.0,3d Qd,"received, received, folds, does",,,,,,folded,0.0,IampokerKidd
+4,20.0,9c,"received, received, raises",3c 2c Kh,bets,8h,checks,9s,"calls, mucks",-8.61,aleks0v
+8,30.5,7s 4s,"has, received, received, folds",8h 4c 3s,,,,,,-0.25,choiCES
+5,20.25,4s 6c,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+8,43.0,Jh 9h,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,20.75,Kh 3c,"has, received, received, folds, does",,,,,,folded,-0.5,Maria_Pia
+5,22.0,Jh Ac,"received, received, raises",7c 3h 4h,"checks, folds, does",,,,folded,-1.0,Beep_Beep
+8,28.75,Ac Kd,"has, received, received, raises, mucks, mucks",,,,,,,1.75,IlxxxlI
+8,41.5,9c 9s,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+4,40.28,9s 2h,"received, received, folds",5s Kh 3h,,Ah,,6s,,0.0,WeakAndWeary
+9,26.19,4h 9d,"received, received, folds",3c Qd 5h,,4c,,7d,,0.0,haroldbb
+5,22.0,9d 6h,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+8,40.0,2h 2s,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,22.0,9c,"received, received, folds, does",,,,,,folded,0.0,IampokerKidd
+8,20.0,Ks Kd,"received, received, raises, allin, mucks, mucks",,,,,,,8.75,IlxxxlI
+4,40.78,7h 2d,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+8,40.0,As 6h,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+5,20.75,Qc 8h,"received, received, folds",Jh 3h Js,,4d,,,,0.0,Beep_Beep
+4,41.78,8c Ad,"has, received, received, folds, does",,,,,,folded,-1.0,WeakAndWeary
+8,20.0,Qs Jh,"received, received, folds, does",,,,,,folded,0.0,VamosRafaFTW
+5,20.0,9d Ad,"has, received, received, raises, mucks, mucks",,,,,,,2.0,IlxxxlI
+5,20.75,5h 9s,"received, received, folds, does",,,,,,folded,0.0,Maria_Pia
+4,41.78,7h,"received, received, folds, does",,,,,,folded,0.0,AironVega
+9,40.5,3d 8c,"has, received, received, folds, does",,,,,,folded,-0.5,dankmann
+5,20.0,Js Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+9,26.19,2d,"received, received, folds",4h 5h 6s,,3c,,6d,,0.0,kid4life
+8,20.0,Jc,"received, received, folds",Jh 8d Kc,,,,,,0.0,VamosRafaFTW
+4,41.78,4s 3c,"received, received, folds, does",,,,,,folded,0.0,AironVega
+5,20.0,Qh 9s,"has, received, received, folds, does",,,,,,folded,-0.5,hoocher
+8,25.44,5h Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+4,42.28,Kd 2h,"has, received, received, folds, does",,,,,,folded,-0.5,aleks0v
+5,20.0,6s 8c,"has, received, received, folds, does",,,,,,folded,-0.25,aleks0v
+9,41.5,Jd Qc,"has, received, received, folds, does",,,,,,folded,-1.0,AironVega
+8,20.0,Kc 9c,"received, received, folds",Js Kh Ks,,,,,,0.0,hoocher
+6,20.0,5h,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+8,25.69,Js 6s,"has, received, received, folds, does",,,,,,folded,-0.25,DRofBooya
+8,20.0,3d 2d,"received, received, folds, does",,,,,,folded,0.0,BlueSmoke
+9,41.5,7d 9c,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+6,20.0,5s Ac,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+5,35.63,6c 7s,"received, received, folds",Ac Ah Kh,,,,,,0.0,jjeannin1
+8,20.0,2h 9s,"received, received, folds",Jc 10c Kc,,,,,,0.0,BlueSmoke
+6,20.0,7c 9s,"received, received, folds, does",,,,,,folded,0.0,LawMaker20
+9,40.0,,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+4,35.63,8s 4h,"received, received, folds",8h 3s 10d,,,,,,0.0,jjeannin1
+4,40.0,5h Ad,"has, received, received, calls",Ac 2s 5d,checks,Qd,checks,2c,checks,2.28,IlxxxlI
+8,20.0,2c 2s,"has, received, received, folds, does",,,,,,folded,-0.25,dankmann
+4,35.63,Qc 2h,"received, received, folds",4s 3s 4h,,Qs,,6s,,0.0,Parcker
+5,40.0,7s 3c,"received, received, folds, does",,,,,,folded,0.0,AironVega
+8,20.75,Ah 6d,"has, received, received, calls",6s 5h 2d,checks,Ad,"checks, raises, mucks, mucks",,,4.94,IlxxxlI
+9,40.0,3h,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+6,20.0,7d Qc,"received, received, folds",5c 4s 8c,,Ad,,3c,,0.0,foreseen
+5,35.63,Qh 8c,"received, received, folds",Qs 3h 6d,,9c,,,,0.0,Parcker
+8,20.75,Qs Jh,"received, received, folds, does",,,,,,folded,0.0,Korobochka
+5,20.0,8c Kd,"has, received, received, folds, does",,,,,,folded,-0.25,Beep_Beep
+5,40.0,7c 2c,"received, received, folds, does",,,,,,folded,0.0,AironVega
+8,20.0,Qh 7s,"has, received, received, folds",2s Qc Qs,,2d,,4d,,-0.5,choiCES
+8,20.0,Ac Ks,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+9,40.0,Qs 8s,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+4,20.0,4c 2c,"has, received, received, folds, does",,,,,,folded,-0.5,LawMaker20
+8,20.0,8c 4c,"received, received, folds, does",,,,,,folded,0.0,dankmann
+5,35.88,9h 4s,"has, received, received, folds",Ac Js Kc,,3h,,Qs,,-0.25,jjeannin1
+8,20.0,Jd 7s,"received, received, folds, does",,,,,,folded,0.0,DRofBooya
+5,40.0,2d 5h,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+8,20.0,4h,"received, received, folds, does",,,,,,folded,0.0,Spagetti1
+9,40.0,3h Jc,"received, received, folds, does",,,,,,folded,0.0,dankmann
+5,20.0,6d 9h,"has, received, received, checks",6h 7s 6c,"checks, calls",Kd,"checks, calls",3h,,15.88,IlxxxlI
+8,20.0,Qd 4h,"received, received, folds",Jh Ac 4c,,,,,,0.0,BlueSmoke
+5,40.0,Qc,"has, received, received, calls",4d Ac 6c,"checks, folds, does",,,,folded,-3.0,ali23imsirovic
+5,20.0,Jh 6s,"received, received, folds, does",,,,,,folded,0.0,Jui
+9,20.75,Ad Qd,"received, received, raises, folds, does",,,,,,folded,-3.5,choiCES
+9,20.75,9h As,"received, received, folds",4s 4h 3c,,,,,,0.0,gorillaman68
+8,20.0,2s 3s,"received, received, folds",10c 6c 4h,,9s,,Ad,,0.0,"kid4life, haroldbb"
+9,20.0,8d,"received, received, folds, does",,,,,,folded,0.0,Spagetti1
+9,40.0,8c 8h,"received, received, folds",5c 3h 6s,,2d,,,,0.0,VegetablesArentYummy
+9,20.75,Kd 4c,"received, received, folds",Kh 7s 2d,,,,,,0.0,BlueSmoke
+4,20.0,8c Js,"received, received, folds",7c 6c 5s,,9h,,4c,,0.0,Parcker
+9,20.0,Qh 5s,"received, received, folds, does",,,,,,folded,0.0,DRofBooya
+4,20.0,4h Ac,"received, received, folds",8h Jc 6c,,,,,,0.0,jjeannin1
+9,20.0,Qd 7h,"has, received, received, folds, does",,,,,,folded,-0.25,haroldbb
+9,21.0,5h 2s,"has, received, received, folds",7h 4h Js,,,,,,-0.25,choiCES
+9,40.0,3s 9h,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+5,56.3,6h Qs,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+8,20.75,9h Js,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,20.0,9d 2d,"received, received, folds",4h 4c 2h,,As,,Jh,,0.0,trader063
+5,56.3,3s Qc,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+9,20.0,2c 5h,"has, received, received, folds",10s 7c Ks,,7d,,,,-0.5,DRofBooya
+4,20.0,3h 9c,"has, received, received, folds",6h Jd Kd,,8h,,4d,,-0.25,jjeannin1
+5,40.0,Jc Kc,"has, received, received, calls",Js 4s 6d,checks,9h,bets,4h,"allin, mucks",16.3,IlxxxlI
+7,52.0,Ad Kd,"received, received, raises, allin",10h Ks 2h,,6s,,Jh,,51.0,IlxxxlI
+9,86.2,6h 3d,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+4,20.0,7s Ah,"has, received, received, folds",2h 6h Jd,,,,,,-0.5,jjeannin1
+9,40.0,As,"has, received, received, calls",9s 8c 3d,checks,2d,"checks, folds, folded",Ad,,-2.0,ElvenEyes
+9,86.2,9c 8d,"received, received, folds, does",,,,,,folded,0.0,dankmann
+5,40.0,Kh 2s,"has, received, received, folds",8c 7h Qd,,,,,,-2.0,AironVega
+8,52.0,6h,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+8,20.75,Qc 6h,"received, received, folds",4d 10s 6s,,9c,,3s,,0.0,choiCES
+9,86.2,2c 5h,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+9,41.5,Jd 8d,"has, received, received, calls",Ac 5h As,"folds, does",,,,folded,-3.0,AironVega
+8,52.0,Kc 9c,"received, received, folds, does",,,,,,folded,0.0,aleks0v
+5,40.0,3s Ah,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+4,20.0,Kd 6h,"received, received, folds",Ad 7s 10h,,Jh,,As,,0.0,Parcker
+5,40.0,4d Kh,"received, received, folds, does",,,,,,folded,0.0,anarkopoker
+9,41.5,5d Qd,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+9,86.2,9c 6h,"received, received, folds",4h 10d 9s,,,,,,0.0,VegetablesArentYummy
+7,52.0,4c Jh,"received, received, folds, does",,,,,,folded,0.0,gust
+9,41.5,8d 2c,"received, received, folds, does",,,,,,folded,0.0,dankmann
+4,20.0,Kd Qd,"received, received, raises",8h 4h 10s,bets,,"checks, folds, does",,folded,-2.5,jjeannin1
+8,20.75,6d,"received, received, folds",6h 8h Ad,,Jc,,4s,,0.0,hoocher
+7,20.75,Qh 4c,"received, received, folds, does",,,,,,folded,0.0,gorillaman68
+6,48.4,Js Ks,"received, received, raises, calls",8s Jh 8d,allin,3s,,Qd,,-48.4,VegetablesArentYummy
+4,22.24,Ad Qc,"received, received, raises, folds",5s 8h 4h,,,,,,-2.5,Jui
+7,20.75,8d Ks,"received, received, folds, does",,,,,,folded,0.0,gorillaman68
+7,53.0,5d 2d,"has, received, received, folds",4c 9c Ah,,2s,,7d,,-1.0,pineapplesand
+8,86.2,4h 3c,"received, received, folds",Qs 9h 2h,,7s,,As,,0.0,VegetablesArentYummy
+9,41.5,2s 9d,"received, received, folds",5d 7s 6c,,Js,,2c,,0.0,StephCurry
+7,20.0,Ad Js,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,50.4,7d 6h,"has, received, received, calls, folds, does",,,,,,folded,-2.0,VegetablesArentYummy
+8,52.0,7d 9h,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+7,20.0,3s Qc,"received, received, folds, does",,,,,,folded,0.0,choiCES
+4,22.49,Jd Qc,"has, received, received, folds",5s Js 3h,,,,,,-0.25,jjeannin1
+9,41.5,Ah 8s,"received, received, folds, does",,,,,,folded,0.0,dankmann
+8,85.2,6c 6s,"has, received, received, raises, mucks, mucks",,,,,,,1.0,IlxxxlI
+8,49.0,Ah Jc,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+7,20.0,5d 8h,"has, received, received, folds, does",,,,,,folded,-0.25,Parcker
+6,45.0,7c 6c,"has, received, received, calls",2d 8h Qs,checks,3h,"bets, mucks, mucks",,,5.4,IlxxxlI
+6,162.9,Js Kc,"received, received, raises",5d Ac 4s,"checks, folds, does",,,,folded,-4.0,iBiNkUsTiNk
+4,20.0,4s Qc,"has, received, received, checks",Qs Kh 10h,checks,4h,bets,8c,"bets, mucks",2.49,IlxxxlI
+8,49.0,Kc 3s,"received, received, folds, does",,,,,,folded,0.0,gust
+6,45.0,3h 7h,"received, received, folds, does",,,,,,folded,0.0,anarkopoker
+9,40.0,Ad,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+8,44.1,Jh Js,"has, received, received, raises, allin",7s Ks Ad,,6h,,6s,,41.1,IlxxxlI
+7,20.0,5s Kc,"has, received, received, folds",Qs 6d 2c,,,,,,-0.5,choiCES
+6,78.5,Kh 9d,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+8,46.0,Ad Qd,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+4,20.0,3s 8h,"received, received, folds",4d 4c Kc,,,,,,0.0,Jui
+8,44.1,Kh,"received, received, folds, does",,,,,,folded,0.0,gust
+6,42.0,Jh Jc,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+4,20.0,4c Qh,"received, received, folds, does",,,,,,folded,0.0,Parcker
+7,20.0,9h,"received, received, folds",Qh Ks 5d,,,,,,0.0,Spagetti1
+4,20.0,4h 7d,"received, received, folds",10s Kd 7s,,,,,,0.0,jjeannin1
+6,42.0,9s 8c,"received, received, folds, does",,,,,,folded,0.0,aleks0v
+7,20.0,4h 7d,"received, received, folds",3c Js 6s,,,,,,0.0,choiCES
+6,162.9,6d Ac,"received, received, folds",4d 9d Qd,,2h,,8h,,0.0,PANDAisEVIL
+7,20.0,Jd 7d,"received, received, folds, does",,,,,,folded,0.0,choiCES
+6,42.0,5c Jc,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+6,40.0,7c 7h,"received, received, calls, calls",6c 5h 7s,"checks, calls",Kc,"checks, allin",9d,,38.5,IlxxxlI
+6,162.9,9c Jd,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+9,40.0,9s 5s,"received, received, folds",Qh Kh 3c,,,,3d,,0.0,dankmann
+5,20.0,,"has, received, received, caps",2c Qd Ks,,9c,,4d,,-15.0,Parcker
+6,40.0,Kc 4c,"has, received, received, raises, mucks, mucks",,,,,,,2.0,IlxxxlI
+7,20.0,5c,"received, received, folds",2s 6h 4s,,,,,,0.0,BlueSmoke
+6,162.9,8h Jc,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+8,46.0,2d Qs,"received, received, folds",Jd 5h Ad,,Kc,,4s,,0.0,aleks0v
+7,20.0,2d 9s,"received, received, folds, does",,,,,,folded,0.0,BlueSmoke
+8,44.1,Qh 7h,"received, received, folds",5h Jh 7c,,3h,,,,0.0,"StephCurry, pineapplesand"
+6,40.0,3d Ah,"received, received, folds",2d 7h 5h,,Ac,,Qh,,0.0,ali23imsirovic
+5,161.1,Qc,"has, received, received, calls",Kc 10c 3d,checks,,"bets, mucks, mucks",,,1.8,IlxxxlI
+7,20.0,2d 3d,"has, received, received, folds, does",,,,,,folded,-0.25,choiCES
+6,40.0,5c 9d,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+9,40.0,Qd 4c,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+8,44.1,5s 6h,"received, received, folds, does",,,,,,folded,0.0,AironVega
+9,46.0,5c 3s,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+5,20.75,Js Ks,"received, received, raises",5c Qc 6d,"checks, folds, folded",4d,,6h,,-1.75,trader063
+6,40.0,3d,"has, received, received, folds",9h Kc Qc,,,,,,-2.0,AironVega
+7,20.0,8d Ah,"has, received, received, folds, does",,,,,,folded,-0.5,Spagetti1
+6,40.0,8h Ks,"has, received, received, folds, does",,,,,,folded,-1.0,ali23imsirovic
+8,44.1,6c 4c,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+5,20.0,9d 9c,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,81.55,9s Qd,"has, received, received, calls",Js Qs 7d,"checks, calls",5c,"checks, calls",5d,"checks, allin",79.55,IlxxxlI
+9,40.0,5s Qd,"has, received, received, folds",8c 9h 4d,,,,,,-0.5,PANDAisEVIL
+8,46.5,Kh Qd,"received, received, raises, folds, does",,,,,,folded,-2.4,ElvenEyes
+5,81.55,7d 9c,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+5,81.55,Qd 3c,"received, received, folds",4c 6c 9c,,,,,,0.0,PANDAisEVIL
+5,20.0,7h 5d,"received, received, folds",8s 8d 3s,,9h,,Jc,,0.0,jjeannin1
+9,47.0,4s 2d,"has, received, received, folds",Ah 8d 5c,,4c,,9c,,-1.0,thimk
+8,46.5,9s 3d,"received, received, folds",8c 5h 9h,,,,,,0.0,StephCurry
+5,94.21,Ah Qs,"received, received, raises",Qd Kc 8h,calls,4h,calls,Qc,bets,74.64,IlxxxlI
+9,40.0,Jc 3c,"has, received, received, calls",10s 8c 2s,"checks, folds, does",,,,folded,-2.2,PANDAisEVIL
+9,49.0,6h 9c,"has, received, received, folds, does",,,,,,folded,-2.0,hotshothotgg
+8,47.0,9c 7d,"has, received, received, folds, does",,,,,,folded,-0.5,AironVega
+5,20.0,5c 4s,"received, received, folds",As 4d 2d,,3c,,,,0.0,Parcker
+9,46.0,Kc Ah,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+5,81.55,3c 7h,"received, received, folds",10h 5c Ks,,2s,,Kc,,0.0,AironVega
+9,46.0,6d 5s,"received, received, folds, does",,,,,,folded,0.0,aleks0v
+5,82.0,7h 7d,"received, received, raises",6h 2s 9h,checks,3s,"raises, mucks, mucks",,,12.21,IlxxxlI
+8,44.5,Js Jd,"has, received, received, raises, mucks, mucks",,,,,,,2.5,IlxxxlI
+5,20.0,Ah 3c,"has, received, received, folds",Kh Ac 5h,,9c,,2c,,-0.25,cuervo_
+8,43.0,Ks Qc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+2,81.0,8c Qh,"has, received, received, raises",9d Js Kc,"bets, mucks, mucks",,,,,4.5,IlxxxlI
+2,80.0,Ad 3d,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+5,82.55,8s 3h,"has, received, received, folds",6d Ah Kc,,Ks,,,,-1.0,VegetablesArentYummy
+8,41.5,Kd Jd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,20.0,8d 6s,"has, received, received, folds",10s Qh 6h,,,,,,-0.5,jjeannin1
+5,82.0,Jd 4h,"received, received, folds",3h 2s Qs,,Jh,,9d,,0.0,VegetablesArentYummy
+8,41.5,3h 6c,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+2,80.0,Jd As,"has, received, received, raises",Qd 8s Jh,checks,Kh,"folds, does",,folded,-5.0,AironVega
+5,80.0,As Ks,"has, received, received, raises, mucks, mucks",,,,,,,2.0,IlxxxlI
+3,80.0,9h 4d,"has, received, received, folds, does",,,,,,folded,-1.0,AironVega
+5,86.55,4s 4c,"has, received, received, calls",8h 3d 7d,"checks, folds, does",,,,folded,-4.0,AironVega
+8,40.0,Qs,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,46.0,2h 6d,"received, received, folds",3c Jc Qd,,,,4h,,0.0,PANDAisEVIL
+5,86.55,Qd 2d,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,80.0,6s,"has, received, received, folds, does",,,,,,folded,-2.0,joonjoonjoon
+5,86.55,5d,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+9,43.0,Jd Kc,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+5,86.55,Jh 2s,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+8,40.0,3d 6c,"received, received, folds, does",,,,,,folded,0.0,dankmann
+4,80.0,9h Jd,"has, received, received, calls",8c 4d Kd,checks,Qs,"bets, folds, does",,folded,-10.75,VegetablesArentYummy
+6,80.0,5h,"received, received, folds",6c 9s 8d,,4h,,,,0.0,gust
+5,87.55,Qs 6s,"has, received, received, folds, does",,,,,,folded,-1.0,PANDAisEVIL
+9,43.0,2h,"received, received, folds",10s 9d Qs,,,,,,0.0,thimk
+5,86.55,8s,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+6,60.05,9d Qd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,40.0,Jh 2d,"received, received, folds, does",,,,,,folded,0.0,dankmann
+9,43.0,Jc,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+6,86.55,Kd 2s,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+6,80.0,9s 6d,"received, received, folds",10c Js Ah,,7c,,3d,,0.0,JoeRockwell
+6,88.33,6s 5h,"received, received, folds",Qs 7d 4c,,9c,,,,0.0,Sephiroth1
+6,58.55,Jc As,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,40.0,Jd,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+9,40.5,Qd 3h,"has, received, received, folds",9c 9d 7s,,,,,,-0.5,AironVega
+6,80.0,3d,"received, received, folds, does",,,,,,folded,0.0,joonjoonjoon
+5,80.0,Qc 2s,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+6,86.83,3c Ac,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,41.5,Qs 7h,"has, received, received, folds, does",,,,,,folded,-1.0,StephCurry
+6,86.55,9s 8h,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+5,80.0,7s Jh,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+5,83.55,5d 5s,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+6,86.83,2d 7d,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,80.0,Ad Kh,"has, received, received, raises",4s 6d 6s,"checks, calls",,"checks, folds, does",,folded,-16.55,JoeRockwell
+5,84.55,8d Js,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+9,40.0,5h Kh,"has, received, received, folds",3s 6c 6s,,Jd,,,,-1.0,pineapplesand
+9,41.5,3s Ks,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+6,58.55,5d 2s,"received, received, folds",Ad 8d Ac,,Kh,,,,0.0,LloydXmas
+6,80.0,Jh 2s,"has, received, received, folds, does",,,,,,folded,-2.0,VegetablesArentYummy
+8,41.5,4s Kd,"received, received, folds, does",,,,,,folded,0.0,gust
+6,87.33,3h Kd,"has, received, received, folds, does",,,,,,folded,-0.5,ali23imsirovic
+5,80.0,2h Kc,"received, received, folds",2d Qc 6s,,9c,,2c,,0.0,mjj475
+5,80.0,Kc 3c,"has, received, received, calls",Kd Jh 7s,checks,Qd,"bets, mucks, mucks",,,4.55,IlxxxlI
+8,41.5,9d 2h,"received, received, folds, does",,,,,,folded,0.0,zboiii
+5,80.0,7s,"has, received, received, folds, does",,,,,,folded,-1.0,mjj475
+9,40.0,4c 5h,"has, received, received, calls",Ks 7s Qd,checks,5s,"checks, folds, does",,folded,-4.0,gust
+6,70.68,Qs Ac,"has, received, received, calls",2s 4d Qd,"bets, mucks, mucks",,,,,16.65,IlxxxlI
+4,30.25,2h 2d,"received, received, calls, calls",7s 6s 10c,checks,Qd,"folds, does",,folded,-2.0,WeakAndWeary
+6,47.48,Ks Ad,"received, received, raises",Qc 3s Qd,bets,6d,checks,Kc,"bets, mucks",11.07,IlxxxlI
+9,40.0,4d 5h,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+5,80.0,3h 6c,"received, received, folds",Ac 3d 5c,,,,,,0.0,VegetablesArentYummy
+8,41.5,5d 6c,"received, received, folds",5c Kc Ad,,,,,,0.0,ElvenEyes
+5,80.0,4d Ah,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+5,30.25,9d 2d,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,47.98,6s 3c,"has, received, received, folds, does",,,,,,folded,-0.5,LloydXmas
+9,40.0,Kc 5d,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+8,41.5,5d Jd,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+8,40.0,Kd Jc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,48.98,6h 5c,"has, received, received, folds, does",,,,,,folded,-1.0,gust
+5,65.11,9h 2c,"received, received, folds, does",,,,,,folded,0.0,gust
+6,30.5,7c Qh,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+9,40.0,4h 8s,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+5,65.11,6h 4c,"received, received, folds",Jc 3d 4h,,,,,,0.0,gust
+6,48.98,9c 5h,"received, received, folds, does",,,,,,folded,0.0,gust
+9,40.0,6h 4d,"received, received, folds",3c Ad Kh,,,,,,0.0,thimk
+8,40.0,Ah 6s,"received, received, folds",5s 9d 6h,,4h,,,,0.0,VegetablesArentYummy
+5,65.61,4d 2h,"has, received, received, folds, does",,,,,,folded,-0.5,Sephiroth1
+6,21.5,7s,"has, received, received, checks",5d 7d Jd,checks,,bets,Ah,bets,9.0,IlxxxlI
+6,80.0,Ah Qs,"received, received, folds",Kd 7c Qc,,5s,,3h,,0.0,"VegetablesArentYummy, LloydXmas"
+6,47.48,Kc Qc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,69.18,Kc Jd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+8,40.0,9s Ad,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+8,40.0,7s Qd,"has, received, received, folds, does",,,,,,folded,-0.5,VegetablesArentYummy
+6,67.68,Ac Qh,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,47.48,5c Kd,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+6,94.13,Kd Qd,"has, received, received, raises, folds, does",,,,,,folded,-17.75,LloydXmas
+7,40.0,8h,"received, received, folds, does",,,,,,folded,0.0,hotshothotgg
+5,52.53,Qd 7d,"has, received, received, calls",Jc Qh 9d,checks,Qs,bets,7s,"bets, mucks",13.08,IlxxxlI
+8,42.5,4s 8s,"has, received, received, calls",Jc 9c 7d,"checks, folds, does",,,,folded,-2.5,VegetablesArentYummy
+6,93.13,6d,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+7,40.0,5h Ks,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+6,45.98,3s 3c,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,93.13,5h 6h,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+6,21.5,Qd 7d,"received, received, folds",Jh Qs 7c,,Kh,,9s,,0.0,WeakAndWeary
+6,52.53,7d Ks,"received, received, folds",9s 6d 8h,,,,,,0.0,gust
+6,93.13,6d,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+6,46.48,Jh 6h,"has, received, received, folds, does",,,,,,folded,-0.5,ElvenEyes
+6,52.53,Jc 6c,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,47.48,3s 9c,"has, received, received, folds, does",,,,,,folded,-1.0,ElvenEyes
+5,54.86,Ah Kc,"has, received, received, raises",As Kd Jd,bets,Jh,checks,Qh,checks,12.82,IlxxxlI
+6,21.5,3h 5s,"received, received, folds, does",,,,,,folded,0.0,BiGFck
+6,47.48,3h 2d,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+7,40.0,Kc Js,"has, received, received, calls",5d Jd 10c,"bets, allin",Ah,,4s,,-40.0,hotshothotgg
+6,49.35,9h Qs,"received, received, raises",Kh Qc 9s,"bets, mucks, mucks",,,,,3.18,IlxxxlI
+6,93.13,3h Qc,"received, received, folds",9s 3d 8d,,,,,,0.0,IbetUmuck
+5,48.9,Ah 9c,"has, received, received, calls",5d 9d Ks,checks,Jh,checks,Kd,bets,5.96,IlxxxlI
+6,93.13,2c Qh,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+7,40.0,Qc 7s,"has, received, received, folds, does",,,,,,folded,-2.0,thimk
+6,20.75,9h 7h,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,49.85,2d Ks,"has, received, received, folds, does",,,,,,folded,-0.5,Sephiroth1
+5,48.9,Jh 4h,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+6,47.48,Ks 3s,"received, received, folds",4s Js 9d,,Qs,,8h,,0.0,Sephiroth1
+7,40.0,5s 7h,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+8,42.5,8d 5h,"received, received, folds",3h 7h Jh,,5c,,9c,,0.0,dankmann
+6,50.85,3h 5s,"has, received, received, folds, does",,,,,,folded,-1.0,ElvenEyes
+6,20.75,8h Jd,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,84.35,7c 5c,"has, received, received, raises",Jd 3h 7d,"checks, calls",5d,"bets, mucks, mucks",,,8.78,IlxxxlI
+6,47.48,6s 5h,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+7,40.0,2d Jh,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+8,41.0,Qc Ac,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,48.9,As 4c,"received, received, folds",9h 7d 8h,,,,,,0.0,Beep_Beep
+6,50.85,8h 5d,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+8,41.0,4d 3h,"received, received, folds, does",,,,,,folded,0.0,gust
+6,86.35,5c 3d,"has, received, received, folds, does",,,,,,folded,-2.0,LloydXmas
+6,21.0,8h,"has, received, received, folds, does",,,,,,folded,-0.25,imger8
+6,43.4,Jh Jc,"received, received, raises, mucks, mucks",,,,,,,4.08,IlxxxlI
+8,41.0,6s,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,43.9,5d Kh,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+6,49.35,Jc Kc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,48.9,Qd 6h,"received, received, folds",7s 5s Qs,,5c,,,,0.0,Sephiroth1
+8,41.0,Js 3h,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+6,44.9,6s 2c,"has, received, received, folds, does",,,,,,folded,-1.0,ElvenEyes
+8,40.0,2s Jh,"received, received, folds",Kd Qh 10d,,8s,,,,0.0,VegetablesArentYummy
+6,21.5,3h 7d,"has, received, received, folds",5d 5s 10c,,Js,,8h,,-0.5,foreseen
+8,40.0,Qh 2h,"received, received, folds, does",,,,,,folded,0.0,hotshothotgg
+6,49.35,2s,"received, received, folds",10h 7h 6s,,,,,,0.0,WeakAndWeary
+6,44.9,5c 9c,"received, received, folds, does",,,,,,folded,0.0,gust
+6,86.35,4d Qd,"received, received, folds",5h 7c 10s,,3c,,2s,,0.0,LloydXmas
+5,45.7,Ah As,"has, received, received, calls",9h Kh 5c,checks,3h,"bets, mucks, mucks",,,3.2,IlxxxlI
+6,47.85,8s Js,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+8,41.0,Js 9s,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+6,86.35,Qc Jh,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+6,48.35,Qd 6h,"has, received, received, folds, does",,,,,,folded,-0.5,MadLifeGrinder
+6,44.9,Qs 6d,"received, received, folds",Kd 5c 10d,,2s,,,,0.0,Sephiroth1
+8,40.0,4d 5h,"received, received, folds",Qc 7h 8h,,,,,,0.0,thimk
+6,21.5,9s Kd,"received, received, folds",10c 4c 2d,,3h,,,,0.0,WeakAndWeary
+6,86.35,9h Qd,"received, received, folds",Kh Ah Qs,,,,,,0.0,VegetablesArentYummy
+5,43.0,9c,"has, received, received, calls",8h As Ad,checks,9h,"bets, mucks, mucks",,,2.7,IlxxxlI
+6,43.4,4d 4s,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,42.23,Js,"has, received, received, calls",Kd 7c 10s,checks,Jc,"raises, mucks, mucks",,,6.12,IlxxxlI
+8,40.0,5d 4s,"has, received, received, folds, does",,,,,,folded,-1.0,gust
+5,41.5,Kd Qh,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+8,41.5,9c,"has, received, received, folds",5s 9h Ah,,Jd,,,,-0.5,gust
+6,80.0,Qd Ac,"received, received, raises",As Qc 5s,"bets, mucks, mucks",,,,,6.35,IlxxxlI
+6,43.4,8c,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+5,41.5,3d,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,80.0,6c Kd,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+8,40.0,Kd 2s,"has, received, received, folds, does",,,,,,folded,-2.0,VegetablesArentYummy
+6,42.23,5d Qd,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,21.5,Jc 5h,"received, received, folds",8d Qs 4h,,,,,,0.0,imger8
+8,40.0,8h Ac,"received, received, folds, does",,,,,,folded,0.0,thimk
+6,80.0,6s,"has, received, received, folds, does",,,,,,folded,-2.0,LloydXmas
+5,40.0,Ah As,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+8,43.5,Qd,"has, received, received, calls",6s 3s 8h,"checks, folds, does",,,,folded,-2.0,gust
+6,21.5,3h 7h,"received, received, folds, does",,,,,,folded,0.0,imger8
+6,80.0,Qc,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,43.9,2d,"has, received, received, folds",Qd Ac 5d,,As,,,,-0.5,ElvenEyes
+5,40.0,Qd 3c,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+3,22.57,Kd,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,21.5,2d 4h,"received, received, folds, does",,,,,,folded,0.0,imger8
+6,42.23,Js 3s,"received, received, folds",4c Kd Qh,,3c,,3d,,0.0,MadLifeGrinder
+5,41.5,9c 6c,"has, received, received, calls",7c 10c 3d,"checks, raises, allin",Jh,,3c,,-41.5,Sephiroth1
+8,43.5,Qd,"received, received, folds",Js Qh 2d,,8c,,5c,,0.0,ElvenEyes
+5,41.5,9d Ac,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+6,21.75,4c,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,43.0,9h Js,"has, received, received, checks",Ac Ad 2h,"bets, mucks, mucks",,,,,0.9,IlxxxlI
+8,40.0,Ks,"received, received, folds",4h 9c 2h,,2d,,,,0.0,actionjax24
+6,41.5,Qh Jh,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,80.0,3s 4s,"received, received, folds",4h Kd 5s,,6s,,Qc,,0.0,MadLifeGrinder
+5,41.5,3c Jh,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+3,20.15,Js Ks,"has, received, received, calls",Qd 6h Qs,"checks, raises, mucks, mucks",,,,,2.42,IlxxxlI
+6,41.5,7c Jd,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+4,20.15,3h 6h,"received, received, folds, does",,,,,,folded,0.0,Jui
+8,43.5,7c 9s,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+6,40.0,As Jh,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,22.25,7c,"has, received, received, folds",5c Ks 4d,,5d,,8d,,-0.5,BiGFck
+6,80.0,7d Qc,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+6,42.23,5h 4d,"received, received, folds",Qd 3d 2s,,As,,6h,,0.0,WeakAndWeary
+8,43.5,Kh 6c,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+9,40.0,Ac 2h,"received, received, folds",4s 3d 4d,,,,,,0.0,VegetablesArentYummy
+4,20.15,2d 9h,"received, received, folds, does",,,,,,folded,0.0,Jui
+6,41.5,Kc 7s,"received, received, folds",2d 8h 10c,,8d,,6c,,0.0,ElvenEyes
+8,43.5,3h,"received, received, folds, does",,,,,,folded,0.0,zboiii
+4,20.4,8h 3c,"has, received, received, folds, does",,,,,,folded,-0.25,Parcker
+6,42.23,7h Qd,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+6,26.73,8h 2h,"received, received, folds",Qc 4c 10d,,7s,,8c,,0.0,xROCKETMANx
+6,22.25,4c 7d,"received, received, folds",6d 3d 8c,,,,,,0.0,WeakAndWeary
+6,40.0,Jh Kh,"has, received, received, raises",3d 3c 8h,bets,,checks,4d,"checks, mucks",-8.74,Sephiroth1
+6,40.0,Qc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+4,20.9,Jh Qs,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+6,81.55,9h Qs,"received, received, raises",Jh 5s 2h,"bets, folds, does",,,,folded,-12.42,DonCesarGrinder
+5,40.0,4c,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+8,43.5,3d 4h,"received, received, folds, does",,,,,,folded,0.0,gust
+6,42.73,4d Kh,"has, received, received, folds, does",,,,,,folded,-0.5,Sephiroth1
+4,20.9,5d Js,"received, received, folds, does",,,,,,folded,0.0,Parcker
+6,82.55,3h 9d,"has, received, received, folds, does",,,,,,folded,-1.0,LloydXmas
+5,40.0,Qs 8s,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,40.0,9c 8s,"has, received, received, folds, does",,,,,,folded,-0.5,Sephiroth1
+9,40.0,Kc,"received, received, folds",4c 10s 9s,,8c,,4s,,0.0,thimk
+6,22.52,Qc Ah,"received, received, calls",Kc Jc Ac,calls,8h,"bets, mucks, mucks",,,4.21,IlxxxlI
+6,22.25,3h 5d,"received, received, folds",9c As Kh,,8c,,,,0.0,IampokerKidd
+8,43.5,4h 6c,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+4,20.9,8s 3c,"received, received, folds, does",,,,,,folded,0.0,Parcker
+6,22.25,2c 6h,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+5,40.0,4d 6c,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+6,40.0,8c Ad,"has, received, received, calls",8h 6s Jd,checks,5c,"bets, mucks, mucks",,,2.73,IlxxxlI
+6,40.0,Qd,"has, received, received, folds, does",,,,,,folded,-1.0,LloydXmas
+8,44.0,2c 9s,"has, received, received, folds, does",,,,,,folded,-0.5,dankmann
+5,40.0,4s 9c,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+3,20.9,6c 9h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,40.0,8s Jc,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+9,40.0,Qc 5s,"received, received, folds",Kh Jc 4s,,7h,,,,0.0,hotshothotgg
+6,20.0,Qh Qd,"received, received, raises, mucks, mucks",,,,,,,2.25,IlxxxlI
+6,40.0,9h Jd,"received, received, folds",6d 2h 2c,,,,,,0.0,Sephiroth1
+8,41.5,Jc Js,"has, received, received, raises, mucks, mucks",,,,,,,2.5,IlxxxlI
+6,84.55,3h 8c,"has, received, received, folds",3c 8d 6s,,9d,,Jc,,-2.0,LloydXmas
+8,41.5,9c 6s,"received, received, folds, does",,,,,,folded,0.0,zboiii
+6,20.0,Qs,"received, received, raises",2s 2h 3d,bets,7c,checks,Jc,checks,2.52,IlxxxlI
+6,20.25,4c 9d,"has, received, received, folds, does",,,,,,folded,-0.25,imger8
+6,84.55,Qh 6s,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+3,20.0,6c 9c,"has, received, received, calls",Qc 10d Ad,bets,8d,checks,7s,"bets, mucks",0.9,IlxxxlI
+9,40.0,Kd 3c,"received, received, folds, does",,,,,,folded,0.0,pineapplesand
+6,40.0,2h,"received, received, folds",Qs 4s 7s,,Ks,,,,0.0,MadLifeGrinder
+6,40.0,4d Js,"received, received, folds",9d 7h 4c,,Kh,,,,0.0,LloydXmas
+6,20.75,9d 8c,"has, received, received, folds, does",,,,,,folded,-0.5,foreseen
+8,41.5,3d 3c,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+5,40.0,7s,"has, received, received, folds",Qh 8s 2h,,5h,,Ac,,-0.5,Beep_Beep
+6,20.0,Qs,"has, received, received, folds",3s 5d 2h,,,,,,-0.25,xROCKETMANx
+6,40.0,8h,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+5,40.0,3c 5s,"has, received, received, folds, does",,,,,,folded,-1.0,Sephiroth1
+6,84.55,2h 3d,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+6,40.0,9h,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,40.0,9s 4s,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,40.0,7s,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+5,84.55,5d Kc,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+8,41.5,3c Jh,"received, received, folds",8s 6h Jd,,9c,,,,0.0,StephCurry
+5,40.0,2c 7h,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,20.0,Ks 3h,"has, received, received, folds",8s 2s 3s,,,,,,-0.5,xROCKETMANx
+5,84.55,9s Qc,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+5,40.0,8s Jc,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+6,20.75,9d 7h,"received, received, folds",2s 3c Qd,,Ah,,6h,,0.0,WeakAndWeary
+8,40.0,Jh Kd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,85.55,Jc 4c,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+6,40.5,Ac,"has, received, received, folds, does",,,,,,folded,-0.5,ElvenEyes
+5,84.55,9c 3h,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+5,40.0,Ks 3s,"has, received, received, calls",10c 8h 9d,"checks, folds, does",,,,folded,-1.0,WeakAndWeary
+5,40.0,7d,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+3,20.0,Js,"has, received, received, calls",5h 7h Jd,raises,As,checks,6d,"calls, mucks",-14.32,foreseen
+9,40.0,8c Ks,"has, received, received, folds",2s 6c 4d,,4s,,,,-1.0,VegetablesArentYummy
+5,40.0,5c 6h,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+6,20.75,4c 2c,"received, received, folds, does",,,,,,folded,0.0,IampokerKidd
+5,40.0,8h,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+5,40.0,4c,"has, received, received, folds, does",,,,,,folded,-1.0,Beep_Beep
+6,20.0,Ks Jh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+8,40.0,2d 7d,"received, received, folds",Qd 8d 9s,,5h,,2s,,0.0,zboiii
+8,46.0,As Ac,"has, received, received, allin",7d 7c Jc,,8s,,6d,,-6.9,"BiGFck, IlxxxlI"
+5,84.55,9c 5s,"received, received, folds",3d Kh Jc,,Qd,,9s,,0.0,VegetablesArentYummy
+6,20.0,6c 7d,"received, received, folds, does",,,,,,folded,0.0,BiGFck
+5,40.64,Qd,"has, received, received, folds",8s 2d 6d,,6c,,,,-1.0,LloydXmas
+8,46.0,3s 2h,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+5,84.55,Jh Ks,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,20.25,Kd 3h,"has, received, received, folds, does",,,,,,folded,-0.25,imger8
+2,40.0,2d Jd,"has, received, received, calls",3h 5s Qs,bets,,checks,2c,"checks, mucks",-2.0,Sephiroth1
+6,40.64,3s 6s,"received, received, folds, does",,,,,,folded,0.0,ElvenEyes
+5,80.0,4h Ac,"received, received, raises",7c 7h 4d,"bets, mucks, mucks",,,,,4.55,IlxxxlI
+2,40.0,2c 8d,"has, received, received, folds, does",,,,,,folded,-1.0,Sephiroth1
+8,46.0,7c,"received, received, folds, does",,,,,,folded,0.0,BiGFck
+6,20.0,4c Kd,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+8,40.0,9c 7d,"received, received, folds",3d 10c Jh,,6h,,4h,,0.0,"gust, dankmann"
+6,20.0,Jh 7d,"received, received, folds, does",,,,,,folded,0.0,imger8
+8,46.0,As 4d,"received, received, folds",10s 10h Kc,,Kh,,,,0.0,actionjax24
+8,40.0,9c Qc,"has, received, received, folds, does",,,,,,folded,-0.5,dankmann
+6,80.0,8d 9s,"has, received, received, calls",7d 5c Js,bets,4h,"checks, folds, does",,folded,-4.0,IbetUmuck
+8,43.0,Kc Kd,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+6,20.0,9d Jh,"received, received, folds",Qh Kc 3s,,,,,,0.0,imger8
+6,42.64,7c Ac,"received, received, raises",5s 2d Js,checks,9h,checks,,"folds, folded",-2.0,WeakAndWeary
+8,40.0,Ah Qh,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+6,80.0,Qs,"has, received, received, folds, does",,,,,,folded,-2.0,MadLifeGrinder
+6,20.0,6h 4s,"received, received, folds, does",,,,,,folded,0.0,imger8
+9,40.0,8d Js,"received, received, folds",6d 5h 9s,,Ah,,4s,,0.0,ElvenEyes
+8,40.0,3c,"received, received, folds",2d 2s 7d,,,,,,0.0,hotshothotgg
+6,40.0,7h Ah,"received, received, raises",9s 6c 9d,"bets, mucks, mucks",,,,,2.64,IlxxxlI
+6,20.0,5h 2d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,40.0,9d 3d,"received, received, folds, does",,,,,,folded,0.0,gust
+6,20.0,Qs 5c,"has, received, received, folds, does",,,,,,folded,-0.25,WeakAndWeary
+8,40.0,Jd,"has, received, received, calls",Qs 2c Ac,"checks, folds, does",,,,folded,-6.0,actionjax24
+8,40.0,9h 8c,"received, received, folds",4s 7c 5d,,6h,,Kc,,0.0,pineapplesand
+6,20.0,2c 6s,"has, received, received, folds, does",,,,,,folded,-0.5,IampokerKidd
+7,40.0,8d Jc,"received, received, folds, does",,,,,,folded,0.0,gust
+6,40.0,Qc,"has, received, received, raises",9c 2c 5h,bets,3s,bets,4c,"checks, folds, folded",-7.66,WeakAndWeary
+6,40.04,2h Ah,"received, received, raises, folds",5c Qd 10d,,Ac,,4d,,-2.0,zboiii
+6,40.0,Qd 2c,"has, received, received, folds, does",,,,,,folded,-1.0,WeakAndWeary
+6,40.04,4d 6c,"received, received, folds, does",,,,,,folded,0.0,dankmann
+6,40.04,7h 9h,"received, received, folds",7d 8d Jc,,8s,,5c,,0.0,zboiii
+5,42.04,5c Ah,"received, received, raises, folds, does",,,,,,folded,-2.0,VegetablesArentYummy
+4,40.0,8d 7s,"has, received, received, calls",10s 10c 2c,bets,9s,"bets, mucks, mucks",,,2.04,IlxxxlI
+4,40.0,2h 9h,"has, received, received, folds, does",,,,,,folded,-1.0,dankmann
+5,40.0,8h 3h,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+5,40.0,7d 4s,"received, received, folds, does",,,,,,folded,0.0,AironVega
+8,40.0,7d 3d,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+8,40.0,Jh 6c,"received, received, folds, does",,,,,,folded,0.0,zboiii
+6,40.0,As,"has, received, received, raises",10c 7h Kh,"checks, calls",2s,"checks, calls",7d,"checks, allin",-40.0,quant_theo
+4,10.0,8d Kc,"received, received, folds",Ks 5s 7h,,8c,,5d,,0.0,"Ball, anabeliangrape"
+6,40.0,Qd 2d,"has, received, received, folds, does",,,,,,folded,-1.0,WeakAndWeary
+6,25.17,6d 8h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+4,10.0,7d 4c,"received, received, folds, does",,,,,,folded,0.0,anabeliangrape
+6,25.17,Qd 3h,"received, received, folds",5d Kd 2h,,,,,,0.0,foreseen
+6,20.0,6s 7h,"received, received, folds",3h 7c Ks,,2c,,,,0.0,flyshark01
+6,40.0,Kc 2h,"received, received, folds",9d 8s 2s,,9s,,Qc,,0.0,CrimZnole
+8,40.0,9h,"received, received, folds",5h 4c 2d,,,,,,0.0,zboiii
+6,40.0,9d 8s,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+4,10.0,5c Kc,"received, received, folds",As Qd 2d,,Qh,,,,0.0,Ball
+6,20.0,Kc,"received, received, folds, does",,,,,,folded,0.0,fishinwithbobbo
+6,20.0,4s 9h,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+6,40.0,Kd 4c,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+6,25.17,5h 7c,"received, received, folds",8h 8s Ks,,Jd,,4s,,0.0,foreseen
+6,20.0,Kh Ad,"has, received, received, raises, allin",9h Qs 4s,,As,,4c,,-0.76,"xROCKETMANx, IlxxxlI"
+4,10.0,5c,"has, received, received, folds",Ah Qc 10c,,4c,,6d,,-0.25,Hakuna_Matata777
+6,40.0,9c 3s,"has, received, received, folds, does",,,,,,folded,-0.5,bunnyfox2t
+8,40.0,3s 4h,"received, received, folds",4d Kh 5d,,,,Kd,,0.0,Pla2Par
+6,20.45,2s 5s,"has, received, received, calls",Jd Kd Qh,"folds, does",,,,folded,-1.5,xROCKETMANx
+7,40.0,8c 5h,"has, received, received, folds, does",,,,,,folded,-0.5,VegetablesArentYummy
+6,20.45,4d 9s,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+4,10.0,5s,"has, received, received, folds",2c 7d 10h,,9c,,7h,,-0.5,Ball
+6,23.34,8h 8c,"has, received, received, calls",8d Kh 2h,checks,5d,"bets, mucks, mucks",,,1.83,IlxxxlI
+6,20.5,4s 3d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,40.0,5s 9s,"has, received, received, folds",7d 9c Qd,,,,,,-1.0,AironVega
+7,40.0,Jd 3d,"has, received, received, folds, does",,,,,,folded,-1.0,AironVega
+5,20.75,6d Kd,"has, received, received, calls",8h 10c 5d,"checks, raises, mucks, mucks",,,,,2.59,IlxxxlI
+4,10.0,8s 2s,"received, received, folds",2h 6s 8d,,6c,,4c,,0.0,PokerBrat1127
+3,43.0,Ac 3c,"has, received, received, allin, mucks, mucks",,,,,,,6.0,IlxxxlI
+6,61.87,7c 5d,"received, received, folds, does",,,,,,folded,0.0,bunnyfox2t
+6,20.5,8d 2c,"received, received, folds",2h 6s 3h,,6d,,6h,,0.0,BHawk12
+6,20.45,2h 6d,"received, received, folds",Kc 2d 7c,,3h,,3s,,0.0,foreseen
+3,10.0,9d 6d,"received, received, folds, does",,,,,,folded,0.0,anabeliangrape
+6,20.75,8s Qs,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+3,44.0,Jd 8d,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+5,20.5,Ks 6h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,40.0,7h 4c,"received, received, folds",Qc 8h 2c,,Kd,,,,0.0,CrimZnole
+3,43.0,6c 2c,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+6,20.45,8c,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,20.0,Qd Kc,"has, received, received, raises, mucks, mucks",,,,,,,0.5,IlxxxlI
+6,40.0,7h 9h,"received, received, folds, does",,,,,,folded,0.0,CrimZnole
+3,40.0,8d 8c,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+3,40.0,8h 5s,"has, received, received, folds, does",,,,,,folded,-1.0,AironVega
+3,10.0,9d 5c,"received, received, folds",Js 4c 2h,,,,,,0.0,Jui
+5,20.0,6d 2s,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+6,40.0,6c,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+3,40.0,8h 3d,"has, received, received, folds, does",,,,,,folded,-2.0,AironVega
+6,20.45,9c Qh,"received, received, folds",3s Jd Ah,,Ac,,Ks,,0.0,fishinwithbobbo
+5,20.75,5h Qd,"received, received, folds",3h Qs 2d,,4c,,3c,,0.0,WeakAndWeary
+6,40.0,7h 5d,"received, received, folds, does",,,,,,folded,0.0,Doubletwentyone
+6,49.5,Qs,"received, received, raises, calls",Ks 5d 2c,"checks, calls",5s,"checks, allin, mucks, mucks",,,12.37,IlxxxlI
+3,10.0,4h 3c,"received, received, folds",Qh 8d 7c,,Ks,,,,0.0,Jui
+6,40.0,3c Kc,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+6,20.0,Kd,"has, received, received, calls",8h 7h 8c,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+6,49.5,9s 6s,"received, received, folds, does",,,,,,folded,0.0,ThxBro
+5,20.0,Jc Jh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,20.0,Qh 2s,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+5,20.0,6d 8c,"received, received, folds",Jd Kd 9d,,4d,,,,0.0,foreseen
+3,10.0,Qc 7h,"has, received, received, folds, does",,,,,,folded,-0.25,anabeliangrape
+6,50.0,3d Ah,"has, received, received, folds, does",,,,,,folded,-0.5,rook_
+5,20.0,Jc Kd,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+4,40.0,7s,"received, received, folds",7c 9d 10c,,3s,,8h,,0.0,VegetablesArentYummy
+3,10.0,Jd 6s,"has, received, received, folds, does",,,,,,folded,-0.5,PokerBrat1127
+6,20.0,7c Qd,"has, received, received, is, folds, does",,,,,,folded,-0.25,foreseen
+5,40.0,Jh 7s,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+6,40.0,As Kh,"has, received, received, allin, mucks, mucks",,,,,,,10.0,IlxxxlI
+5,40.0,7c 2d,"has, received, received, folds, does",,,,,,folded,-2.0,AironVega
+5,20.0,8s,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,41.5,Ac,"has, received, received, raises",3h 4h 5c,bets,4c,checks,2c,allin,-41.5,CrimZnole
+5,40.0,9c Qc,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+3,10.0,Ks 9d,"received, received, folds",Qs 10c 4d,,4h,,,,0.0,Ball
+3,10.0,8c 7h,"received, received, folds, does",,,,,,folded,0.0,PokerBrat1127
+5,40.0,6d Jh,"received, received, folds, does",,,,,,folded,0.0,Doubletwentyone
+5,20.0,2d,"has, received, received, folds",3s 5h 2s,,,,,,-0.25,Doubletwentyone
+6,20.0,Qc 7d,"has, received, received, folds",9c Qs 5s,,8c,,6s,,-0.5,IampokerKidd
+5,20.0,5d 8h,"has, received, received, folds, does",,,,,,folded,-0.5,Doubletwentyone
+3,10.0,Qd Qc,"received, received, raises",5h Kc 10s,checks,8s,calls,9s,"folds, folded",-2.92,anabeliangrape
+3,10.0,8h 6s,"has, received, received, folds",Qs As 7s,,,,,,-0.25,anabeliangrape
+6,40.0,Qd Qh,"received, received, raises",8h 3d 6d,bets,Ac,checks,9s,"calls, mucks",-10.03,Doubletwentyone
+2,10.0,Qh 7s,"has, received, received, folds, does",,,,,,folded,-0.5,Ball
+2,10.0,Jd,"received, received, folds, does",,,,,,folded,0.0,Ball
+6,40.0,7s 4d,"received, received, folds, does",,,,,,folded,0.0,AironVega
+2,10.0,Ad,"received, received, folds, does",,,,,,folded,0.0,PokerBrat1127
+2,10.25,Kc 5h,"has, received, received, folds, does",,,,,,folded,-0.25,PokerBrat1127
+6,40.0,3c Kh,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+6,40.0,5h,"has, received, received, folds, does",,,,,,folded,-1.0,CrimZnole
+8,40.0,Jc Ah,"received, received, raises",6s Qh Qs,"bets, mucks, mucks",,,,,4.55,IlxxxlI
+8,40.0,Qh 4h,"received, received, folds, does",,,,,,folded,0.0,ShawnFrie
+8,40.0,6h,"received, received, folds, does",,,,,,folded,0.0,gust
+6,80.0,9d 6s,"received, received, folds, does",,,,,,folded,0.0,Pimpika
+7,40.0,5c 2h,"received, received, folds, does",,,,,,folded,0.0,actionjax24
+5,22.0,2d 4c,"received, received, folds, does",,,,,,folded,0.0,Abundance4All
+5,22.0,Ad As,"received, received, raises",10h 9d 2s,bets,7s,"bets, allin",2d,,21.18,IlxxxlI
+7,40.0,6d 2s,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,80.0,Kc,"received, received, raises",Jh 7d 7h,"folds, does",,,,folded,-4.8,SCking
+5,22.0,7c 6s,"received, received, folds, does",,,,,,folded,0.0,Abundance4All
+5,20.0,Kc,"received, received, raises, mucks, mucks",,,,,,,2.0,IlxxxlI
+5,41.38,Qs 6c,"received, received, folds",4d 10d 3d,,4s,,Ks,,0.0,"TTSO, MadLifeGrinder"
+4,41.38,2c 8h,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+7,40.0,Kd 3s,"received, received, folds",4c 9d 10c,,2d,,6s,,0.0,ShawnFrie
+5,22.0,5h 9c,"received, received, folds, does",,,,,,folded,0.0,foreseen
+4,20.0,Jh 9d,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,80.0,7h Ks,"received, received, folds",9c Qd 6c,,,,,,0.0,KingGuciGuci
+7,40.0,2c 6d,"has, received, received, folds",2h 4c 3h,,,,,,-1.0,actionjax24
+2,40.5,4d 9d,"has, received, received, calls",5h Qc 4s,checks,Ac,checks,Kd,"checks, mucks",-2.0,WeakAndWeary
+6,80.0,Jh 7s,"has, received, received, folds, does",,,,,,folded,-1.0,Pimpika
+5,24.19,Kc 6d,"received, received, folds",4c Jh As,,9h,,8c,,0.0,foreseen
+5,24.19,Kh 6d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+3,40.0,9d Jd,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+4,20.0,8c 6c,"has, received, received, calls",3d 8s 10d,calls,9c,checks,Kh,"checks, mucks",-3.98,foreseen
+4,40.0,2d 3d,"received, received, calls",Js 5c 9c,"bets, mucks, mucks",,,,,1.38,IlxxxlI
+5,22.25,3d Ah,"has, received, received, folds",Ac 8d 7c,,6h,,Kd,,-0.25,xROCKETMANx
+5,60.13,5d 3h,"received, received, folds",6d 5h Qs,,9c,,3c,,0.0,LloydXmas
+4,20.0,2d Ah,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,22.0,Qd 3s,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,80.0,Js Kh,"has, received, received, calls",4s 2s 2h,"checks, folds, does",,,,folded,-8.0,SCking
+4,24.19,8c Qs,"received, received, folds",7d 7s 7h,,6s,,,,0.0,foreseen
+5,21.25,Ad Ks,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+8,40.0,9s 5s,"has, received, received, folds",6h 4s Ks,,,,,,-2.0,Pimpika
+5,60.13,8h 5h,"received, received, folds, does",,,,,,folded,0.0,Im
+5,40.0,Qc Ks,"has, received, received, raises",Ah Qh 5s,"checks, calls",Jc,"checks, folds, does",,folded,-12.18,WeakAndWeary
+4,20.5,5s 5d,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+4,24.19,7h Jh,"received, received, folds",7c 4c 9c,,Kh,,Js,,0.0,violin2
+5,40.0,Kc 8h,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+5,40.0,3d Js,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+4,24.44,Qh 5h,"has, received, received, folds, does",,,,,,folded,-0.25,Jui
+5,49.28,Jh As,"received, received, raises, calls",Js 7d Kc,checks,7h,checks,8d,"bets, mucks",10.85,IlxxxlI
+4,20.0,5c 7c,"received, received, calls, calls",5s Ks 8d,checks,8h,checks,Ad,"checks, mucks",-1.75,WeakAndWeary
+5,40.0,6s 2h,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+4,20.5,9h 6s,"received, received, folds",8h 5c 6h,,7h,,,,0.0,GagaPoker
+5,40.0,Jc 2d,"received, received, folds, does",,,,,,folded,0.0,gust
+5,47.03,Kd,"has, received, received, raises",6s Qd 6h,"bets, mucks, mucks",,,,,2.25,IlxxxlI
+6,38.48,7h 6s,"received, received, folds, does",,,,,,folded,0.0,FLDnLIVE2FLDagn
+4,20.0,9h 8h,"has, received, received, folds, does",,,,,,folded,-0.25,Beep_Beep
+5,40.0,3d 9s,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+4,20.0,Ah Qh,"has, received, received, raises, mucks, mucks",,,,,,,0.5,IlxxxlI
+4,20.0,8d 5d,"has, received, received, calls",8c Kd 9h,checks,8h,bets,4d,"bets, mucks",4.44,IlxxxlI
+6,38.48,4s 3c,"received, received, folds",Js 6h 9s,,3s,,Ah,,0.0,QDevilQ
+4,20.0,6d,"has, received, received, folds, does",,,,,,folded,-0.5,foreseen
+4,20.0,4c 9s,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+4,20.0,4d As,"received, received, folds",8c 2c 4c,,,,,,0.0,violin2
+5,48.03,Ac 8d,"has, received, received, folds",Jd Kc 4c,,5s,,Kd,,-1.0,Sephiroth1
+4,20.0,7c 2s,"received, received, folds, does",,,,,,folded,0.0,GagaPoker
+4,20.0,2c 5s,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+6,20.0,Ks Kc,"has, received, received, raises, allin",2h 10s Kd,,As,,7c,,18.48,IlxxxlI
+4,20.0,8c 4d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+3,42.16,6s,"received, received, folds, does",,,,,,folded,0.0,Keggston99
+4,20.25,Kh 7d,"has, received, received, folds, does",,,,,,folded,-0.25,Abundance4All
+5,20.0,Qh Kc,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,20.0,7d 7s,"received, received, raises",Ad Ah 3s,"is, checks",5c,"folds, does",,folded,-1.2,violin2
+5,20.0,Qs 4s,"has, received, received, calls",8c 9s 9c,raises,Jc,checks,Jh,"folds, folded",-4.67,MirrorZrorriM
+5,40.0,Jd,"has, received, received, calls",4s Jc 4d,"checks, calls",6d,"checks, calls",7s,"checks, folds, folded",-16.0,Beep_Beep
+2,44.16,7d 2d,"has, received, received, calls",10c Kd 4s,"checks, folds, does",,,,folded,-2.0,WeakAndWeary
+5,80.0,Kc 9c,"received, received, raises",Kd 8c 6d,calls,7s,"bets, calls",3c,calls,51.65,IlxxxlI
+4,20.0,7h 6h,"received, received, calls, folds, does",,,,,,folded,-0.5,GagaPoker
+4,20.65,Jd Kc,"received, received, raises, calls",8h 4d 3s,"folds, does",,,,folded,-5.0,Beep_Beep
+4,20.0,8h 3d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,20.0,3h Kc,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,20.0,Jd Qc,"received, received, folds, does",,,,,,folded,0.0,FLDnLIVE2FLDagn
+4,20.9,5c 8h,"has, received, received, folds, does",,,,,,folded,-0.25,Beep_Beep
+5,48.03,7s Kd,"received, received, folds",Qc 8c 4h,,7h,,9h,,0.0,Im
+5,40.0,8s Ac,"received, received, folds",3d 3s 4s,,,,,,0.0,gust
+6,80.0,4d 9d,"received, received, folds",10d 10s 9c,,Qd,,2c,,0.0,"bfish602, IbetUmuck"
+4,20.0,5s 7c,"has, received, received, folds, does",,,,,,folded,-0.25,violin2
+2,40.0,5d 8d,"has, received, received, calls",3d Kd Kh,bets,3h,bets,9d,checks,4.16,IlxxxlI
+5,48.03,4s Ah,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,80.0,8h 6d,"has, received, received, folds, does",,,,,,folded,-1.0,IbetUmuck
+6,40.0,2h 4s,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+6,20.0,Kd 4c,"has, received, received, checks",Ad 4h 7d,calls,2d,checks,3d,"bets, mucks",0.9,IlxxxlI
+3,40.0,3c 4c,"has, received, received, calls, folds, does",,,,,,folded,-1.0,WeakAndWeary
+5,20.0,Ac,"has, received, received, raises",3h 7d Ah,"checks, calls",5h,"checks, folds, does",,folded,-5.87,xROCKETMANx
+5,20.0,9s Qd,"received, received, folds",Kh 4h 7d,,4c,,2c,,0.0,QDevilQ
+6,80.0,2h,"has, received, received, folds, does",,,,,,folded,-2.0,MadLifeGrinder
+5,48.03,4h Ad,"received, received, folds, does",,,,,,folded,0.0,Sephiroth1
+5,20.0,5s 3d,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+3,40.0,2d 8s,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+6,80.0,7h 4c,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+4,48.03,7s 2s,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+6,40.0,Jc 5s,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+4,40.0,Qd 6s,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,20.0,Jc 3d,"has, received, received, folds, does",,,,,,folded,-0.5,xROCKETMANx
+3,20.0,3d As,"has, received, received, folds",7s 8c Qd,,,,,,-0.25,MirrorZrorriM
+4,48.53,7c 3s,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+6,80.0,5c Ac,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+5,20.0,2c,"received, received, folds",Qc Ad 5d,,3c,,9c,,0.0,violin2
+6,40.0,Qc 7h,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+4,40.0,Ks 8c,"has, received, received, folds, does",,,,,,folded,-0.5,gust
+6,80.0,Kh 7c,"received, received, folds, does",,,,,,folded,0.0,KingGuciGuci
+3,20.0,3h 6h,"has, received, received, folds",6c 5d 5h,,,,,,-0.5,constant
+5,20.0,Kc 2h,"received, received, folds, does",,,,,,folded,0.0,violin2
+5,20.0,Qd 7s,"received, received, folds, does",,,,,,folded,0.0,GagaPoker
+6,40.0,2d,"has, received, received, folds, does",,,,,,folded,-1.0,meandkids
+4,20.0,Jh 7d,"received, received, is, folds, does",,,,,,folded,0.0,QDevilQ
+5,40.0,5s,"has, received, received, folds, does",,,,,,folded,-1.0,Im
+5,20.0,7d,"received, received, folds",Jh Qs 8d,,,,,,0.0,xROCKETMANx
+4,20.0,4s 8s,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+5,20.0,3c Kc,"received, received, folds",As 8d Jc,,,,,,0.0,foreseen
+6,40.0,Ah 9h,"received, received, raises, folds",6h 7s 3h,,Jc,,3s,,-3.5,Beep_Beep
+5,20.0,Kc,"received, received, folds, does",,,,,,folded,0.0,xROCKETMANx
+5,40.0,5d Kh,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+4,49.53,5d 4c,"has, received, received, folds",Qh Ad 7d,,Qs,,,,-1.0,LloydXmas
+4,20.0,6h,"received, received, calls",2h Ac Qs,"folds, does",,,,folded,-0.5,constant
+4,20.0,4d 8c,"has, received, received, folds, does",,,,,,folded,-0.25,constant
+5,48.03,Qd Qs,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,86.67,Kd 6d,"received, received, raises",10d Qc 4d,"bets, calls",6s,"folds, does",,folded,-26.0,LazyFish
+5,20.0,4c Qs,"has, received, received, folds, does",,,,,,folded,-0.25,Abundance4All
+5,40.0,2c 6h,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+5,48.03,6h 7h,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+4,20.0,3d 5s,"has, received, received, folds",Qd 5h Ac,,,,,,-0.5,QDevilQ
+6,87.67,7s Qh,"has, received, received, folds, does",,,,,,folded,-1.0,IbetUmuck
+6,40.0,5h 5c,"received, received, raises",4s 10h 6h,checks,Kd,"folds, does",,folded,-2.0,WeakAndWeary
+5,48.53,4c Js,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+5,40.0,Kc 6s,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+5,20.0,Js 6c,"received, received, folds",2d 4s 6d,,8s,,5s,,0.0,xROCKETMANx
+4,20.0,9h 2c,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+8,29.27,Jc 9c,"received, received, folds",8c Jh Ad,,Qh,,,,0.0,kid4life
+6,89.67,6h,"has, received, received, folds, does",,,,,,folded,-2.0,KingGuciGuci
+6,20.0,8c 8d,"has, received, received, calls",Qd 5s 3s,calls,9s,"folds, does",,folded,-3.4,xROCKETMANx
+4,20.0,2s 2h,"received, received, folds",Ah 10d 4d,,7h,,,,0.0,QDevilQ
+5,49.53,Jh,"has, received, received, folds, does",,,,,,folded,-1.0,Beep_Beep
+6,40.0,2c,"received, received, folds",As 2d 3c,,,,,,0.0,meandkids
+4,20.0,9s 2h,"received, received, folds",Kc As 9d,,5h,,,,0.0,FLDnLIVE2FLDagn
+5,48.03,Qs Js,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,40.0,3h 5d,"received, received, folds, does",,,,,,folded,0.0,gust
+3,20.0,Qd 7d,"has, received, received, raises",8c 2s 9h,bets,8s,checks,Kh,"checks, mucks",-2.49,foreseen
+5,20.0,9d Jh,"received, received, folds",6c 9c Ac,,3s,,,,0.0,foreseen
+6,89.67,8h 9s,"received, received, folds",5s Qh Ad,,6h,,As,,0.0,IbetUmuck
+5,40.0,5d 2d,"has, received, received, folds",6d 3h 2c,,8c,,5h,,-0.5,Im
+4,20.0,Jc 5c,"has, received, received, folds, does",,,,,,folded,-0.25,QDevilQ
+5,48.03,9h Qd,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+3,20.0,6d 8c,"has, received, received, folds, does",,,,,,folded,-0.5,xROCKETMANx
+5,40.5,8c 7d,"has, received, received, folds, does",,,,,,folded,-0.5,meandkids
+3,20.0,7h 4d,"received, received, folds, does",,,,,,folded,0.0,Jui
+4,20.0,3c 2c,"has, received, received, folds",8c 10s As,,,,,,-0.5,MirrorZrorriM
+6,89.67,8h,"received, received, folds",7c Jc 3s,,5d,,Kd,,0.0,KingGuciGuci
+4,48.03,Qd 9c,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+5,40.0,Ad 9d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+8,29.27,3s 4d,"received, received, folds",7s 3c Qh,,Jc,,5h,,0.0,Korobochka
+4,48.53,7h 2c,"has, received, received, folds, does",,,,,,folded,-0.5,LloydXmas
+6,89.67,3d Jc,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+5,48.03,6d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+5,20.0,Kh 8s,"received, received, folds",6c Ac Qh,,Kc,,9d,,0.0,Abundance4All
+5,40.0,2h 5d,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+4,25.93,6s Jc,"received, received, folds",10s 3c 4h,,2d,,8s,,0.0,constant
+6,89.67,3d 6h,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+5,48.03,5s,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+4,20.0,7h Qs,"received, received, folds",9s 7s Kc,,,,,,0.0,Jui
+5,40.0,5h 6h,"has, received, received, calls",Js 9s Qc,checks,Ac,checks,4d,"checks, folds, folded",-2.35,Im
+6,20.0,4d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+7,29.27,9s 4s,"received, received, folds",5s 9d 10d,,6c,,Kh,,0.0,kid4life
+5,40.0,4h Qc,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+5,20.0,As,"has, received, received, folds, does",,,,,,folded,-0.25,Abundance4All
+4,25.93,Qd 8h,"received, received, folds",Ac 9s Jc,,2d,,Jd,,0.0,constant
+6,40.0,Ks 8c,"received, received, folds, does",,,,,,folded,0.0,meandkids
+6,90.67,Js 6c,"has, received, received, folds",2h Kd 7c,,Jh,,9c,,-1.0,MadLifeGrinder
+6,48.03,Qh 8c,"received, received, folds",5s Jd 10h,,,,,,0.0,WeakAndWeary
+4,25.93,9s Qc,"received, received, folds, does",,,,,,folded,0.0,BHawk12
+4,20.25,6s 2c,"has, received, received, folds",2d Ad Kh,,Jc,,7s,,-0.25,foreseen
+6,89.67,Ac 5c,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+6,40.0,Qs Jd,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+7,20.0,Ac,"received, received, calls",7c 4c Jd,calls,Qc,calls,4d,"allin, mucks",9.27,IlxxxlI
+5,40.0,3h 4d,"received, received, folds",3d 3s Qh,,3c,,,,0.0,Beep_Beep
+4,20.0,5h 2d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,89.67,Ks 2h,"received, received, folds",4c As 7d,,3c,,,,0.0,IbetUmuck
+4,25.48,9c 6c,"has, received, received, calls",8h 4h Qs,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+6,48.53,9d,"has, received, received, folds",3h 8s 6d,,Qs,,7s,,-0.5,JoeRockwell
+6,89.67,4d Qc,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+6,89.67,6s Ks,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+5,40.0,Qs 8c,"received, received, folds",5s 3h Jd,,,,,,0.0,MadLifeGrinder
+6,62.23,6h 2d,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+7,25.02,8s 8d,"received, received, calls",Js Jd 3c,bets,Qc,checks,6h,"calls, mucks",-6.0,Spagetti1
+5,40.0,6h 6c,"has, received, received, raises",3c 9c 3s,checks,,checks,Qs,"checks, folds, folded",-5.16,WeakAndWeary
+6,43.18,Qc,"has, received, received, calls",10c 2c 2s,checks,4h,bets,Kh,checks,5.35,IlxxxlI
+6,89.67,2h 6c,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+6,25.02,5c 7h,"received, received, folds, does",,,,,,folded,0.0,MortalLock
+4,25.98,9h Js,"has, received, received, folds",7d 3s Ks,,7h,,Qd,,-0.5,BHawk12
+6,43.18,Jh Qc,"received, received, folds, does",,,,,,folded,0.0,Hakuna_Matata777
+6,90.67,7c,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+5,40.0,Jh 8d,"received, received, folds, does",,,,,,folded,0.0,meandkids
+6,43.18,Ks,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+6,85.27,,"has, received, received, raises, mucks, mucks",,,,,,,5.4,IlxxxlI
+4,25.98,9h 3s,"received, received, folds",5h Js 2s,,,,,,0.0,flyshark01
+5,40.5,Jc 8c,"received, received, raises, calls",8s 2c 5h,checks,Qh,checks,Ah,"checks, mucks",-5.0,Im
+6,43.18,4s 7h,"received, received, folds",7d 7c Qc,,,,,,0.0,MadLifeGrinder
+6,62.23,8h 5c,"received, received, folds",Qs 8s 6d,,9c,,,,0.0,GagaPoker
+7,25.27,Jh 5h,"has, received, received, folds",6c 9c 2h,,5s,,,,-0.25,kid4life
+6,85.27,2d Ac,"received, received, folds",3d Kh 7s,,7d,,Jd,,0.0,"KingGuciGuci, IbetUmuck"
+4,26.98,9c Jc,"received, received, raises, folds",6c 7s 7h,,7d,,Qh,,-1.0,constant
+4,40.0,Js 3d,"received, received, folds",7d Qs 7s,,Jc,,Qc,,0.0,WeakAndWeary
+7,25.77,Jh As,"has, received, received, folds",4c 2d 3h,,,,,,-0.5,arito02
+6,40.0,,"received, received, raises",Kd Kc 5c,"bets, mucks, mucks",,,,,3.18,IlxxxlI
+4,26.23,3s As,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,40.5,Qc 2c,"received, received, folds",2h Kd 5h,,,,7c,,0.0,MadLifeGrinder
+4,40.0,6s 8d,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,56.68,7d 7s,"has, received, received, calls",Ac Ah 6c,bets,4h,checks,Kd,checks,5.55,IlxxxlI
+5,41.0,6s 8c,"has, received, received, folds, does",,,,,,folded,-0.5,Im
+6,85.27,7h 8s,"received, received, folds",Jd 8c 8h,,Ac,,3d,,0.0,bfish602
+4,26.23,6s 7s,"received, received, folds, does",,,,,,folded,0.0,constant
+5,40.5,Ad 6d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+7,25.77,9d,"received, received, folds",8d 2c Qc,,Jh,,Kh,,0.0,kid4life
+6,40.0,4c,"has, received, received, folds",Kd Jd 2d,,9h,,4h,,-0.5,JoeRockwell
+6,40.0,Ks 2h,"has, received, received, folds",6d 10d 3h,,Jh,,8c,,-1.0,WeakAndWeary
+6,85.27,As 8c,"received, received, folds",Jh Qd Qh,,8h,,Qc,,0.0,KingGuciGuci
+5,40.5,8h 4s,"received, received, folds, does",,,,,,folded,0.0,gust
+6,82.27,,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+6,40.0,Ad,"has, received, received, calls",Ac Kd 8s,"checks, calls",4s,"checks, calls",9d,checks,16.68,IlxxxlI
+6,40.0,Jd 6d,"has, received, received, checks",Qd 2h 9h,checks,6h,"checks, folds, does",,folded,-1.0,JoeRockwell
+4,26.48,Jc 2s,"has, received, received, folds",9s 6h 10d,,8h,,,,-0.25,flyshark01
+6,83.27,7h 9s,"has, received, received, folds, does",,,,,,folded,-1.0,KingGuciGuci
+8,25.77,4d,"received, received, folds",3c 8c Ks,,8s,,9d,,0.0,Hakuna_Matata777
+5,40.5,8h Js,"received, received, folds",5c 9s 6d,,Qc,,,,0.0,Beep_Beep
+6,85.27,6s,"has, received, received, folds, does",,,,,,folded,-2.0,KingGuciGuci
+6,85.27,4c 6d,"received, received, folds, does",,,,,,folded,0.0,IbetUmuck
+4,20.0,Qd Jd,"has, received, received, raises",9c 5d 10c,"bets, mucks, mucks",,,,,6.48,IlxxxlI
+5,40.5,7d 8s,"received, received, folds, does",,,,,,folded,0.0,gust
+6,40.0,5h,"received, received, folds",Qh 8d 2c,,6c,,8h,,0.0,Beep_Beep
+6,41.0,2h,"has, received, received, folds, does",,,,,,folded,-0.5,Beep_Beep
+8,25.77,3h 4d,"received, received, folds",5h 2s Jc,,6s,,,,0.0,arito02
+6,85.27,5s 7d,"received, received, folds",7s 8d 2s,,2c,,,,0.0,IbetUmuck
+6,40.0,7d Qc,"received, received, folds, does",,,,,,folded,0.0,LloydXmas
+4,20.0,3h 3d,"received, received, folds",Ad Ks 8h,,2c,,5h,,0.0,flyshark01
+6,80.0,Qc,"received, received, raises",9s 3h As,"bets, mucks, mucks",,,,,5.27,IlxxxlI
+6,42.0,Kc,"has, received, received, folds, does",,,,,,folded,-1.0,St3p04ka
+5,40.0,9h Qs,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+4,20.0,7s 9c,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+6,42.0,5d 9d,"received, received, folds, does",,,,,,folded,0.0,Beep_Beep
+8,25.77,3h 9h,"received, received, folds",4c 2s Qc,,,,,,0.0,Hakuna_Matata777
+5,40.0,7s 2s,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+5,42.0,7d,"received, received, folds, does",,,,,,folded,0.0,WeakAndWeary
+6,80.0,6h 8d,"received, received, folds",Qd 8h Qc,,3c,,3h,,0.0,LazyFish
+5,40.0,5d,"has, received, received, folds, does",,,,,,folded,-0.5,WeakAndWeary
+4,20.0,7d,"received, received, folds",4h 5c 5s,,8s,,,,0.0,constant
+6,80.0,7c 6d,"has, received, received, folds, does",,,,,,folded,-1.0,LazyFish
+5,42.0,3c Jh,"received, received, folds, does",,,,,,folded,0.0,gust
+7,21.66,Jh As,"received, received, raises",5s Ks 3d,"checks, raises, mucks, mucks",,,,,4.11,IlxxxlI
+5,40.0,4d 6s,"has, received, received, folds, does",,,,,,folded,-1.0,LloydXmas
+2,40.0,Ad Ac,"has, received, received, calls",5h Kh 9d,"bets, mucks, mucks",,,,,0.9,IlxxxlI
+5,42.0,7d 3c,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+6,59.17,4c 2d,"received, received, folds",2c 7h 9c,,6s,,,,0.0,rook_
+4,20.0,5d Ks,"received, received, folds",6c Qc 8s,,Qh,,,,0.0,constant
+6,21.66,6h 2s,"received, received, folds",4d Js 8d,,Qd,,Ad,,0.0,slick07lx
+5,42.5,Kd Qh,"has, received, received, folds, does",,,,,,folded,-0.5,MadLifeGrinder
+5,42.0,Ad As,"received, received, raises, calls",4s 8c Jc,calls,7c,"allin, mucks, mucks",,,17.17,IlxxxlI
+4,20.0,8s 4c,"has, received, received, folds",5s Jd Ad,,,,,,-0.25,constant
+5,40.0,Qd Ad,"has, received, received, raises, mucks, mucks",,,,,,,2.5,IlxxxlI
+5,42.0,Kd 3s,"received, received, folds, does",,,,,,folded,0.0,rook_
+6,80.0,Qd,"has, received, received, folds",9d 5c 9h,,5s,,Kd,,-2.0,IbetUmuck
+5,42.5,4s 6d,"has, received, received, folds, does",,,,,,folded,-0.5,lordboroda
+7,21.66,3c 4d,"received, received, folds",10d 6c 2c,,Ac,,As,,0.0,arito02
+4,20.0,5d 8h,"has, received, received, checks",2d 6d Jd,"checks, folds, does",,,,folded,-0.5,constant
+5,40.0,Ks,"has, received, received, calls",5c 6s Kh,checks,7c,"bets, mucks, mucks",,,2.5,IlxxxlI
+4,20.0,9c,"received, received, folds, does",,,,,,folded,0.0,BHawk12
+6,21.91,8d 4d,"has, received, received, folds",Ks 9c Qh,,2s,,Jd,,-0.25,kid4life
+6,80.0,5s 6d,"received, received, folds",4d 8s Ah,,,,,,0.0,LazyFish
+6,80.0,3s Kc,"received, received, folds, does",,,,,,folded,0.0,MadLifeGrinder
+5,42.25,Ah 7s,"received, received, raises, folds, does",,,,,,folded,-2.4,rook_
+4,20.0,4s 7c,"received, received, folds",9d Kd Kh,,3d,,4h,,0.0,constant
+5,20.0,4h Qs,"has, received, received, checks",Qh 3s 8h,"checks, calls",6c,"bets, mucks, mucks",,,1.91,IlxxxlI
+6,80.0,9h Qc,"received, received, folds, does",,,,,,folded,0.0,bfish602
+4,20.0,6c,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+5,80.0,8s,"received, received, raises, folds, does",,,,,,folded,-12.15,KingGuciGuci
+4,20.0,8h Jh,"received, received, folds, does",,,,,,folded,0.0,BHawk12
+5,42.25,3h 9c,"received, received, folds",9s 5h As,,Kd,,Qd,,0.0,lordboroda
+5,80.0,8c 4h,"has, received, received, folds, does",,,,,,folded,-1.0,IbetUmuck
+4,20.0,Kc 9s,"has, received, received, folds",10d 3d Ks,,Qs,,,,-0.25,flyshark01
+4,80.0,2c Kc,"has, received, received, calls",4h 10d 3s,checks,5h,checks,5s,"checks, mucks",-5.0,LazyFish
+4,42.75,5s Jc,"has, received, received, folds",Js Ac 7s,,,,,,-0.5,Qrenor
+4,80.0,6d 2d,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+4,20.14,4c As,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+3,40.0,6h 2c,"has, received, received, folds, does",,,,,,folded,-1.0,89_suited
+4,40.0,9s 9d,"has, received, received, raises, mucks, mucks",,,,,,,2.75,IlxxxlI
+4,80.0,,"received, received, raises, calls",Ah 4d Jh,calls,Kd,"folds, does",,folded,-15.9,KingGuciGuci
+4,40.0,Kh 9d,"received, received, folds, does",,,,,,folded,0.0,lordboroda
+3,40.0,Kd,"has, received, received, folds, does",,,,,,folded,-2.0,89_suited
+5,40.0,3h Ac,"received, received, folds, does",,,,,,folded,0.0,Qrenor
+4,80.0,5c 2c,"has, received, received, folds, does",,,,,,folded,-1.0,LazyFish
+3,40.0,3c Jd,"received, received, folds",Js 4d 9c,,,,,,0.0,VegetablesArentYummy
+5,41.0,5c Js,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+4,80.0,9s 6h,"has, received, received, folds, does",,,,,,folded,-2.0,LazyFish
+5,40.0,7h,"has, received, received, folds, does",,,,,,folded,-0.5,LloydXmas
+5,40.0,7d Kd,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+4,40.0,2d 6h,"has, received, received, folds, does",,,,,,folded,-1.0,LloydXmas
+4,20.14,9d Kh,"received, received, folds",6s Jh 6h,,Kc,,,,0.0,BHawk12
+4,20.14,2c 3s,"received, received, folds",Qs 4d Jh,,5d,,,,0.0,BHawk12
+4,20.14,As 8d,"received, received, folds, does",,,,,,folded,0.0,constant
+4,20.14,4h 7d,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+4,20.39,7c As,"has, received, received, folds",10h 5d 9s,,6c,,,,-0.25,BHawk12
+4,20.89,7d Jh,"has, received, received, folds, does",,,,,,folded,-0.5,Jui
+4,20.89,Ac 6s,"received, received, folds, does",,,,,,folded,0.0,BHawk12
+3,20.89,3h 8d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+4,20.89,7s Ac,"received, received, folds, does",,,,,,folded,0.0,Jui
+4,21.14,7d 5c,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+1,42.5,8s 6s,"has, received, received, calls",3h 3s Qh,"bets, mucks, mucks",,,,,0.9,IlxxxlI
+2,41.5,Ad 8d,"has, received, received, raises, mucks, mucks",,,,,,,1.0,IlxxxlI
+2,41.0,Kh 3d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+5,20.0,4h 4s,"has, received, received, calls",8d 9h 5d,checks,Jh,checks,2h,checks,1.14,IlxxxlI
+2,42.0,Jc 6c,"has, received, received, calls, folds, does",,,,,,folded,-1.0,Qrenor
+5,20.0,6s Jh,"received, received, folds, does",,,,,,folded,0.0,Jui
+2,41.5,Ac 2d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+5,20.0,7s Jh,"received, received, folds, does",,,,,,folded,0.0,Maria_Pia
+3,41.5,Jc 6h,"received, received, folds, does",,,,,,folded,0.0,GagaPoker
+4,20.0,8s 3d,"received, received, folds, does",,,,,,folded,0.0,Jui
+3,40.5,Qd Kd,"has, received, received, raises, mucks, mucks",,,,,,,1.0,IlxxxlI
+4,20.0,9c 7h,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+3,40.0,2c Ad,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+4,20.0,3s 5c,"has, received, received, folds",8c 2s Qh,,,,,,-0.5,flyshark01
+4,20.0,3c 5s,"received, received, folds",9s As Qd,,3s,,Jd,,0.0,foreseen
+4,20.0,7c 6c,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+4,20.0,5h Kd,"received, received, folds, does",,,,,,folded,0.0,Jui
+4,20.0,6c,"has, received, received, folds, does",,,,,,folded,-0.25,Jui
+5,38.24,Jc,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,38.24,6s 2d,"received, received, folds, does",,,,,,folded,0.0,flyshark01
+5,38.49,6d 8d,"has, received, received, folds",4s Js Kd,,,,,,-0.25,xROCKETMANx
+5,20.0,8s Qh,"received, received, folds",4h 10s 8d,,4d,,2s,,0.0,QDevilQ
+5,38.24,Jd 9s,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,38.24,8s Jc,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,20.0,8s,"received, received, folds",4c 4d 6c,,,,,,0.0,flyshark01
+6,20.0,4s 4c,"received, received, raises, calls",4h 3c 8d,calls,Qd,allin,2c,,18.24,IlxxxlI
+5,20.0,5c,"received, received, folds",Kd Ah 8s,,5s,,,,0.0,QDevilQ
+6,20.15,7d 7c,"received, received, calls",Ah 5h Kd,checks,6d,"folds, folded",9d,,-1.5,Remi1738
+5,20.0,2c Kd,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+6,20.4,Jh 5h,"has, received, received, folds, does",,,,,,folded,-0.25,flyshark01
+5,20.0,Ac,"has, received, received, raises, calls",2d 4s Qd,"checks, folds, does",,,,folded,-3.0,flyshark01
+6,20.9,2d 5h,"has, received, received, folds, does",,,,,,folded,-0.5,flyshark01
+6,20.9,6h Ac,"received, received, folds, does",,,,,,folded,0.0,Remi1738
+5,20.0,7c 6s,"has, received, received, folds",5c 9h Ah,,,,,,-0.5,foreseen
+5,20.0,3h,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+6,20.9,8c 5h,"received, received, folds",2d Ah 4d,,,,,,0.0,DonkReaper
+5,20.0,7h 2h,"received, received, folds, does",,,,,,folded,0.0,Jui
+6,20.9,2h 8d,"received, received, folds, does",,,,,,folded,0.0,xROCKETMANx
+5,20.9,Jh 8d,"received, received, folds, does",,,,,,folded,0.0,Remi1738
+5,20.0,3s 3c,"received, received, folds",6c As 7c,,Jc,,3h,,0.0,flyshark01
+5,20.0,7c 6c,"has, received, received, calls",2h Kc Ac,bets,2d,checks,,"bets, mucks",0.9,IlxxxlI
+5,20.0,Kc 6c,"received, received, raises, folds, does",,,,,,folded,-1.5,Jui
+5,20.25,Kh 3c,"has, received, received, folds, does",,,,,,folded,-0.25,flyshark01
+5,20.0,Ks 9c,"has, received, received, folds, does",,,,,,folded,-0.5,DonkReaper
+5,20.0,Ah 9d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,27.5,6c 9c,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,27.5,Ah 5c,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+5,20.0,Qs Qd,"has, received, received, allin, mucks, mucks",,,,,,,7.5,IlxxxlI
+5,20.0,Kh 8d,"has, received, received, folds, does",,,,,,folded,-0.5,foreseen
+5,20.0,6c 8s,"received, received, folds, does",,,,,,folded,0.0,QDevilQ
+5,20.0,5d 5c,"received, received, folds, does",,,,,,folded,0.0,kidpokerak
+5,20.0,9d 8d,"received, received, folds, does",,,,,,folded,0.0,kidpokerak
+5,20.0,8s 4c,"has, received, received, folds, does",,,,,,folded,-0.25,kidpokerak
+5,20.0,Jh 6c,"has, received, received, folds, does",,,,,,folded,-0.5,kidpokerak
+5,20.0,5c,"received, received, folds",Qs 6h Kd,,,,,,0.0,QDevilQ
+5,20.0,2d 2h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,20.0,6c 6s,"received, received, calls",7s 4s 2h,"folds, folded",Qc,,Jc,,-1.12,foreseen
+6,20.0,Kc Jd,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,20.0,5d Qc,"has, received, received, checks",6h 8d 9s,"folds, does",,,,folded,-0.5,kidpokerak
+4,40.13,2h 6d,"received, received, folds",Jc 4d Js,,2c,,,,0.0,38979
+2,10.67,9c 3s,"has, received, received, folds, does",,,,,,folded,-0.25,38979
+3,10.92,6s 7h,"has, received, received, folds, does",,,,,,folded,-0.25,38979
+3,10.67,Jd 9h,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,10.67,5c 4s,"received, received, folds, does",,,,,,folded,0.0,BiGFck
+4,21.59,,"received, received, raises",8c 4s 5s,bets,3c,allin,9h,,18.54,IlxxxlI
+4,10.92,4s 2s,"has, received, received, folds, does",,,,,,folded,-0.25,BiGFck
+4,10.67,2s 4d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,21.84,6c Kh,"has, received, received, folds, does",,,,,,folded,-0.25,EEL
+4,10.67,6h,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+4,22.34,2h,"has, received, received, folds, does",,,,,,folded,-0.5,foreseen
+4,10.92,As 2d,"has, received, received, folds, does",,,,,,folded,-0.25,38979
+6,11.42,3s Js,"has, received, received, folds, does",,,,,,folded,-0.5,imperceptible
+4,22.34,Jd 8d,"received, received, folds",Ks 2d 6h,,9s,,9h,,0.0,foreseen
+6,12.42,As,"received, received, raises, folds, does",,,,,,folded,-1.0,beachrog
+5,12.42,Qc 8h,"received, received, folds, does",,,,,,folded,0.0,beachrog
+4,12.42,8h 9h,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+4,11.67,6h 6d,"received, received, allin, mucks, mucks",,,,,,,0.75,IlxxxlI
+4,22.34,5d 2h,"received, received, folds",7s Ad 9d,,As,,7h,,0.0,EEL
+4,22.34,Jd,"received, received, folds, does",,,,,,folded,0.0,528
+3,10.75,3d 6d,"has, received, received, calls",6c 7s 2c,checks,4h,bets,7c,checks,0.92,IlxxxlI
+4,22.59,5h Qd,"has, received, received, folds, does",,,,,,folded,-0.25,528
+4,10.75,3s 3d,"received, received, folds",2d 9c Qd,,3h,,2h,,0.0,beachrog
+5,23.71,4h Ah,"has, received, received, calls",Qd 10s 6s,"checks, folds, does",,,,folded,-1.12,foreseen
+4,10.75,9h 4h,"received, received, folds, does",,,,,,folded,0.0,beachrog
+5,23.71,5d 2d,"received, received, folds, does",,,,,,folded,0.0,38979
+4,11.0,8c 4d,"has, received, received, folds, does",,,,,,folded,-0.25,MEDSat420ish
+5,10.0,As Qd,"has, received, received, allin, mucks, mucks",,,,,,,1.0,IlxxxlI
+5,23.71,3h 6c,"received, received, folds",7h 10d Ad,,,,Qs,,0.0,528
+5,23.71,Jc 8c,"received, received, folds, does",,,,,,folded,0.0,528
+5,23.71,5c 8h,"received, received, folds, does",,,,,,folded,0.0,xROCKETMANx
+6,10.0,Jd 6s,"received, received, folds",8h 4c 2d,,6h,,3d,,0.0,MEDSat420ish
+5,23.96,3s,"has, received, received, folds, does",,,,,,folded,-0.25,Maria_Pia
+6,10.0,4c Ah,"received, received, folds, does",,,,,,folded,0.0,beachrog
+5,24.46,5d,"has, received, received, folds, does",,,,,,folded,-0.5,foreseen
+6,42.09,6d 8d,"received, received, folds",4c Qh Ah,,9s,,Jh,,0.0,DocHoliday87
+6,10.0,6h,"has, received, received, folds, does",,,,,,folded,-0.25,MEDSat420ish
+5,24.46,Ks 8d,"received, received, folds, does",,,,,,folded,0.0,xROCKETMANx
+4,24.46,4s 5h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,10.0,7s 6h,"has, received, received, folds, does",,,,,,folded,-0.5,MEDSat420ish
+6,42.09,4d 4c,"received, received, folds",7d 8s 9s,,Qs,,Ac,,0.0,beachrog
+4,24.46,Qc 3s,"received, received, folds, does",,,,,,folded,0.0,528
+4,24.46,4c Jc,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,44.09,Jh Ac,"received, received, raises, folds, does",,,,,,folded,-2.0,Maria_Pia
+3,22.41,8s As,"has, received, received, raises",Kh Ad 7h,"bets, mucks, mucks",,,,,2.05,IlxxxlI
+4,22.16,Qh 2s,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,10.0,4h 3d,"received, received, folds",3s 2c 9h,,2d,,,,0.0,beachrog
+5,44.34,3h As,"has, received, received, folds",7d 9c Kc,,,,2h,,-0.25,mueef
+3,22.16,6d 5c,"received, received, folds, does",,,,,,folded,0.0,Maria_Pia
+6,10.77,Ks,"received, received, raises, folds, does",,,,,,folded,-1.0,MEDSat420ish
+4,22.16,9s 2d,"received, received, folds, does",,,,,,folded,0.0,528
+5,28.94,7d Qd,"has, received, received, calls",Qh 2c Ks,checks,7s,raises,8d,caps,15.4,IlxxxlI
+3,22.41,6c Kd,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,10.77,Js,"received, received, folds",Ks 6c 6s,,,,,,0.0,imperceptible
+3,20.77,,"has, received, received, raises, mucks, mucks",,,,,,,1.64,IlxxxlI
+3,20.77,7h Jc,"received, received, folds, does",,,,,,folded,0.0,foreseen
+5,28.94,9d Qc,"received, received, folds",2c 3d Js,,Jd,,,,0.0,mueef
+3,20.77,4s 7s,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,10.77,8s 5s,"received, received, folds",As Kh 6s,,Qc,,Ah,,0.0,imperceptible
+4,28.94,Ks,"received, received, folds",6d Jd Js,,Ah,,2s,,0.0,beachrog
+3,21.02,4s 8d,"has, received, received, folds, does",,,,,,folded,-0.25,foreseen
+6,11.02,8h,"has, received, received, folds, does",,,,,,folded,-0.25,Maria_Pia
+3,20.77,3s 7d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+3,20.77,2h Ks,"received, received, folds, does",,,,,,folded,0.0,foreseen
+6,11.52,3s 8s,"has, received, received, folds, does",,,,,,folded,-0.5,imperceptible
+4,28.94,2h Jh,"received, received, folds",3c 8c 2d,,4h,,,,0.0,imperceptible
+4,20.77,6s 2h,"received, received, folds, does",,,,,,folded,0.0,528
+4,21.02,6d 9c,"has, received, received, folds, does",,,,,,folded,-0.25,Maria_Pia
+4,29.45,Qh Ad,"has, received, received, raises",6c 3s 4h,checks,5h,"checks, calls",2h,"checks, calls",-0.51,"IlxxxlI, Maria_Pia"
+4,21.52,4s Kd,"has, received, received, folds, does",,,,,,folded,-0.5,528
+4,29.2,4d Ah,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,21.52,Jd 2s,"received, received, folds, does",,,,,,folded,0.0,Xobkcul
+4,28.45,Ac 9d,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,11.52,4d 3h,"received, received, folds",Kh Jh 6s,,,,,,0.0,Maria_Pia
+4,21.52,6d Qd,"received, received, folds, does",,,,,,folded,0.0,Maria_Pia
+4,21.52,8d 9d,"received, received, folds, does",,,,,,folded,0.0,foreseen
+4,28.45,6s 7c,"received, received, folds",3c Ad 5d,,,,,,0.0,imperceptible
+4,21.77,5h,"has, received, received, folds, does",,,,,,folded,-0.25,Maria_Pia
+4,31.64,5d 5h,"has, received, received, raises, folds",8h 10h 7s,,Js,,6c,,-3.19,beachrog
+6,11.52,9c 7d,"received, received, folds",3h 3c 5s,,,,,,0.0,beachrog
+4,22.27,2c 9h,"has, received, received, folds, does",,,,,,folded,-0.5,Maria_Pia
+4,22.27,4c 6h,"received, received, folds, does",,,,,,folded,0.0,foreseen
+3,22.27,Qs 2h,"received, received, folds, does",,,,,,folded,0.0,Maria_Pia
+3,22.27,As 6h,"received, received, folds, does",,,,,,folded,0.0,Xobkcul
+6,11.52,Qd 5d,"received, received, folds",7c 3d Kh,,,,,,0.0,imperceptible
+4,27.56,Ah,"has, received, received, calls",2s 4h Ad,"checks, calls",,checks,3c,"bets, mucks",4.08,IlxxxlI
+4,27.56,Qd 9h,"received, received, folds",3s 10h Js,,,,,,0.0,imperceptible
+4,27.56,Jc,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+4,27.81,5h 6s,"has, received, received, folds",7h Jd Ac,,,,,,-0.25,imperceptible
+4,21.82,Qh 2c,"has, received, received, checks",3h 5h 2h,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+6,11.52,9c Ad,"received, received, folds",9s Js 7s,,3c,,5h,,0.0,beachrog
+4,20.0,Qh Ac,"received, received, raises",3h 5d 8c,checks,Jh,"bets, mucks, mucks",,,1.82,IlxxxlI
+4,28.31,2h,"has, received, received, folds",7h Ac As,,2d,,,,-0.5,imperceptible
+5,11.77,8s Js,"has, received, received, folds",10c As 5s,,Ad,,6c,,-0.25,imperceptible
+5,20.0,9h 8c,"received, received, folds",2h Qd 8h,,Jc,,,,0.0,528
+5,20.0,Qh 5d,"received, received, folds, does",,,,,,folded,0.0,Xobkcul
+5,10.0,Js,"has, received, received, calls",8h As 2d,checks,7c,bets,Jh,checks,1.77,IlxxxlI
+4,28.31,4c 9c,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+4,28.31,3d 9c,"received, received, folds",Jd 2h Qs,,,,,,0.0,imperceptible
+4,28.56,7d Jc,"has, received, received, folds, does",,,,,,folded,-0.25,beachrog
+5,20.0,9h Ks,"has, received, received, folds",9d Ah 9c,,7d,,,,-0.25,rj_2391
+4,20.0,Kc As,"has, received, received, calls",6d 7d 6h,,Js,,6c,,8.56,IlxxxlI
+5,20.0,Ks 5d,"has, received, received, folds",Kc Ac Qc,,4c,,8s,,-0.5,foreseen
+5,20.0,9h As,"received, received, folds, does",,,,,,folded,0.0,AironVega
+5,20.0,7d 9h,"received, received, folds, does",,,,,,folded,0.0,Ksowas
+5,20.0,2s 8h,"has, received, received, folds",3c Ac 6c,,,,Kc,,-0.5,89_suited
+5,20.0,Qs As,"has, received, received, allin",Kh 5c 2c,,5s,,7c,,-20.0,Ksowas
+6,85.35,Qd Kc,"received, received, raises",9h 6d Kd,bets,2s,bets,8s,"bets, mucks",5.57,IlxxxlI
+7,185.47,8s 9h,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+6,85.35,Ac 8c,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+7,185.47,Jc 7h,"received, received, folds",6h 9s 10h,,7c,,2d,,0.0,Gronkowski69
+7,85.35,Jh,"received, received, folds",As 5c 2c,,2d,,2h,,0.0,EasyQQ
+7,185.47,Jc 7s,"received, received, folds, does",,,,,,folded,0.0,Gronkowski69
+7,85.35,4c 7h,"received, received, folds, does",,,,,,folded,0.0,Tilt
+7,185.47,2s 5c,"received, received, folds",10d Qd 10s,,,,,,0.0,PANDAisEVIL
+7,37.73,Kc Ks,"received, received, raises",7h 7c Jh,bets,3c,allin,2c,,47.62,IlxxxlI
+6,185.47,Jh 7c,"received, received, folds",4s 3c 3h,,8h,,,,0.0,IamPhamous
+6,80.0,Ac 6s,"received, received, folds, does",,,,,,folded,0.0,Iia007
+6,80.0,3d Jh,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+7,20.0,Jc Ks,"received, received, folds",As 4c Ac,,9s,,6c,,0.0,tutofu84
+6,191.47,4s 4h,"received, received, raises",9h 6h 8s,checks,Ad,checks,Qd,"checks, mucks",-6.0,Tilt
+7,37.98,5s 8c,"has, received, received, folds",2d 3s 4s,,Jd,,,,-0.25,HanktheGrey
+6,80.0,6s Qh,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+8,20.0,Ah 6c,"received, received, folds, does",,,,,,folded,0.0,OmEGaKuSh
+7,20.0,Ah 9c,"received, received, folds",Ac 4s Kd,,3s,,4c,,0.0,imperceptible
+6,176.97,Ad Kc,"has, received, received, raises",3h Ac 10h,"bets, mucks, mucks",,,,,14.5,IlxxxlI
+6,80.0,Qd 9h,"received, received, folds",Js Kd Kh,,,,,,0.0,mr
+6,178.97,3d 5h,"has, received, received, folds, does",,,,,,folded,-2.0,PANDAisEVIL
+5,80.0,9d 5h,"has, received, received, folds, does",,,,,,folded,-1.0,mr
+6,20.0,3d 9s,"received, received, folds",7c 2s 10d,,,,,,0.0,coldkilla
+7,38.48,8d,"has, received, received, folds",3d 9s 8s,,,,Kc,,-0.5,EasyQQ
+6,178.97,8d Jh,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+6,80.0,6s 8c,"has, received, received, folds, does",,,,,,folded,-2.0,PANDAisEVIL
+8,20.0,6h 3h,"received, received, folds",Qd 8c 3s,,,,3c,,0.0,gunnfarm
+6,178.97,Ac 6c,"received, received, folds, does",,,,,,folded,0.0,StephCurry
+8,20.0,Ah 8d,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+6,80.0,4c 4d,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+7,20.0,8d 4s,"received, received, folds, does",,,,,,folded,0.0,kid4life
+6,80.0,8s Qs,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+7,80.0,2s 3h,"received, received, folds, does",,,,,,folded,0.0,VegetablesArentYummy
+6,178.97,6d Qd,"received, received, folds, does",,,,,,folded,0.0,shokerAAss
+8,20.0,Js,"received, received, folds",4c 5h 10h,,4s,,,,0.0,Midnight0489
+8,20.0,2s Js,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+7,20.0,Ad 4d,"received, received, folds",6d 3c 8s,,7c,,7h,,0.0,apoo11
+7,178.97,6s,"received, received, folds",As Jh 8d,,,,,,0.0,IamPhamous
+8,80.0,3c 6c,"received, received, folds",10s Jh 10c,,8d,,9s,,0.0,L4zy_FiSh
+4,26.14,Qd 3h,"received, received, folds",3s Jc Ks,,,,Qc,,0.0,Dirty4skin
+7,178.97,Kd,"received, received, folds",2c Js 9d,,,,,,0.0,Tilt
+7,20.0,5c 5d,"has, received, received, calls, folds",4h 3s Kc,,,,,,-1.0,coldkilla
+4,24.06,Ks Jh,"received, received, raises",2s 2c 3c,bets,8c,checks,Qc,"bets, mucks",2.08,IlxxxlI
+8,20.0,Jc 2c,"received, received, folds",8d 2h 8c,,Kd,,Ks,,0.0,coldkilla
+8,80.0,Qh 7s,"has, received, received, folds, does",,,,,,folded,-1.0,VegetablesArentYummy
+4,24.06,Js,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+4,24.31,4c 5c,"has, received, received, folds, does",,,,,,folded,-0.25,Heksebrygg
+7,80.0,Jh 6c,"has, received, received, folds, does",,,,,,folded,-2.0,PANDAisEVIL
+7,178.97,6c Qs,"received, received, folds",5d Kd Jd,,9c,,,,0.0,shokerAAss
+8,20.0,4d 7c,"has, received, received, folds, does",,,,,,folded,-0.25,coldkilla
+7,24.07,As 7s,"has, received, received, raises",Kd Qh 2h,bets,3h,checks,5s,"folds, folded",-6.16,tutofu84
+7,80.0,7c,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+4,22.84,Qc Jc,"has, received, received, calls",3c 3d 7d,checks,5c,"raises, mucks, mucks",,,1.47,IlxxxlI
+7,179.97,Kh 5h,"has, received, received, folds",7d Ad 4c,,6h,,Qh,,-1.0,shokerAAss
+4,22.84,9s 8h,"received, received, folds, does",,,,,,folded,0.0,Tilt
+7,24.07,3h Qh,"received, received, folds",Ah Js As,,,,,,0.0,tutofu84
+7,178.97,Qd 3d,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+7,83.0,Jc As,"received, received, raises, folds",10s 5c Qs,,Ad,,Jd,,-7.0,mr
+4,22.84,7d 7c,"received, received, folds",Ah Kc 3h,,,,,,0.0,Tilt
+8,20.0,5d 2h,"has, received, received, folds",9c 3s 10h,,7s,,,,-0.5,Ice
+4,22.84,9c Qh,"received, received, folds, does",,,,,,folded,0.0,Tilt
+7,24.07,8c Kc,"received, received, folds, does",,,,,,folded,0.0,kid4life
+7,83.0,3s Kh,"received, received, folds, does",,,,,,folded,0.0,Iia007
+4,22.84,6c,"received, received, folds, does",,,,,,folded,0.0,FaceMelt
+7,83.0,Ks 9s,"received, received, folds, does",,,,,,folded,0.0,L4zy_FiSh
+4,23.09,6c 3h,"has, received, received, folds, does",,,,,,folded,-0.25,528
+8,20.0,3h 6c,"received, received, folds",3c 5c Kc,,,,,,0.0,XxDominationxX
+7,80.0,4c 4h,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+7,22.82,Ac Qh,"received, received, raises, mucks, mucks",,,,,,,1.25,IlxxxlI
+8,20.0,9s 5s,"received, received, folds, does",,,,,,folded,0.0,XxDominationxX
+4,21.5,As 5h,"has, received, received, calls",9c 2s 4h,checks,6h,checks,3d,"bets, mucks",1.59,IlxxxlI
+7,80.0,9s Kd,"received, received, folds",Ah 10c 3c,,,,,,0.0,IAmClueless
+7,80.0,Kc,"has, received, received, folds, does",,,,,,folded,-1.0,L4zy_FiSh
+4,21.5,3c 2h,"received, received, folds",Qc 10s 4s,,Qh,,,,0.0,Heksebrygg
+6,22.82,4h Ah,"received, received, folds",7c Qc 7d,,,,,,0.0,coldkilla
+6,38.48,5c 2c,"received, received, folds",4d 2s 9d,,,,,,0.0,coldkilla
+7,80.0,6h 5h,"has, received, received, folds, does",,,,,,folded,-2.0,mr
+4,21.5,3d 8d,"received, received, folds, does",,,,,,folded,0.0,FaceMelt
+7,20.0,Ad 3s,"received, received, folds",3h 6d Kc,,5h,,,,0.0,coldkilla
+4,20.75,Ah,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+7,80.0,6d 2h,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+7,80.0,7s,"received, received, folds, does",,,,,,folded,0.0,IAmClueless
+4,20.0,Qd Ks,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+7,80.0,7d 6s,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+4,20.0,7h,"has, received, received, folds, does",,,,,,folded,-0.25,Tilt
+7,20.0,4c 7d,"received, received, folds",4h Jh 2d,,Kc,,9h,,0.0,OmEGaKuSh
+7,80.0,6s 3c,"received, received, folds, does",,,,,,folded,0.0,LazyFish
+7,22.82,6c As,"received, received, folds",Js 2h Kh,,7s,,2d,,0.0,tutofu84
+7,20.0,7c 4d,"received, received, folds, does",,,,,,folded,0.0,OmEGaKuSh
+6,38.48,Qs,"received, received, folds",Ad 9c 6d,,5c,,As,,0.0,EasyQQ
+7,80.0,3d 3s,"received, received, folds, does",,,,,,folded,0.0,L4zy_FiSh
+4,20.13,Ah 2s,"has, received, received, folds",Jd 8s 7s,,,,,,-0.5,FaceMelt
+7,22.82,7c 6h,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+7,20.0,3c 2d,"received, received, folds",4d Qs Ks,,4s,,7h,,0.0,OmEGaKuSh
+6,38.48,9h 6c,"received, received, folds",Jd 4s 3s,,2d,,,,0.0,EasyQQ
+8,80.0,6h Qd,"received, received, folds",Kh 8d 10s,,2s,,2h,,0.0,PANDAisEVIL
+7,22.82,9s 3c,"received, received, folds",2d Qs 4h,,,,,,0.0,kid4life
+4,20.13,8c,"received, received, folds",5h 3d 7d,,Ks,,3s,,0.0,FaceMelt
+7,178.97,8h 7c,"received, received, folds",10c 10s 3c,,,,,,0.0,IamPhamous
+7,20.0,9c 3d,"has, received, received, folds",8c 2c Qc,,6s,,,,-0.25,OmEGaKuSh
+8,80.0,3d Jd,"has, received, received, folds",Kh 4c Ad,,,,,,-1.0,Iia007
+8,80.0,2d As,"has, received, received, folds, does",,,,,,folded,-2.0,Iia007
+7,178.97,7h Ad,"received, received, folds, does",,,,,,folded,0.0,L4zy_FiSh
+6,23.07,2c,"has, received, received, folds",9c 3h 3c,,,,,,-0.25,tutofu84
+7,178.97,9s 7s,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+4,20.13,2h Jd,"received, received, folds",6s 10d 8s,,Ah,,,,0.0,Dirty4skin
+6,38.48,9s Ah,"received, received, folds",Kh 8h 10d,,Jh,,7d,,0.0,HanktheGrey
+8,20.0,6c Qd,"has, received, received, folds",6s 3d 6d,,Ks,,,,-0.5,Ice
+4,20.13,8s 6h,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+8,20.0,6d 5s,"received, received, folds, does",,,,,,folded,0.0,Ice
+6,38.48,Kd 5h,"received, received, folds",10h 6h 5c,,,,,,0.0,Tilt
+6,23.57,4d 2s,"has, received, received, folds",3h 8c Jd,,9s,,Qd,,-0.5,imperceptible
+8,80.0,Ah 9s,"received, received, folds",8c Kd 5s,,2c,,9h,,0.0,IAmClueless
+7,20.0,8s 4d,"received, received, folds",7c Jh 5d,,4s,,,,0.0,OmEGaKuSh
+7,178.97,7h 8d,"received, received, folds",Jd 10c 4d,,8s,,,,0.0,IamPhamous
+4,20.13,8h Ks,"received, received, folds",2c 4s 10h,,Kh,,6h,,0.0,FaceMelt
+6,21.75,Jd As,"received, received, raises",5c Ks Qd,"bets, mucks, mucks",,,,,1.82,IlxxxlI
+6,38.48,2d 3c,"received, received, folds",Ks 7h 10c,,,,,,0.0,tutofu84
+7,61.0,4s 4d,"received, received, folds, does",,,,,,folded,0.0,Log_in
+7,20.0,8s,"received, received, folds, does",,,,,,folded,0.0,gunnfarm
+8,80.0,9h 3d,"received, received, folds",8s As Jc,,,,,,0.0,IAmClueless
+6,21.75,5h,"received, received, folds",8c 4s 9c,,2d,,Ah,,0.0,kid4life
+4,20.38,3d 4d,"has, received, received, folds",Kc 3h 6c,,4h,,,,-0.25,Tilt
+6,178.97,6h 8s,"received, received, folds",7c Qc 2c,,9h,,5d,,0.0,shokerAAss
+6,38.48,6h 7s,"received, received, folds",Jc 6s 7c,,3s,,,,0.0,Tilt
+7,40.0,Jd Jc,"received, received, raises",Ac As 5h,checks,3c,bets,8h,checks,21.0,IlxxxlI
+4,21.38,4h Ad,"has, received, received, calls",10d 9s 6s,"folds, does",,,,folded,-1.0,Tilt
+5,178.97,5h,"received, received, folds",3d Kd 8s,,,,,,0.0,PANDAisEVIL
+8,20.04,Qc Kc,"received, received, raises",Kh 7h As,calls,6c,bets,3h,"folds, folded",-5.24,XxDominationxX
+4,21.38,5d 6s,"received, received, folds, does",,,,,,folded,0.0,Heksebrygg
+8,80.0,8c,"received, received, folds",4s Jh 7s,,Kh,,Jd,,0.0,Gronkowski69
+7,40.0,Jc 4s,"received, received, folds, does",,,,,,folded,0.0,Tilt
+6,21.75,As 5s,"received, received, folds",7s 4d 3s,,Js,,7h,,0.0,Ice
+4,21.38,3h Ks,"received, received, folds, does",,,,,,folded,0.0,FaceMelt
+6,20.0,Qs Ah,"has, received, received, raises",Ad 8s As,"checks, calls",5d,checks,7c,allin,18.48,IlxxxlI
+3,21.38,8c Ks,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+8,80.0,6c 5c,"received, received, folds",Qh As Qd,,Jh,,,,0.0,IAmClueless
+3,21.38,4c 3s,"received, received, folds, does",,,,,,folded,0.0,Heksebrygg
+6,40.0,5s 8h,"received, received, folds",2d 5d Ac,,,,,,0.0,Log_in
+8,20.04,Qs,"received, received, folds",3h 6c Jd,,4h,,,,0.0,XxDominationxX
+2,20.25,8s 8d,"has, received, received, raises",Qc Qh 6s,"bets, mucks, mucks",,,,,1.13,IlxxxlI
+6,21.75,7c Ks,"received, received, folds",5d 6c 10c,,,,,,0.0,imperceptible
+2,20.0,4h Qd,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,40.0,Ad 9s,"received, received, folds, does",,,,,,folded,0.0,mr
+5,184.97,Kc 8h,"received, received, raises, folds",6d 10d 9h,,6h,,6c,,-6.0,IamPhamous
+6,20.0,8d,"has, received, received, calls",Jh 9h 4s,calls,4d,bets,5s,checks,-5.55,EasyQQ
+5,40.0,9h 3d,"received, received, folds, does",,,,,,folded,0.0,Log_in
+6,21.75,Ks 7c,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+3,20.0,4s 9c,"received, received, is, folds, does",,,,,,folded,0.0,Tilt
+5,40.0,2h 6d,"has, received, received, folds",Ac 10c 2d,,9d,,Ad,,-0.5,Qrenor
+5,185.97,5h Jc,"has, received, received, folds",Kc 8h 10s,,4c,,,,-1.0,mr
+8,80.0,6c Kd,"received, received, folds",Ks 9c 8h,,4s,,,,0.0,PANDAisEVIL
+7,20.04,4h 9c,"received, received, folds",5c 2s 3s,,,,Js,,0.0,CumBckMuny
+5,187.97,Kh 4c,"has, received, received, folds, does",,,,,,folded,-2.0,mr
+6,21.75,Ah,"received, received, folds",7c 8h Qc,,,,,,0.0,tutofu84
+5,40.0,8s Jd,"has, received, received, calls",8h Ks 5d,"folds, does",,,,folded,-2.0,Tilt
+7,20.04,Js 2c,"received, received, folds, does",,,,,,folded,0.0,Ice
+5,187.97,Qs 6s,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+7,80.0,2s As,"received, received, folds",Ah Qh 4h,,,,,,0.0,IAmClueless
+7,20.0,8d 8c,"has, received, received, raises, mucks, mucks",,,,,,,1.75,IlxxxlI
+3,20.0,Ad Qd,"received, received, calls",8c 5h Qs,calls,4c,bets,Kh,"bets, folds, folded",-10.77,Tilt
+5,187.97,4c,"received, received, folds, does",,,,,,folded,0.0,L4zy_FiSh
+7,187.97,9c Qd,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+7,20.29,9c,"has, received, received, folds",10s 4s Qd,,,,,,-0.25,coldkilla
+3,20.23,2s Ac,"received, received, raises",5d Jh Ks,bets,,checks,8d,"folds, folded",-1.5,528
+7,80.0,2d 7d,"received, received, folds",5h Qd 10s,,,,,,0.0,L4zy_FiSh
+7,187.97,3c 5h,"received, received, folds, does",,,,,,folded,0.0,mr
+3,20.48,2h 9h,"has, received, received, folds, does",,,,,,folded,-0.25,Dirty4skin
+7,20.79,5h,"has, received, received, folds",8c Ah 5c,,,,,,-0.5,XxDominationxX
+6,20.0,5d 8h,"has, received, received, checks",Jd 7d 7h,checks,Ad,"folds, folded",8d,,-0.5,kid4life
+7,80.0,7d Ah,"has, received, received, folds, does",,,,,,folded,-1.0,IAmClueless
+3,20.98,3h 2h,"has, received, received, folds, does",,,,,,folded,-0.5,Tilt
+7,187.97,Qs 2d,"received, received, folds",10c 8h 3d,,4d,,,,0.0,PANDAisEVIL
+7,80.0,8h 9s,"has, received, received, calls",2s 3d 7h,"checks, folds, does",,,,folded,-5.0,PANDAisEVIL
+4,20.98,8s 4h,"received, received, folds, does",,,,,,folded,0.0,528
+7,188.97,Qs 2h,"has, received, received, folds, does",,,,,,folded,-1.0,Iia007
+6,20.0,8s Qc,"received, received, folds, does",,,,,,folded,0.0,tutofu84
+7,20.79,4d Ad,"received, received, folds",Kd 7s 6s,,8c,,5d,,0.0,coldkilla
+4,20.98,9c 3h,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+6,20.0,8c 3c,"received, received, folds, does",,,,,,folded,0.0,kid4life
+4,20.98,2c 5h,"received, received, folds, does",,,,,,folded,0.0,Tilt
+7,184.42,9s Qd,"has, received, received, calls",Kc 9d Qh,checks,As,"bets, mucks, mucks",,,4.55,IlxxxlI
+7,20.79,9h 4s,"received, received, folds",7h 10s 3h,,,,,,0.0,XxDominationxX
+4,21.23,8c 3d,"has, received, received, folds, does",,,,,,folded,-0.25,528
+4,21.73,4c 6d,"has, received, received, folds, does",,,,,,folded,-0.5,Tilt
+6,20.0,4c Kd,"received, received, folds",6s 2s Jd,,3d,,5c,,0.0,Aquaman75
+7,92.21,Kd Kh,"received, received, raises, calls",4s Jc 10h,"checks, calls",7c,"checks, allin",8s,,92.21,IlxxxlI
+4,21.73,As 8c,"received, received, folds, does",,,,,,folded,0.0,Heksebrygg
+6,20.79,9d Ah,"received, received, folds",9h 3c 3d,,,,,,0.0,CumBckMuny
+4,21.73,9d As,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+6,20.0,8d 6c,"received, received, folds, does",,,,,,folded,0.0,kid4life
+6,20.79,6s Kc,"received, received, folds",6d 10d Qh,,,,,,0.0,Log_in
+7,99.21,Kd,"received, received, raises, folds, does",,,,,,folded,-7.0,PANDAisEVIL
+6,20.79,3d 4h,"received, received, folds, does",,,,,,folded,0.0,Ice
+5,21.73,Js,"received, received, folds",Qs 8c Jh,,Kc,,4c,,0.0,Tilt
+6,20.0,5h Qs,"received, received, folds",4s 9s 2s,,,,,,0.0,Tilt
+6,20.79,4h Jh,"received, received, folds, does",,,,,,folded,0.0,XxDominationxX
+5,21.98,2s,"has, received, received, folds, does",,,,,,folded,-0.25,Heksebrygg
+7,99.21,4c Jd,"received, received, folds",7c 6s Ad,,Js,,8d,,0.0,IamPhamous
+6,99.21,Ah 3c,"received, received, folds, does",,,,,,folded,0.0,shokerAAss
+5,23.48,8c,"has, received, received, calls",6d Kc 5c,"folds, does",,,,folded,-1.5,Tilt
+6,21.04,5c,"has, received, received, folds",4h Jc 7h,,,,,,-0.25,CumBckMuny
+6,96.21,Kd Jc,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+5,23.48,9s Kc,"received, received, is, folds, does",,,,,,folded,0.0,Tilt
+6,20.0,Ad 3h,"received, received, folds",Qs As Kh,,,,,,0.0,kid4life
+6,21.54,6c Qd,"has, received, received, is, folds, does",,,,,,folded,-0.5,XxDominationxX
+7,96.21,As 5c,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+5,23.48,Qc 5c,"received, received, folds",2h As 8h,,,,,,0.0,imperceptible
+5,23.48,4d 7c,"received, received, folds, does",,,,,,folded,0.0,Tilt
+7,96.21,6s Jc,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+6,20.0,2h 5s,"has, received, received, folds",5d Ks 4s,,,,,,-0.25,tutofu84
+5,23.48,Js 6s,"received, received, folds, does",,,,,,folded,0.0,Heksebrygg
+7,21.54,8c Qh,"received, received, folds",5s Jh 3c,,8h,,,,0.0,coldkilla
+5,23.73,6c 5d,"has, received, received, is, folds, does",,,,,,folded,-0.25,Tilt
+6,20.0,4d,"has, received, received, is, folds, does",,,,,,folded,-0.5,Tilt
+7,97.21,Ad,"has, received, received, folds",9s 6h 5h,,4d,,,,-1.0,MadLifeGrinder
+5,20.75,6s As,"has, received, received, calls",5s 4h Qc,"checks, raises, mucks, mucks",,,,,2.98,IlxxxlI
+7,101.21,6h Kh,"has, received, received, calls",4c 5c 10s,"checks, folds, does",,,,folded,-4.0,Tilt
+6,20.0,As 5c,"received, received, folds",Qs Ad Jd,,6c,,,,0.0,tutofu84
+7,98.21,Ac Ad,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+5,20.75,Qd 3c,"received, received, folds",Kh Jc 4d,,6d,,7s,,0.0,Heksebrygg
+7,21.54,8d Kh,"received, received, folds",Ks 3c 6s,,9s,,Kd,,0.0,Taxriverman
+5,20.75,5d Jc,"received, received, folds, does",,,,,,folded,0.0,Evilclown
+7,21.54,6d,"received, received, folds, does",,,,,,folded,0.0,Log_in
+5,20.75,4h 5s,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+7,98.21,Ah 4h,"received, received, folds",8c 6h 3h,,,,,,0.0,Iia007
+5,20.0,Js Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+4,20.0,2d 4h,"has, received, received, folds, does",,,,,,folded,-0.25,Evilclown
+7,21.54,Qd 5h,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+7,98.21,2c 3d,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+6,20.0,5h,"received, received, folds, does",,,,,,folded,0.0,Aquaman75
+7,98.21,Kh 8c,"received, received, folds",As 6h 6s,,,,,,0.0,shokerAAss
+3,20.0,7d 3h,"has, received, received, folds",4d Kc 10c,,2s,,,,-0.5,Dirty4skin
+7,21.54,5s 9h,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+4,20.0,8d,"received, received, folds, does",,,,,,folded,0.0,Dirty4skin
+5,20.0,4s Jh,"received, received, folds, does",,,,,,folded,0.0,imperceptible
+7,21.79,2c 7c,"has, received, received, folds, does",,,,,,folded,-0.25,Ice
+5,20.0,7c 2s,"received, received, folds, does",,,,,,folded,0.0,Tilt
+8,22.29,8d 3s,"has, received, received, folds",Kd 4h Js,,,,,,-0.5,XxDominationxX
+7,20.0,3d,"has, received, received, folds",7h 6h 5h,,Kc,,Kh,,-0.25,tutofu84
+4,20.0,9c 4h,"has, received, received, folds",As 9d 8d,,6s,,7h,,-0.25,virtualbox
+6,98.21,3c 5c,"received, received, folds",6c Jh 7d,,9c,,4s,,0.0,Iia007
+7,20.0,7d 9s,"has, received, received, folds, does",,,,,,folded,-0.5,Log_in
+4,20.75,Ks 7s,"has, received, received, calls",4s 7h Ad,"checks, calls",3c,"checks, folds, does",,folded,-2.9,Heksebrygg
+6,83.0,7d 9d,"received, received, calls, calls",5s 2c 8d,calls,2s,"bets, mucks, mucks",,,15.21,IlxxxlI
+5,20.0,Kh Js,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+8,22.29,7c 8s,"received, received, is, folds",9d 10c Ad,,Ac,,2d,,0.0,XxDominationxX
+5,20.0,6c,"received, received, folds, does",,,,,,folded,0.0,Log_in
+5,20.25,Qh 9s,"has, received, received, calls, folds, does",,,,,,folded,-0.5,Madmonkeygan
+6,83.0,Jh Qs,"received, received, folds",7c Jd 8c,,2h,,8h,,0.0,Tilt
+8,22.29,4s,"received, received, folds, does",,,,,,folded,0.0,XxDominationxX
+5,20.75,Jc 8c,"has, received, received, folds",9h 6s 5d,,Jd,,,,-0.5,Madmonkeygan
+6,84.0,2d,"has, received, received, folds, does",,,,,,folded,-1.0,Tilt
+8,22.29,Kc 9d,"received, received, folds, does",,,,,,folded,0.0,Ice
+6,86.0,4h Jc,"has, received, received, folds, does",,,,,,folded,-2.0,mr
+7,20.0,,"received, received, raises",3s 8c 5h,"bets, mucks, mucks",,,,,2.29,IlxxxlI
+6,86.0,6s 9d,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+5,20.75,2h,"received, received, folds",3s Js Qc,,,,5c,,0.0,Madmonkeygan
+5,20.75,2d,"received, received, folds, does",,,,,,folded,0.0,Log_in
+5,20.75,Kd 2s,"received, received, folds, does",,,,,,folded,0.0,Patty
+5,20.0,Ah 7h,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,86.0,3c Js,"received, received, folds",6d 4d 6s,,9c,,5c,,0.0,mr
+7,20.0,5s Qd,"received, received, folds",9d 9c 10c,,Kc,,,,0.0,rounderontilt
+6,86.0,5d 2h,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+5,20.0,2d Kc,"has, received, received, folds",Ad 3s 4s,,4h,,Qh,,-0.25,virtualbox
+7,20.0,8d 8c,"received, received, calls",10d 9d 6d,"folds, does",,,,folded,-2.0,rounderontilt
+6,86.0,3h 3s,"received, received, folds, does",,,,,,folded,0.0,Iia007
+6,86.0,6d,"received, received, folds",3s 3c 6h,,,,,,0.0,IamPhamous
+5,20.0,2h 8s,"has, received, received, folds",6c 6d Jd,,7d,,,,-0.5,Log_in
+7,20.0,3h Qd,"has, received, received, folds",Qs 3d 7h,,4d,,,,-0.25,Taxriverman
+6,86.0,9c Jc,"received, received, folds, does",,,,,,folded,0.0,mr
+7,20.0,7s 8d,"has, received, received, folds, does",,,,,,folded,-0.5,XxDominationxX
+7,87.0,6c 2d,"has, received, received, folds, does",,,,,,folded,-1.0,IamPhamous
+7,89.0,4c Jd,"has, received, received, folds, does",,,,,,folded,-2.0,MadLifeGrinder
+7,89.0,5c 7d,"received, received, folds",4s 2s 9d,,8c,,5s,,0.0,shokerAAss
+7,86.0,Ah,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+7,86.0,3s 6h,"received, received, folds",2h Qc Qd,,6d,,2s,,0.0,MadLifeGrinder
+2,80.0,As,"has, received, received, raises",2s 3s Ac,bets,8c,checks,,"bets, mucks",19.58,IlxxxlI
+2,80.0,6s 7d,"has, received, received, calls, folds, does",,,,,,folded,-2.0,PANDAisEVIL
+7,83.0,Ah,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+3,80.0,8d 7d,"has, received, received, raises, calls",3s 10d 5h,"checks, folds, does",,,,folded,-13.35,PANDAisEVIL
+5,75.42,7d 5h,"received, received, folds, does",,,,,,folded,0.0,PeLanpapa
+4,80.0,Qc 4c,"has, received, received, calls",Qh Jd Ah,"checks, calls",Ks,"bets, folds, does",,folded,-12.11,Gargantuatua
+7,83.0,Js 9d,"received, received, folds",7c 6s 6h,,8d,,8s,,0.0,PANDAisEVIL
+5,75.42,Kc 7d,"received, received, folds",3c Ac 8h,,,,,,0.0,PeLanpapa
+7,80.0,Ad Jc,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+8,80.0,Ks 5h,"has, received, received, folds, does",,,,,,folded,-1.0,AgSweep
+8,56.42,7s Qs,"received, received, folds, does",,,,,,folded,0.0,Qrenor
+8,80.0,2d 8d,"has, received, received, folds",5s Kh 5c,,,,,,-2.0,shokerAAss
+7,56.42,Qh Jd,"received, received, folds, does",,,,,,folded,0.0,Iia007
+8,80.0,7d 9s,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+5,75.42,2c,"received, received, folds",Qs 9s 8c,,6c,,5h,,0.0,PeLanpapa
+7,59.92,Jd,"received, received, raises, folds, does",,,,,,folded,-3.5,Log_in
+5,75.42,7h 8s,"received, received, folds, does",,,,,,folded,0.0,shokerAAss
+6,59.92,9d 3d,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+5,75.92,2h 5d,"has, received, received, folds, does",,,,,,folded,-0.5,Winter
+8,80.0,6c Jd,"received, received, folds",Jh 10h 3s,,,,,,0.0,PANDAisEVIL
+8,80.0,6c 5c,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+6,59.92,4h,"received, received, folds",Ad 10h Ks,,3s,,,,0.0,Log_in
+6,63.06,Qs Ad,"has, received, received, raises",As 4d Kd,"bets, mucks, mucks",,,,,12.86,IlxxxlI
+8,80.0,7c,"received, received, folds",9h 10d 9c,,8h,,8c,,0.0,shokerAAss
+6,40.0,4c 4s,"has, received, received, raises",4h 3d 6s,bets,7h,"checks, calls",6h,"allin, mucks",19.92,IlxxxlI
+7,40.0,Kd Js,"has, received, received, folds, does",,,,,,folded,-1.0,IamPhamous
+8,80.0,8d 9d,"received, received, folds",3d Qd 4c,,,,,,0.0,shokerAAss
+8,80.0,7c Jh,"received, received, folds",2s Jc Ad,,,,,,0.0,IamPhamous
+7,40.0,Kh 2c,"received, received, folds",3h 6c 4c,,9d,,,,0.0,coldkilla
+8,80.0,3d 4c,"has, received, received, folds",9s 5s 9c,,2h,,,,-1.0,shokerAAss
+8,40.0,2d,"received, received, folds",Kc 3h 2s,,8h,,,,0.0,Qrenor
+7,80.98,Js,"has, received, received, calls",6c 5c 5h,"checks, folds, does",,,,folded,-5.0,MadLifeGrinder
+2,21.0,9h 8d,"has, received, received, calls",Ah 3h Ks,"bets, mucks, mucks",,,,,0.9,IlxxxlI
+3,20.5,3s As,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+7,80.98,Qh 6s,"received, received, folds, does",,,,,,folded,0.0,loolu
+5,21.0,4c 6d,"has, received, received, folds, does",,,,,,folded,-0.5,Qrenor
+8,40.0,Qd 7d,"received, received, folds",9d 5d 9s,,3h,,4d,,0.0,IamPhamous
+7,80.98,Ah 6c,"received, received, folds, does",,,,,,folded,0.0,Iia007
+7,80.98,Qs 8d,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+5,22.0,Js 4h,"has, received, received, folds, does",,,,,,folded,-1.0,PANDAisEVIL
+5,22.0,Jc 3d,"received, received, folds, does",,,,,,folded,0.0,PANDAisEVIL
+9,45.55,6d 6h,"received, received, calls",Jd Qs Jc,calls,Ad,"folds, does",,folded,-5.59,Qrenor
+4,22.0,Kh 5d,"received, received, folds",7s 3s 6s,,7h,,Ad,,0.0,Qrenor
+7,86.98,Ad 6h,"received, received, raises, folds, does",,,,,,folded,-6.0,loolu
+9,40.0,Ad Jh,"received, received, raises",3c 9d Ah,"bets, mucks, mucks",,,,,5.55,IlxxxlI
+7,87.98,7h 2h,"has, received, received, folds, does",,,,,,folded,-1.0,shokerAAss
+8,66.56,Qs Ks,"received, received, raises, folds",4d 4h 3h,,7c,,5d,,-3.5,PeLanpapa
+4,20.5,4d 4h,"received, received, allin, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,40.0,2h,"has, received, received, folds, does",,,,,,folded,-0.5,aleaga
+4,23.0,Ks 8s,"has, received, received, raises, folds, does",,,,,,folded,-2.5,Qrenor
+7,89.98,6s 9d,"has, received, received, folds",Jd 7d 3h,,4s,,3c,,-2.0,aleaga
+5,23.0,4d 4s,"received, received, folds, does",,,,,,folded,0.0,badboy85
+9,40.0,Qs 2c,"has, received, received, folds, does",,,,,,folded,-1.0,aleaga
+3,41.8,2c 9h,"has, received, received, folds, does",,,,,,folded,-0.5,MrCRABS333
+3,41.3,Ac 2s,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+7,89.98,As 8c,"received, received, folds",5h Ah Kc,,,,,,0.0,Iia007
+8,66.56,4c 5h,"received, received, folds",5c Ad 4s,,2c,,2s,,0.0,Qrenor
+3,44.3,Jc Qh,"received, received, raises, folds, does",,,,,,folded,-3.0,MrCRABS333
+3,40.0,8c,"has, received, received, calls, folds, does",,,,,,folded,-1.0,shokerAAss
+5,23.0,3c 4d,"received, received, folds",5s 8d Jh,,7s,,Jd,,0.0,Qrenor
+7,89.98,9d 4c,"received, received, folds, does",,,,,,folded,0.0,loolu
+5,23.0,4s 7c,"received, received, folds, does",,,,,,folded,0.0,St3p04ka
+3,44.8,9d 6c,"has, received, received, folds, does",,,,,,folded,-0.5,Qrenor
+3,40.0,9c 4d,"has, received, received, folds, does",,,,,,folded,-1.0,Qrenor
+8,66.56,6s 4d,"received, received, folds, does",,,,,,folded,0.0,Winter
+5,23.5,3s 9d,"has, received, received, folds, does",,,,,,folded,-0.5,thethinmanlb
+7,89.98,2h 3d,"received, received, folds, does",,,,,,folded,0.0,Gronkowski69
+7,65.06,Jc Jd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+7,65.06,6s Ad,"received, received, folds, does",,,,,,folded,0.0,PeLanpapa
+4,42.1,9s 7h,"has, received, received, calls",2h Ah 9c,checks,4c,"bets, mucks, mucks",,,2.7,IlxxxlI
+7,94.78,Ad 6d,"received, received, raises, folds, does",,,,,,folded,-4.8,loolu
+5,24.5,Jc 6s,"has, received, received, folds",3c 9s 6d,,3d,,,,-1.0,thethinmanlb
+9,94.78,Jc 6h,"received, received, folds, does",,,,,,folded,0.0,aleaga
+7,65.06,Qh Jd,"received, received, folds",5c Ks Ac,,Ad,,,,0.0,Winter
+6,24.5,Qd 2s,"received, received, folds",2h Ad 10d,,6c,,2d,,0.0,thethinmanlb
+5,42.1,4h 3c,"received, received, folds",5c 8s 6d,,5h,,2h,,0.0,St3p04ka
+6,42.1,4s 8s,"received, received, folds, does",,,,,,folded,0.0,St3p04ka
+6,24.5,4s,"received, received, folds, does",,,,,,folded,0.0,thethinmanlb
+9,95.78,3h As,"has, received, received, folds",Kd Ad 5s,,2c,,Kh,,-1.0,loolu
+6,42.6,6d 8c,"has, received, received, folds, does",,,,,,folded,-0.5,Qrenor
+7,49.71,Jc Jd,"received, received, raises, calls",9s 3s 9h,calls,Kc,checks,4c,"bets, mucks",15.35,IlxxxlI
+6,20.0,Kc Ac,"received, received, allin, mucks, mucks",,,,,,,4.5,IlxxxlI
+6,43.6,Ks 8d,"has, received, received, folds, does",,,,,,folded,-1.0,Qrenor
+7,50.21,Kd 6s,"has, received, received, folds, does",,,,,,folded,-0.5,Iia007
+6,20.5,Qd 4s,"has, received, received, folds, does",,,,,,folded,-0.5,Qrenor
+9,85.04,Kd,"has, received, received, calls",7s Qh Jh,bets,9c,"bets, mucks, mucks",,,10.74,IlxxxlI
+6,43.6,Ac 5d,"received, received, folds, does",,,,,,folded,0.0,St3p04ka
+7,49.71,Ac 4d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+6,21.5,7h Qc,"has, received, received, folds, does",,,,,,folded,-1.0,St3p04ka
+6,43.6,Jd 4d,"received, received, folds, does",,,,,,folded,0.0,Qrenor
+7,49.71,2s 6d,"received, received, folds, does",,,,,,folded,0.0,Iia007
+6,21.5,4c 3c,"received, received, folds, does",,,,,,folded,0.0,thethinmanlb
+6,43.6,4d,"received, received, folds",Kh 9c 10d,,3c,,,,0.0,St3p04ka
+8,41.5,Ah Ks,"received, received, raises",6h Ad 9d,"bets, mucks, mucks",,,,,8.21,IlxxxlI
+9,85.04,Ad 3s,"received, received, folds",6c 6d Kh,,7c,,Jh,,0.0,Iia007
+8,41.5,Ks 8h,"received, received, folds, does",,,,,,folded,0.0,shokerAAss
+9,85.04,Kc,"received, received, folds, does",,,,,,folded,0.0,shokerAAss
+6,21.5,4c 8c,"received, received, folds",5s Qd 8d,,9d,,3s,,0.0,thethinmanlb
+6,49.68,Qh Ad,"received, received, raises",9h 5h 2h,"folds, does",,,,folded,-6.08,Qrenor
+6,21.5,8c 5c,"received, received, folds",3h 10s 6d,,,,,,0.0,thethinmanlb
+7,40.0,Kd Js,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,85.04,7h 8c,"received, received, folds",Qd 3d Ac,,9c,,,,0.0,IamPhamous
+6,50.68,9d Js,"has, received, received, calls, folds, does",,,,,,folded,-1.0,MrCRABS333
+6,20.0,5h 5s,"received, received, allin, mucks, mucks",,,,,,,1.5,IlxxxlI
+9,85.04,Ac 9h,"received, received, folds, does",,,,,,folded,0.0,Gronkowski69
+6,20.0,,"has, received, received, folds, does",,,,,,folded,-0.5,St3p04ka
+7,40.0,2s Kd,"received, received, folds",5h 10s 3s,,4d,,,,0.0,aleaga
+6,51.68,Qs 2s,"has, received, received, folds, does",,,,,,folded,-1.0,MrCRABS333
+6,20.0,Qd 5s,"has, received, received, folds, does",,,,,,folded,-1.0,St3p04ka
+9,85.04,9h 6s,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+7,40.0,4h Qd,"received, received, folds, does",,,,,,folded,0.0,Qrenor
+5,110.95,8s,"received, received, folds, does",,,,,,folded,0.0,plin777
+6,20.0,7d Qc,"received, received, folds",Js 8c 9d,,,,,,0.0,St3p04ka
+5,110.95,9c 5h,"received, received, folds",3s Qh 8h,,,,,,0.0,wethco
+7,40.0,3s 5d,"has, received, received, folds, does",,,,,,folded,-0.5,shokerAAss
+9,85.04,Jh 5c,"received, received, folds, does",,,,,,folded,0.0,loolu
+6,51.68,6d 7d,"received, received, folds",Ac 2h 6s,,5h,,,,0.0,St3p04ka
+6,20.0,Ks 6d,"received, received, folds",8s 4c 4d,,,,,,0.0,thethinmanlb
+7,40.0,7s 2c,"has, received, received, folds, does",,,,,,folded,-1.0,St3p04ka
+6,20.0,7s 2d,"received, received, folds, does",,,,,,folded,0.0,thethinmanlb
+9,85.04,Kd 7c,"received, received, folds",3d 10c 5d,,,,,,0.0,Iia007
+6,20.0,Qd 4s,"received, received, folds, does",,,,,,folded,0.0,thethinmanlb
+5,81.0,7s 7c,"has, received, received, calls",10s 5c 7d,"checks, calls",9d,"bets, mucks, mucks",,,29.95,IlxxxlI
+9,86.04,Kh 6h,"has, received, received, folds, does",,,,,,folded,-1.0,MadLifeGrinder
+6,51.68,3c 6d,"received, received, folds",2s Qd 8h,,5c,,,,0.0,AironVega
+7,40.0,8d 3d,"received, received, folds",Jd 10h 7d,,,,6c,,0.0,Winter
+6,51.68,5s 2h,"received, received, folds, does",,,,,,folded,0.0,MrCRABS333
+6,20.0,2h 8h,"has, received, received, folds",6h 5s Kh,,,,,,-0.5,BigBlat
+5,83.0,2d,"has, received, received, folds",Ac 4d Qh,,8h,,,,-2.0,plin777
+6,20.0,9h Jd,"has, received, received, folds, does",,,,,,folded,-1.0,thethinmanlb
+6,51.68,7h,"received, received, folds, does",,,,,,folded,0.0,AironVega
+5,83.0,7d Jc,"received, received, folds",Ac Kc 4h,,,,,,0.0,wethco
+7,40.0,3s 2d,"received, received, folds, does",,,,,,folded,0.0,aleaga
+5,80.0,Kd Ac,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+5,80.0,2h 4s,"received, received, folds, does",,,,,,folded,0.0,plin777
+9,120.6,Kh Ad,"has, received, received, raises",4h 9c 10h,bets,8d,checks,Qc,"checks, mucks",-34.56,aleaga
+5,80.0,Jc 4c,"has, received, received, folds",2d 8c 5h,,,,,,-1.0,plin777
+6,52.18,9h,"has, received, received, folds",5h 8c 5d,,3c,,Js,,-0.5,MrCRABS333
+8,40.0,5d Jc,"received, received, folds, does",,,,,,folded,0.0,Iia007
+9,120.6,6d Qs,"received, received, folds, does",,,,,,folded,0.0,Iia007
+9,120.6,Ad 2c,"received, received, folds, does",,,,,,folded,0.0,loolu
+5,80.0,8h Kh,"has, received, received, calls",6d Qd 3s,checks,2s,"folds, does",,folded,-4.0,coldkilla
+8,40.0,7s Ac,"received, received, folds, does",,,,,,folded,0.0,Winter
+6,40.0,9c Jc,"has, received, received, calls",4c 7h Qd,checks,8h,bets,,bets,12.18,IlxxxlI
+9,120.6,4h 2h,"received, received, folds",10d 6s 2d,,,,,,0.0,aleaga
+5,80.0,6c Kc,"received, received, folds",As 2d 7s,,,,,,0.0,coldkilla
+8,40.0,9s 7d,"received, received, folds, does",,,,,,folded,0.0,Qrenor
+6,40.0,7s 4c,"received, received, folds, does",,,,,,folded,0.0,AironVega
+6,80.0,3d 6d,"received, received, folds, does",,,,,,folded,0.0,plin777
+6,80.0,Ac 9d,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+6,40.0,2c,"received, received, folds, does",,,,,,folded,0.0,MrCRABS333
+8,40.0,3s 8d,"received, received, folds, does",,,,,,folded,0.0,Log_in
+5,80.0,Qs Js,"has, received, received, folds",8d 8h Jh,,7d,,Jd,,-1.0,coldkilla
+6,40.0,8d,"received, received, folds, does",,,,,,folded,0.0,AironVega
+5,40.0,7d 8h,"received, received, folds, does",,,,,,folded,0.0,MrCRABS333
+9,120.6,7d 6s,"received, received, folds",Kh 7h 6d,,4s,,5s,,0.0,Gronkowski69
+5,80.0,2s 8h,"has, received, received, folds",3c 3h 10h,,Ah,,4c,,-2.0,BigBlat
+5,40.0,5d Qs,"has, received, received, folds, does",,,,,,folded,-0.5,MadLifeGrinder
+5,40.0,Ks 5h,"has, received, received, folds, does",,,,,,folded,-1.0,Qrenor
+5,80.0,9c 6c,"received, received, folds",Kh Qc 8c,,Ks,,2s,,0.0,BigBlat
+8,40.5,7h Js,"has, received, received, folds",9d 6c Ac,,Kd,,3d,,-0.5,aleaga
+8,120.6,8d Qh,"received, received, folds",Kd Qd 7c,,Jc,,Qc,,0.0,shokerAAss
+5,80.0,Js 9h,"received, received, folds",9c 8h Jc,,,,3h,,0.0,wethco
+8,40.0,6c 7d,"has, received, received, mucks, mucks",,,,,,,0.5,IlxxxlI
+6,80.0,2c Ad,"received, received, folds, does",,,,,,folded,0.0,coldkilla
+7,120.6,Ad,"received, received, folds",5s 8s 6h,,7c,,,,0.0,shokerAAss
+6,80.0,6c,"has, received, received, folds",Qh 7d Kd,,,,,,-1.0,coldkilla
+6,80.0,Jh 8d,"has, received, received, folds, does",,,,,,folded,-2.0,BigBlat
+7,118.8,7c 2c,"has, received, received, calls",2d 9s Qh,checks,2s,"bets, mucks, mucks",,,1.8,IlxxxlI
+6,80.0,6s 7h,"received, received, folds",2d Ah 3c,,,,,,0.0,BigBlat
+7,120.8,3c Ks,"has, received, received, folds, does",,,,,,folded,-2.0,aleaga
+7,120.8,Qh 3c,"received, received, folds, does",,,,,,folded,0.0,aleaga
+6,80.0,5s Js,"received, received, folds",Qs 4c 9h,,8c,,Ad,,0.0,wethco
+8,120.8,9s 2h,"received, received, folds, does",,,,,,folded,0.0,Randall5
+2,82.0,8h,"has, received, received, raises, folds, does",,,,,,folded,-5.0,shokerAAss
+3,84.0,8s Jh,"has, received, received, calls, folds, does",,,,,,folded,-2.0,shokerAAss
+3,83.0,2s 4h,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+9,105.0,Kd Ac,"received, received, raises",Kh 10d 7s,"bets, mucks, mucks",,,,,15.8,IlxxxlI
+6,80.0,Js 9s,"received, received, raises, calls",Jc Qs 9d,calls,Qd,"folds, does",,folded,-19.91,BigBlat
+9,105.0,4c Qh,"received, received, folds, does",,,,,,folded,0.0,IamPhamous
+6,80.0,6h Jh,"received, received, folds",6d 8s 8c,,7s,,2c,,0.0,plin777
+9,80.0,Kc Ah,"received, received, allin, mucks, mucks",,,,,,,25.0,IlxxxlI
+3,80.0,Js Jh,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+3,80.0,7c 4s,"has, received, received, folds, does",,,,,,folded,-1.0,shokerAAss
+5,20.0,Jh Kh,"has, received, received, allin, mucks, mucks",,,,,,,3.0,IlxxxlI
+3,80.0,Jc 3s,"has, received, received, folds, does",,,,,,folded,-2.0,TonnaMunz
+6,80.0,Ac,"has, received, received, raises",2h Kh 8s,"bets, folds, does",,,,folded,-14.9,coldkilla
+6,80.0,5d Jh,"has, received, received, folds, does",,,,,,folded,-2.0,coldkilla
+9,80.0,9h Qh,"received, received, folds",4s Jh 8s,,7s,,Ks,,0.0,MadLifeGrinder
+6,20.0,9d Js,"has, received, received, calls",7s 5s 7c,"checks, folds, does",,,,folded,-2.0,badboy85
+4,80.0,6c 7h,"received, received, folds, does",,,,,,folded,0.0,TonnaMunz
+4,80.0,Qd 2h,"has, received, received, folds, does",,,,,,folded,-1.0,shokerAAss
+4,83.0,5c Ah,"has, received, received, calls",Kc 6h Qh,checks,8d,checks,9c,"folds, folded",-6.0,TonnaMunz
+4,80.0,Jh,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+9,81.0,8c Jc,"has, received, received, folds",2s 2h Qs,,Qh,,,,-1.0,IamPhamous
+4,80.0,Jd 3c,"received, received, folds, does",,,,,,folded,0.0,BigBlat
+8,80.0,3d 4c,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+4,80.0,Qc,"has, received, received, folds, does",,,,,,folded,-1.0,shokerAAss
+4,80.0,Kc 3h,"has, received, received, folds, does",,,,,,folded,-2.0,TonnaMunz
+5,40.7,Ks 7h,"received, received, folds, does",,,,,,folded,0.0,AligateR
+5,40.7,4d,"received, received, folds",4c 3d 7d,,,,,,0.0,gfclbv
+4,40.7,9d 9h,"received, received, folds, does",,,,,,folded,0.0,meandkids
+4,41.7,Kd 4h,"has, received, received, folds, does",,,,,,folded,-1.0,meandkids
+4,43.7,4c Ah,"has, received, received, folds, does",,,,,,folded,-2.0,meandkids
+5,43.7,5d 9h,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,43.7,Ah 7c,"received, received, folds, does",,,,,,folded,0.0,dscshift
+6,22.46,2d 8h,"received, received, folds",Qs 2s 4s,,Kd,,2c,,0.0,GreinSeint
+5,40.0,7c 7d,"has, received, received, calls",6s 3h 4s,"allin, mucks, mucks",,,,,3.7,IlxxxlI
+5,40.0,Qh 2c,"has, received, received, folds, does",,,,,,folded,-2.0,Wollverin
+5,20.0,Qd,"received, received, raises",4c Kc Qs,checks,As,calls,2d,checks,2.46,IlxxxlI
+5,40.0,3s 9s,"received, received, folds",10s 8c 2c,,Qc,,Jh,,0.0,gfclbv
+5,20.0,7h,"received, received, folds",4c Qs Kd,,9c,,,,0.0,BirdieKing
+5,20.25,4d 3h,"has, received, received, folds",Kd 3d 7d,,,,,,-0.25,BirdieKing
+4,20.0,2c,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,40.0,Jh,"received, received, folds",Jd Kc Jc,,Qs,,Qh,,0.0,Are
+5,20.0,Qs 9d,"received, received, folds",2s Ah Kd,,,,,,0.0,in_ur_i
+5,40.0,4d,"received, received, folds, does",,,,,,folded,0.0,dscshift
+4,24.0,Jd 7c,"has, received, received, folds, does",,,,,,folded,-0.25,BirdieKing
+5,24.5,Jc 6d,"has, received, received, folds, does",,,,,,folded,-0.5,BirdieKing
+5,24.5,5s 2h,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,20.0,5s 6s,"received, received, folds",Jh 2c Js,,Ac,,Jc,,0.0,in_ur_i
+4,40.0,5d 7c,"has, received, received, folds",7h Ac 7s,,,,Qs,,-1.0,gfclbv
+5,24.5,6d,"received, received, folds",2c 2d Kd,,,,,,0.0,BirdieKing
+5,35.67,Ks 2s,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+5,21.0,Qs Qc,"has, received, received, raises, mucks, mucks",,,,,,,3.5,IlxxxlI
+5,34.92,Kc Kd,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,20.0,5s 8c,"has, received, received, folds",7d 4h 3s,,,,,,-0.25,GreinSeint
+6,20.75,7s Kc,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,34.92,Jd 6h,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+4,43.53,Js Qh,"has, received, received, calls",8h 8s 5h,calls,8c,checks,3c,"checks, mucks",-7.4,Are
+5,20.0,Qh Js,"has, received, received, calls",9s 4h 6d,"checks, folds, does",,,,folded,-1.5,in_ur_i
+6,20.75,6s 9h,"received, received, folds, does",,,,,,folded,0.0,DonkReaper
+4,43.53,7h,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+5,20.0,3c 6c,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+6,20.75,2h Kh,"received, received, folds",Kc 5c As,,,,,,0.0,BirdieKing
+5,20.0,7s 3d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+4,43.53,Qh,"received, received, folds, does",,,,,,folded,0.0,gfclbv
+5,37.41,Kd Qs,"has, received, received, raises",8s Ad 4s,bets,3h,"is, checks, folds, does",,folded,-2.49,caballeroXXX
+5,20.0,Kd 2s,"received, received, folds, does",,,,,,folded,0.0,GreinSeint
+4,43.53,Jd 3d,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.0,As Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,33.75,Ad Ah,"has, received, received, raises",Qc 2d 10c,"bets, mucks, mucks",,,,,3.66,IlxxxlI
+6,20.0,7s 9c,"has, received, received, calls",3c 4h 8d,bets,8c,"checks, folds, does",,folded,-1.0,GreinSeint
+6,20.0,4c 2s,"has, received, received, folds, does",,,,,,folded,-0.5,meandkids
+6,20.0,Ac 3d,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,20.0,4c 4d,"has, received, received, folds",Qh 5d Kh,,,,5s,,-0.25,caballeroXXX
+5,44.53,5d 6h,"has, received, received, folds",Ks 4c Kd,,2s,,6s,,-1.0,Wollverin
+6,20.0,9s Jd,"received, received, folds",Js 9c Kd,,2c,,,,0.0,caballeroXXX
+5,20.0,3d Ad,"has, received, received, folds",8c Jh 9c,,3h,,4h,,-0.5,SenNoSen
+5,46.53,4c 5h,"has, received, received, folds, does",,,,,,folded,-2.0,Are
+6,20.0,3c,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,33.75,7h,"received, received, folds",Qs 4h Kd,,,,,,0.0,in_ur_i
+6,20.0,9c 6c,"received, received, folds, does",,,,,,folded,0.0,GreinSeint
+6,33.75,5h Ks,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+5,46.53,5h 3c,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.0,Jc Kh,"has, received, received, folds, does",,,,,,folded,-0.25,meandkids
+5,20.0,2h 3d,"received, received, folds",Qc Kh 9c,,,,,,0.0,DonkReaper
+6,33.75,9c 6s,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+6,20.0,2d,"has, received, received, folds, does",,,,,,folded,-0.5,caballeroXXX
+6,34.0,4d 5c,"has, received, received, folds, does",,,,,,folded,-0.25,caballeroXXX
+6,20.0,Ad 4c,"received, received, folds, does",,,,,,folded,0.0,GreinSeint
+6,20.0,2h Qh,"received, received, folds",2s 8c Jd,,7c,,,,0.0,Cinch23
+6,34.5,7s 8s,"has, received, received, folds",Ac 6s 8c,,9h,,4s,,-0.5,Cinch23
+6,20.0,Kc Js,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+5,46.53,Ad 3h,"received, received, folds",3s 3d 6d,,,,,,0.0,Are
+6,20.0,9c 6s,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,20.0,9c 5c,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+6,20.0,5d 4h,"has, received, received, folds, does",,,,,,folded,-0.25,in_ur_i
+5,46.53,5h Qc,"received, received, folds",6s 7d Jh,,8c,,,,0.0,BBDub27
+6,20.0,Kd Ac,"received, received, raises, allin",4h Jc 3s,,,,,,-20.0,SenNoSen
+6,36.25,,"received, received, raises",9s Jc Kh,"checks, is, folds, does",,,,folded,-1.75,caballeroXXX
+6,20.0,9h,"has, received, received, folds, does",,,,,,folded,-0.5,Cinch23
+6,36.25,4h 6h,"received, received, folds, does",,,,,,folded,0.0,DonkReaper
+4,50.53,Qd,"received, received, raises, folds, does",,,,,,folded,-4.0,gfclbv
+6,37.75,7h 7d,"received, received, calls, folds, does",,,,,,folded,-1.5,caballeroXXX
+5,20.25,Jc,"has, received, received, raises",5d 4s Ah,bets,8d,checks,Ac,"checks, mucks",-6.19,caballeroXXX
+4,51.53,7s Kd,"has, received, received, folds, does",,,,,,folded,-1.0,BBDub27
+5,20.0,Ah Ad,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+2,50.53,Ks Kh,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+5,38.0,4d Kh,"has, received, received, folds, does",,,,,,folded,-0.25,caballeroXXX
+5,20.0,5s 3d,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+3,50.53,Ks 5h,"received, received, folds, does",,,,,,folded,0.0,Are
+5,20.0,8c Qs,"has, received, received, calls",Qc 9d Qd,calls,4d,checks,Qh,allin,18.0,IlxxxlI
+4,50.53,7d 4h,"received, received, folds",5h 9c As,,2d,,,,0.0,Are
+5,20.0,3d 7c,"received, received, folds",Ac 6s 7d,,6d,,2c,,0.0,caballeroXXX
+5,20.0,Qh 5d,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+5,20.0,5s 9s,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+4,51.53,4c 4h,"has, received, received, folds, does",,,,,,folded,-1.0,Are
+5,20.0,3h 5s,"received, received, folds",7c 3d Js,,,,,,0.0,caballeroXXX
+4,53.53,7c 2s,"has, received, received, folds, does",,,,,,folded,-2.0,Wollverin
+5,20.25,7s 7h,"has, received, received, folds",8s Qc 5d,,,,,,-0.25,caballeroXXX
+5,20.0,3h 4c,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,20.0,7s 4h,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+5,20.0,Kd,"received, received, calls",Ac 4s Ah,bets,3s,checks,Kc,"calls, mucks",-6.03,Cinch23
+5,20.0,3c Ad,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,20.0,3d,"has, received, received, folds, does",,,,,,folded,-0.25,in_ur_i
+5,20.0,7s 9h,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+4,53.53,8d 6d,"received, received, folds",5d Qc 9c,,7c,,,,0.0,BBDub27
+5,20.0,9d Jc,"has, received, received, folds, does",,,,,,folded,-0.25,meandkids
+4,53.53,Qd,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+5,20.0,2s 2d,"has, received, received, calls",8s 7d Qc,"folds, does",,,,folded,-1.0,Cinch23
+5,20.0,8d,"has, received, received, folds, does",,,,,,folded,-0.5,in_ur_i
+4,53.53,7h 9s,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+5,20.0,6c 8s,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+4,20.0,3s Kh,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+4,54.53,4d Qs,"has, received, received, folds",7c 4s Jc,,,,,,-1.0,BBDub27
+5,20.0,6d 9d,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+3,45.0,Kh 8c,"has, received, received, calls",8h 3c Ah,calls,9d,calls,Kd,"bets, mucks",9.53,IlxxxlI
+5,20.0,Ks,"has, received, received, folds",Qh 4d 9h,,,,,,-0.25,caballeroXXX
+4,45.0,2s 8c,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.0,7c Ks,"has, received, received, folds",2h 3c 10d,,8s,,4s,,-0.5,caballeroXXX
+3,45.0,7h 6d,"received, received, folds",7d 2c 10d,,,,,,0.0,meandkids
+6,20.0,Qs Jd,"received, received, folds",Kh 10c 8c,,,,,,0.0,DonkReaper
+6,20.0,Qs Js,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+4,46.0,Ac 2c,"has, received, received, folds, does",,,,,,folded,-1.0,Wollverin
+5,45.0,Qd Ac,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+4,55.3,,"received, received, raises",Jh 3c 6h,bets,Jd,bets,7s,"bets, mucks",17.55,IlxxxlI
+4,50.8,Ac Kd,"has, received, received, raises",5d 10s Ad,"bets, mucks, mucks",,,,,4.5,IlxxxlI
+5,49.8,8d 2s,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+5,49.8,Qs 4s,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,45.0,3c Jd,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.0,4c 4h,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+4,49.8,Jc,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.0,Qc 4c,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,45.0,3s 8c,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+6,20.49,7c 8s,"has, received, received, calls, folds, does",,,,,,folded,-0.5,caballeroXXX
+5,45.0,8s,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+5,45.0,Qc 6c,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+4,43.0,Qh,"has, received, received, raises, mucks, mucks",,,,,,,2.0,IlxxxlI
+4,45.0,Kh 3d,"has, received, received, folds, does",,,,,,folded,-2.0,meandkids
+6,20.99,2d 8s,"has, received, received, folds",Jh 5c Jc,,Qc,,Qs,,-0.5,DonkReaper
+4,49.8,4h 9s,"received, received, folds",10h 4c Js,,Jh,,5s,,0.0,sheenius81
+5,45.0,Jc 5c,"received, received, folds, does",,,,,,folded,0.0,Are
+6,20.99,Ac 6c,"received, received, folds",6h 8s Kd,,,,,,0.0,DonkReaper
+4,50.8,8h 5c,"has, received, received, folds, does",,,,,,folded,-1.0,38979
+5,20.99,7c 6c,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+5,20.99,2c Ad,"received, received, folds, does",,,,,,folded,0.0,DonkReaper
+4,21.49,6h 7h,"received, received, calls, folds, does",,,,,,folded,-0.5,caballeroXXX
+4,45.0,5s 7h,"received, received, folds",Jh Kh 5c,,9d,,Ah,,0.0,Wollverin
+4,22.49,5s Js,"has, received, received, calls",9c 6c 5c,"checks, calls",Ks,"checks, folds, does",,folded,-1.0,caballeroXXX
+5,45.0,8s Jh,"received, received, folds, does",,,,,,folded,0.0,Are
+4,40.0,2c 4d,"has, received, received, checks",8h 10d 4c,calls,2h,raises,8c,checks,10.8,IlxxxlI
+4,23.74,Jd,"has, received, received, calls",6d Qh Qs,"checks, folds, folded",Ad,,,,-1.25,caballeroXXX
+4,40.0,8s Js,"received, received, raises, folds, does",,,,,,folded,-4.0,Wollverin
+4,23.74,7h 3d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,46.0,Qd 8h,"has, received, received, folds",10d Kd 9d,,4h,,,,-1.0,Are
+5,48.0,4c 6c,"has, received, received, folds",3d Qc Kd,,,,,,-2.0,BBDub27
+4,23.74,2c 6h,"received, received, folds",As 9c 8s,,7s,,Kh,,0.0,sucazappa
+5,40.0,9c Qh,"received, received, folds",7d Kc 9h,,Js,,3s,,0.0,38979
+5,48.0,8s Qd,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+3,23.99,Kc 4d,"has, received, received, folds",4h Js 6h,,,,,,-0.25,in_ur_i
+3,23.54,Ks 9h,"has, received, received, checks",5c 4s 4h,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+5,48.0,8s 6s,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+3,23.54,6c Kd,"received, received, folds, does",,,,,,folded,0.0,in_ur_i
+3,24.04,8c 9d,"has, received, received, calls, folds, does",,,,,,folded,-0.5,caballeroXXX
+2,31.83,As 6h,"has, received, received, raises",9d 2c 7s,bets,Js,checks,Jc,"folds, folded",-4.08,Cinch23
+5,48.0,3h 5s,"received, received, folds, does",,,,,,folded,0.0,38979
+2,32.83,3s Qd,"has, received, received, folds, does",,,,,,folded,-1.0,Cinch23
+3,24.54,Ah 5s,"has, received, received, folds",Qd 7c 6d,,7h,,,,-0.5,38979
+5,40.0,Jd 8h,"received, received, folds",5c 9s Kc,,4s,,6s,,0.0,sheenius81
+3,24.54,6s Kd,"received, received, folds, does",,,,,,folded,0.0,38979
+3,24.79,8h 4h,"has, received, received, folds, does",,,,,,folded,-0.25,caballeroXXX
+3,32.83,Qs 4c,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+5,40.0,6h 6s,"received, received, allin, mucks, mucks",,,,,,,8.0,IlxxxlI
+3,41.0,5d 5s,"received, received, raises",4c 10s Jh,checks,As,checks,Jd,checks,1.59,IlxxxlI
+5,40.0,9d 6d,"has, received, received, folds, does",,,,,,folded,-1.0,Are
+3,25.29,4h 8c,"has, received, received, folds, does",,,,,,folded,-0.5,caballeroXXX
+3,33.33,9c 2h,"has, received, received, folds, does",,,,,,folded,-0.5,38979
+4,24.54,Qh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+3,34.33,3c 9c,"has, received, received, folds, does",,,,,,folded,-1.0,38979
+4,24.09,4d 5d,"has, received, received, calls",Js Ad Kd,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+5,40.0,Jd 4s,"has, received, received, folds",Qc 7c Kd,,4h,,,,-2.0,dscshift
+3,20.75,Jc Ac,"has, received, received, raises, calls",3d Jh Jd,"checks, allin",8c,,Qs,,20.25,IlxxxlI
+3,45.33,6h 6s,"received, received, raises, calls",4d 2c 8s,"folds, does",,,,folded,-11.0,38979
+5,40.0,3c 4d,"has, received, received, folds",2s Ks 7c,,2c,,,,-1.0,38979
+5,23.84,Qd,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+3,20.5,9h Qd,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,41.33,8s 9s,"has, received, received, raises, mucks, mucks",,,,,,,4.0,IlxxxlI
+5,23.09,Js As,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+3,20.5,8h 2d,"received, received, folds",9h Qd Ac,,9s,,,,0.0,caballeroXXX
+5,40.0,3s Jd,"received, received, folds",As Ah 8s,,,,,,0.0,Are
+3,20.0,Qs,"has, received, received, raises, mucks, mucks",,,,,,,0.5,IlxxxlI
+5,21.5,3d Ad,"has, received, received, calls",9d 4d 8d,"checks, raises, allin",8s,,3c,,19.83,IlxxxlI
+5,21.5,8h Ac,"received, received, raises",8s 7h 5h,"bets, mucks, mucks",,,,,1.59,IlxxxlI
+5,40.0,3h 4c,"received, received, folds",7d Kc 7s,,9d,,,,0.0,38979
+5,20.0,Qh,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,40.0,Ah 3h,"has, received, received, calls",Ks 5d 2s,"checks, calls",9h,"checks, folds, does",,folded,-9.0,Wollverin
+5,21.75,Kd 3d,"has, received, received, folds, does",,,,,,folded,-0.25,meandkids
+5,20.0,Ad,"has, received, received, calls",10c Ks 2d,calls,4h,checks,3s,"calls, mucks",-4.0,Cinch23
+5,20.0,As Kh,"has, received, received, allin, mucks, mucks",,,,,,,1.75,IlxxxlI
+5,31.79,8d 8s,"received, received, raises, calls",6s As 5s,calls,9c,checks,4c,"folds, folded",-17.75,Cinch23
+5,20.0,6c 5s,"received, received, folds, does",,,,,,folded,0.0,38979
+4,40.0,Qh 4c,"received, received, folds",Ad 8s Kd,,Ac,,,,0.0,meandkids
+5,32.29,2d 3c,"has, received, received, folds, does",,,,,,folded,-0.5,meandkids
+5,40.0,Jh 4h,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+5,40.0,6c,"received, received, folds",3c 6d 8d,,8h,,Jc,,0.0,Wollverin
+5,20.0,Jc Ad,"received, received, raises",9s Kh 7s,bets,3d,checks,Kc,"checks, mucks",-3.5,meandkids
+5,40.0,9d Jc,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+5,20.65,Ad Qd,"has, received, received, calls",4d 10h 8d,"checks, raises, allin",8h,,2h,,-20.65,legenda99
+2,25.53,8d Qd,"has, received, received, raises, mucks, mucks",,,,,,,0.5,IlxxxlI
+6,32.29,9s Jc,"received, received, folds",10d 7c Qh,,Jd,,4c,,0.0,38979
+5,40.0,Js 3h,"has, received, received, folds, does",,,,,,folded,-1.0,Wollverin
+2,26.03,Js,"has, received, received, folds, does",,,,,,folded,-0.5,Cinch23
+5,20.0,4d Jd,"has, received, received, folds",8d Ks Ad,,,,,,-0.25,38979
+6,35.79,Ah Qs,"received, received, raises, folds, does",,,,,,folded,-3.5,38979
+5,40.0,7h 5d,"received, received, folds",2s Js Qc,,,,9h,,0.0,dscshift
+5,40.0,2h,"has, received, received, folds, does",,,,,,folded,-2.0,Wollverin
+4,40.0,9s 2h,"received, received, folds, does",,,,,,folded,0.0,Are
+3,26.03,7s,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+6,20.0,4c Jd,"has, received, received, folds, does",,,,,,folded,-0.5,Goomashroom
+6,35.79,4s 8c,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,21.15,Kd 3s,"has, received, received, folds",6c 4s 8c,,Jh,,9h,,-0.5,Goomashroom
+6,35.79,Qc 2c,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+5,40.0,Qs Jh,"received, received, folds, does",,,,,,folded,0.0,Are
+3,27.28,Jd Kh,"has, received, received, raises",9h 5h 2s,"checks, folds, does",,,,folded,-1.25,Goomashroom
+5,21.15,7s 4s,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+6,36.29,Ad 9s,"has, received, received, folds, does",,,,,,folded,-0.5,Bhodisattva
+6,20.0,3d,"received, received, folds",8d Qh Qs,,Ks,,Jh,,0.0,meandkids
+5,40.0,8h 9c,"has, received, received, folds",9h 5s 2s,,Ac,,2d,,-1.0,sheenius81
+3,27.78,5s,"has, received, received, folds, does",,,,,,folded,-0.5,Cinch23
+6,20.0,As 7h,"received, received, folds",10s 3c Qd,,,,,,0.0,meandkids
+5,40.0,3s 7h,"has, received, received, folds",6d 7d 5h,,,,,,-2.0,dscshift
+6,26.02,Jc Qc,"has, received, received, calls",6c Jd Qh,calls,4h,calls,9s,"allin, mucks",10.27,IlxxxlI
+6,20.0,Ac 8d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,40.0,9s,"received, received, folds",2s Qc 5s,,,,,,0.0,Are
+6,26.02,Ac 5s,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+5,40.0,4d 9d,"received, received, folds",10s 8c 6s,,5h,,,,0.0,38979
+6,26.02,4c 9d,"received, received, folds, does",,,,,,folded,0.0,Bhodisattva
+3,86.02,Jc 6h,"has, received, received, folds, does",,,,,,folded,-1.0,gfclbv
+2,87.02,5d Ks,"has, received, received, folds, does",,,,,,folded,-1.0,Orondi
+5,40.0,3d 6s,"received, received, folds",Kh Ad 5h,,,,,,0.0,meandkids
+6,26.02,5d Ah,"received, received, folds, does",,,,,,folded,0.0,meandkids
+4,40.0,8s 5s,"received, received, folds",Jd 6d Ad,,,,,,0.0,sheenius81
+6,20.0,2c 6d,"has, received, received, folds",10d 7c 9c,,7d,,5c,,-0.25,meandkids
+5,21.15,6c Ad,"received, received, folds",Ac 2s 9h,,3c,,7h,,0.0,caballeroXXX
+3,27.78,Kh 6s,"received, received, folds",6d Qd 10d,,4d,,7c,,0.0,Goomashroom
+4,40.0,3s Ac,"received, received, folds, does",,,,,,folded,0.0,sheenius81
+4,40.0,9h 5s,"has, received, received, folds, does",,,,,,folded,-1.0,Are
+6,20.0,2c,"has, received, received, folds, does",,,,,,folded,-0.5,meandkids
+3,28.03,5d 4s,"has, received, received, folds, does",,,,,,folded,-0.25,Goomashroom
+4,40.0,5s 3c,"has, received, received, folds",8h 6h 9h,,,,,,-1.0,sheenius81
+2,80.0,3c 3h,"has, received, received, calls",4c 7d 6d,"checks, calls",3s,"checks, calls",,checks,7.02,IlxxxlI
+3,28.53,4d 7s,"has, received, received, folds, does",,,,,,folded,-0.5,Goomashroom
+5,40.0,8d Kc,"has, received, received, folds",3s Ad Jc,,,,,,-2.0,38979
+4,27.78,Ah Jh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,26.02,3c 6h,"received, received, folds",4s 9d 5h,,,,,,0.0,Cinch23
+5,21.15,2s Ks,"received, received, folds",5c 2c 9c,,Kd,,,,0.0,legenda99
+5,40.0,4c 5d,"received, received, folds, does",,,,,,folded,0.0,brokenlucks
+6,26.52,3h 3d,"has, received, received, folds",8d Ad 10d,,,,,,-0.5,38979
+4,40.0,7c Ad,"has, received, received, calls",8h Qs 10c,checks,8s,checks,4h,"checks, mucks",-4.0,Wollverin
+4,26.65,Jh Jc,"has, received, received, raises",Ad As 3h,checks,4c,"bets, mucks, mucks",,,1.13,IlxxxlI
+4,40.0,7h,"received, received, folds, does",,,,,,folded,0.0,brokenlucks
+4,20.25,Qc,"has, received, received, calls",9c 7d 8c,bets,As,"bets, mucks, mucks",,,0.9,IlxxxlI
+6,27.52,Jc 7s,"has, received, received, folds, does",,,,,,folded,-1.0,meandkids
+6,20.0,6c 3c,"received, received, folds",5c 6d 6s,,As,,3h,,0.0,Goomashroom
+5,25.91,9d,"received, received, raises",Ac 9c Ks,checks,Jd,checks,Ad,checks,0.06,"legenda99, IlxxxlI"
+4,40.0,Qc 6c,"received, received, folds, does",,,,,,folded,0.0,sheenius81
+4,20.75,2c 8h,"has, received, received, folds, does",,,,,,folded,-0.5,Goomashroom
+4,25.91,3d 6s,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+4,40.0,2h 3h,"has, received, received, folds, does",,,,,,folded,-1.0,38979
+4,20.75,Ks,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+4,25.51,8h Kh,"has, received, received, calls",As Ad 10c,checks,6c,checks,8s,checks,1.14,IlxxxlI
+4,40.0,9c 4h,"received, received, folds",2d 4d 3d,,9h,,,,0.0,38979
+5,20.0,Kd 7c,"received, received, folds",8c 3h Kh,,,,,,0.0,Goomashroom
+6,20.0,Js Jd,"received, received, raises",6s Jc 8h,bets,Kc,"allin, mucks, mucks",,,7.52,IlxxxlI
+4,25.51,4d 2c,"received, received, folds, does",,,,,,folded,0.0,Cinch23
+4,20.0,Ad Kh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,20.0,5d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+6,40.0,8d Jc,"has, received, received, calls",10c 3c 5s,checks,2h,checks,,"checks, mucks",-4.0,sheenius81
+4,25.51,Kh 3c,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+5,20.0,8d 3c,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+4,20.0,7h 3h,"has, received, received, folds",Kc 4h 5c,,,,,,-0.25,Goomashroom
+4,22.85,Jh Jd,"has, received, received, raises",3h Ad As,checks,3c,checks,Jc,"bets, mucks",3.06,IlxxxlI
+6,20.0,4h 7c,"received, received, folds",9h 10s 7s,,,,5d,,0.0,Cinch23
+5,20.0,5c 8h,"has, received, received, folds, does",,,,,,folded,-0.25,caballeroXXX
+4,20.0,8d Qh,"has, received, received, folds, does",,,,,,folded,-0.5,caballeroXXX
+3,25.06,Kc 6c,"has, received, received, calls",7c 8h 3c,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+5,40.0,3c Ks,"received, received, folds",Kh 5h Jh,,9h,,,,0.0,meandkids
+6,40.0,2d 2s,"received, received, raises",Qd 10s 5s,checks,6h,"folds, does",,folded,-4.8,sheenius81
+5,22.85,Qh 2s,"received, received, folds, does",,,,,,folded,0.0,DonkReaper
+5,20.0,3d,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,20.0,5d 8h,"received, received, folds, does",,,,,,folded,0.0,meandkids
+6,20.0,8d 2s,"received, received, folds, does",,,,,,folded,0.0,TranscendencE
+3,24.81,2c As,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,22.85,9c 2d,"received, received, folds, does",,,,,,folded,0.0,legenda99
+6,20.0,2h,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+5,20.0,3c 8c,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,20.0,3h Ac,"received, received, folds, does",,,,,,folded,0.0,Bhodisattva
+5,22.85,Kh 6s,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+5,20.0,4s,"has, received, received, folds, does",,,,,,folded,-0.5,TranscendencE
+5,20.0,3d 6c,"has, received, received, folds, does",,,,,,folded,-1.0,Bhodisattva
+4,24.81,Qs 9d,"received, received, folds",7c 5s 4h,,Jc,,7s,,0.0,38979
+5,40.0,4s 3d,"received, received, folds",5c 6c 2h,,7h,,Jd,,0.0,Wollverin
+6,20.0,2s 9d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,25.06,Qs 3h,"has, received, received, folds, does",,,,,,folded,-0.25,RetardedGenius
+5,20.25,9s,"has, received, received, raises, calls",Ac Jc 10c,"checks, folds, does",,,,folded,-5.0,lovecola
+6,20.0,4s 6d,"received, received, folds, does",,,,,,folded,0.0,38979
+6,40.0,5h 6d,"received, received, folds",Jh 5d As,,Js,,4h,,0.0,gfclbv
+5,40.0,9d 2h,"received, received, folds",Qs 8c 2d,,,,,,0.0,38979
+5,20.0,7h 9d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,25.56,8c 7d,"has, received, received, folds",4h 3s 4c,,,,,,-0.5,RetardedGenius
+6,20.0,5c 2s,"has, received, received, folds, does",,,,,,folded,-0.25,meandkids
+5,23.1,5h Ac,"has, received, received, folds",9h 6d As,,Jh,,8s,,-0.25,caballeroXXX
+5,24.81,Ah Qd,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,40.0,4c 4s,"has, received, received, folds, does",,,,,,folded,-1.0,BBDub27
+6,40.0,8c 2s,"has, received, received, folds",4s Jc 6h,,3c,,Js,,-1.0,sheenius81
+5,23.6,Kd 9c,"has, received, received, folds, does",,,,,,folded,-0.5,DonkReaper
+5,24.81,2c 6d,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,20.0,2s As,"has, received, received, calls",6h 5s 10d,"checks, folds, does",,,,folded,-1.13,Goomashroom
+5,23.6,Qc 6s,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+5,24.81,Kc 7d,"received, received, folds",8c 7s 2d,,,,,,0.0,allaebalaamballa
+5,23.6,6s 4d,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,40.0,Jd Qc,"has, received, received, calls",Qh 5s 2h,"checks, calls",Js,"checks, allin",Kh,,-40.0,sheenius81
+6,40.0,Qc,"has, received, received, calls",Qd Kc 8c,"checks, calls",Ac,checks,3s,"checks, mucks",-10.0,Wollverin
+5,24.31,Kh Ks,"has, received, received, raises, mucks, mucks",,,,,,,0.5,IlxxxlI
+5,20.0,3h 7d,"received, received, folds",6c 2h 2s,,7h,,,,0.0,legenda99
+5,23.6,6h Qs,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,40.0,6c 8s,"received, received, folds",3s 7s 3d,,Ac,,9h,,0.0,gfclbv
+5,20.0,2s 6c,"received, received, folds, does",,,,,,folded,0.0,lovecola
+5,24.81,Kc 5h,"has, received, received, folds",Ac 6c Jd,,,,,,-0.5,RetardedGenius
+3,28.85,8d 7h,"has, received, received, folds, does",,,,,,folded,-0.25,legenda99
+5,24.06,Ac 8c,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,23.85,Kc 4s,"has, received, received, folds",8h 6c Ah,,5d,,3s,,-0.25,caballeroXXX
+6,40.0,7d Qd,"received, received, folds, does",,,,,,folded,0.0,Wollverin
+5,24.06,Ac 3s,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+4,29.35,4c 8c,"has, received, received, folds",Jh 4s Js,,7s,,8s,,-0.5,allaebalaamballa
+6,24.35,9d Js,"has, received, received, folds, does",,,,,,folded,-0.5,DonkReaper
+6,20.0,7h Qc,"received, received, folds",3s 3c 4d,,4c,,,,0.0,caballeroXXX
+5,24.06,7s 3d,"received, received, folds",4s Jc 5h,,,,,,0.0,Goomashroom
+6,40.0,3s 8c,"received, received, folds",10c Kd 3d,,,,Qs,,0.0,meandkids
+6,20.25,5h Qh,"has, received, received, folds, does",,,,,,folded,-0.25,legenda99
+5,24.31,5h Kd,"has, received, received, folds, does",,,,,,folded,-0.25,38979
+6,40.0,5d 8h,"has, received, received, folds, does",,,,,,folded,-1.0,BBDub27
+6,20.75,Kc 6d,"has, received, received, folds, does",,,,,,folded,-0.5,Goomashroom
+4,24.06,7d Ks,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,24.35,9s Kc,"received, received, folds",10h Kd As,,,,2h,,0.0,in_ur_i
+4,24.06,8s 7h,"received, received, folds, does",,,,,,folded,0.0,38979
+6,24.35,Kc 8h,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+4,24.06,7d 2h,"received, received, folds",4d 9c 9d,,,,,,0.0,allaebalaamballa
+6,40.0,3c Ad,"has, received, received, folds, does",,,,,,folded,-2.0,meandkids
+6,20.75,Kd 9d,"received, received, folds",Kc 8d 5s,,,,,,0.0,legenda99
+5,24.31,5d Kh,"has, received, received, folds, does",,,,,,folded,-0.25,RetardedGenius
+6,40.0,Jd 4h,"received, received, folds",Ac 3c Kc,,,,,,0.0,gfclbv
+6,20.0,Kh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,24.81,9h 4h,"has, received, received, folds, does",,,,,,folded,-0.5,allaebalaamballa
+5,31.1,Qc Kh,"received, received, raises, folds",5c Ks 10h,,5h,,,,-1.75,allaebalaamballa
+5,24.81,Kd 2d,"received, received, folds, does",,,,,,folded,0.0,RetardedGenius
+6,24.35,8h Qc,"received, received, folds",10c 5d Jh,,5h,,7h,,0.0,DonkReaper
+5,40.0,Ks 5d,"received, received, folds, does",,,,,,folded,0.0,meandkids
+5,24.81,Ks 4s,"received, received, folds",9h Jc Kd,,,,,,0.0,RetardedGenius
+6,20.0,2h Kc,"received, received, folds",10h 5s 10s,,,,Kh,,0.0,in_ur_i
+5,40.0,2h 6s,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+5,32.3,5d Kd,"received, received, raises",2c 8d Qh,checks,5h,checks,2d,"checks, folds, folded",-1.2,legenda99
+5,23.88,Jh 8h,"received, received, calls",9c 2d 3d,"bets, mucks, mucks",,,,,0.93,IlxxxlI
+5,20.0,3c 7c,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,24.35,7d Js,"received, received, folds",7s 9h 5d,,,,,,0.0,DonkReaper
+6,40.0,2h,"received, received, folds",Kh 5h As,,,,,,0.0,38979
+6,20.0,Qh Ks,"has, received, received, folds, does",,,,,,folded,-0.25,legenda99
+5,40.0,6h Ad,"has, received, received, folds, does",,,,,,folded,-1.0,Wollverin
+6,24.13,4d Ah,"has, received, received, folds",7s 10c Ks,,6c,,6h,,-0.25,RetardedGenius
+5,33.8,Qh Jd,"received, received, raises, folds",6d 7s 6s,,Ad,,Kd,,-1.5,shureg22
+5,20.0,6d 9h,"has, received, received, folds, does",,,,,,folded,-0.5,lovecola
+6,23.22,Ks Qs,"has, received, received, raises",Qh Ah As,checks,7c,"bets, mucks, mucks",,,1.13,IlxxxlI
+5,34.05,6d 9d,"has, received, received, folds, does",,,,,,folded,-0.25,allaebalaamballa
+6,23.72,4s,"has, received, received, folds, does",,,,,,folded,-0.5,legenda99
+5,20.0,Jh 2h,"received, received, folds",3d Ks 3s,,,,,,0.0,legenda99
+6,22.99,9c,"has, received, received, calls",6d 8s Jd,checks,Jc,"bets, mucks, mucks",,,1.14,IlxxxlI
+5,34.05,5s 3h,"received, received, folds, does",,,,,,folded,0.0,legenda99
+6,23.72,6c 3h,"received, received, folds, does",,,,,,folded,0.0,legenda99
+6,23.99,6c Ac,"received, received, raises, folds",9c 3c 5s,,4c,,Js,,-1.0,tintinhsl
+6,23.99,8d Ac,"received, received, folds",9c 10c 3h,,4h,,7c,,0.0,in_ur_i
+6,20.0,Ad,"received, received, raises",Kc 3h 4s,"bets, folds, does",,,,folded,-1.7,legenda99
+6,20.0,Kc Ac,"received, received, raises",6s As 7s,"bets, mucks, mucks",,,,,3.99,IlxxxlI
+6,23.72,4h 2d,"received, received, folds",5s Kd 5h,,2h,,2c,,0.0,legenda99
+6,34.05,5d 8s,"received, received, folds",9c Kc 2c,,7s,,6s,,0.0,flyzlcomb07
+6,23.72,5h Jc,"received, received, folds, does",,,,,,folded,0.0,DonkReaper
+6,23.72,6c Qs,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,20.0,7d 9d,"received, received, folds",10h 7c Qh,,3s,,Qd,,0.0,legenda99
+6,20.0,Ks 5c,"received, received, folds",9d 7d 4h,,6d,,Kc,,0.0,in_ur_i
+6,36.25,Jc Kc,"received, received, raises",8d Ah 10h,"bets, folds, does",,,,folded,-2.2,6betThreat
+6,23.97,3h 4h,"has, received, received, folds, does",,,,,,folded,-0.25,caballeroXXX
+5,27.77,3h 5s,"received, received, folds, does",,,,,,folded,0.0,meandkids
+6,36.25,Qd 6h,"received, received, folds",7c 4d 4s,,Qc,,6c,,0.0,flyzlcomb07
+6,20.25,7s Jh,"has, received, received, folds, does",,,,,,folded,-0.25,Goomashroom
+6,20.0,3c Kc,"has, received, received, folds",5d 3s Qd,,6d,,,,-0.25,RetardedGenius
+5,22.83,8d 8s,"has, received, received, calls",As Jd 9s,checks,6d,checks,9d,checks,1.14,IlxxxlI
+5,27.77,7c Jh,"received, received, folds",As Qs 8d,,Ad,,6d,,0.0,Goomashroom
+5,20.75,6s,"has, received, received, folds, does",,,,,,folded,-0.5,lovecola
+5,42.52,Js Ad,"has, received, received, raises, calls",5c 10c 6s,,7h,,9h,,-6.27,6betThreat
+6,20.0,Jh,"has, received, received, calls",8h 6h 8s,"checks, folds, does",,,,folded,-1.0,RetardedGenius
+5,20.75,9d 3h,"received, received, folds, does",,,,,,folded,0.0,legenda99
+5,20.75,Qc 7c,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+5,22.83,Qd 8d,"received, received, folds",Jh Kd 6c,,,,,,0.0,legenda99
+5,28.02,Kc 3c,"has, received, received, folds",Qs Kh 4s,,5s,,6h,,-0.25,caballeroXXX
+5,20.0,9d Qd,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,20.0,5d Kd,"has, received, received, calls",7d 10d 6h,"checks, allin",9d,,Ks,,22.52,IlxxxlI
+5,27.77,Ah 7c,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,20.0,6c,"has, received, received, folds",6d 7s 7c,,7h,,,,-0.25,legenda99
+5,20.0,5c 8d,"received, received, folds",3d 7d Ac,,8h,,2h,,0.0,allaebalaamballa
+5,21.2,8s 8c,"received, received, raises",4s 9d 3c,"checks, calls",Qd,bets,2s,checks,6.57,IlxxxlI
+5,22.83,4c Jc,"received, received, folds",2h Js Jd,,5d,,7s,,0.0,legenda99
+5,20.0,5h,"has, received, received, calls",As Js 4h,"checks, folds, does",,,,folded,-1.13,Goomashroom
+5,20.0,Kc Kh,"received, received, raises",Ah 4s 5h,checks,5d,bets,9s,checks,2.83,IlxxxlI
+5,20.0,5s,"received, received, folds",3h 6h Qd,,,,,,0.0,6betThreat
+6,21.2,3c 5h,"received, received, folds",6d 7d 3h,,,,,,0.0,Goomashroom
+5,20.0,6s 5s,"has, received, received, folds",7c Qh Qd,,,,,,-0.25,DonkReaper
+6,20.45,As 7h,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,20.0,7s Ad,"received, received, folds",6s 4h 2s,,9h,,,,0.0,flyzlcomb07
+5,20.0,Qs 5s,"has, received, received, folds, does",,,,,,folded,-0.5,DonkReaper
+6,20.0,5c 9c,"has, received, received, calls",9d As 6s,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+5,20.0,2c,"received, received, folds, does",,,,,,folded,0.0,legenda99
+5,20.0,5c,"received, received, folds, does",,,,,,folded,0.0,legenda99
+6,20.0,Qd 9c,"has, received, received, calls",7s 6c Ah,"checks, folds, does",,,,folded,-1.0,38979
+5,20.0,7s Qd,"received, received, folds, does",,,,,,folded,0.0,legenda99
+5,20.0,Qh 6h,"has, received, received, folds, does",,,,,,folded,-0.25,Goomashroom
+6,20.0,Qs 2d,"has, received, received, folds",5d 2c 3s,,9d,,5s,,-0.25,legenda99
+5,20.0,4h 2c,"has, received, received, folds",3c 8s Kd,,6c,,,,-0.5,DonkReaper
+6,20.0,3c Ac,"has, received, received, calls",Qs Kc Kd,checks,5s,"checks, folds, does",,folded,-1.0,6betThreat
+6,20.0,4s 8c,"received, received, folds",7h 6c Qh,,Jh,,Ah,,0.0,in_ur_i
+6,20.0,4h 5c,"received, received, folds",Kh 9c Ac,,8s,,,,0.0,legenda99
+5,20.0,9c Qc,"received, received, is, folds, does",,,,,,folded,0.0,Goomashroom
+6,20.0,Kh Ad,"received, received, raises",5c 3h Jh,"bets, is, folds, does",,,,folded,-6.14,flyzlcomb07
+5,20.0,4d 9d,"has, received, received, is, folds",10d Qh 3h,,7h,,,,-0.25,caballeroXXX
+6,20.0,9d 4d,"received, received, folds",4c 3c 8d,,,,,,0.0,flyzlcomb07
+7,20.25,Ks 8d,"has, received, received, is, folds",2h 3c 9h,,5d,,As,,-0.25,6betThreat
+5,20.0,7s 4h,"has, received, received, is, folds",5c As 9s,,2d,,,,-0.5,DonkReaper
+7,20.0,5d 2d,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,101.65,6h Kd,"received, received, folds",Ah 8h 9c,,2s,,6s,,0.0,JJaromir
+5,88.0,Ad Kd,"received, received, raises, calls",3s 7d Ah,checks,As,"bets, mucks, mucks",,,13.65,IlxxxlI
+5,88.0,5c Kh,"received, received, folds, does",,,,,,folded,0.0,JJaromir
+4,89.0,9h Ac,"has, received, received, folds, does",,,,,,folded,-1.0,JJaromir
+4,80.0,5d Kh,"has, received, received, checks",7h 8c Kd,bets,9s,calls,,checks,9.0,IlxxxlI
+6,41.43,Qc,"received, received, raises",Qd 8h Qs,checks,Ac,"bets, mucks, mucks",,,1.14,IlxxxlI
+6,41.43,2c Ah,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+6,35.55,9s Kc,"received, received, folds, does",,,,,,folded,0.0,IWantYourChips
+6,23.34,Ah,"received, received, calls",2s Qd 10c,bets,4s,bets,,bets,18.09,IlxxxlI
+5,37.05,Qh,"received, received, raises, folds, does",,,,,,folded,-1.5,Goomashroom
+6,23.59,3h Ad,"has, received, received, folds, does",,,,,,folded,-0.25,ILiK3PaStA
+5,37.3,Jd,"has, received, received, folds, does",,,,,,folded,-0.25,38979
+5,24.09,3h 2c,"has, received, received, folds, does",,,,,,folded,-0.5,caballeroXXX
+5,24.09,7d 8d,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+5,24.09,7h 8d,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+4,24.09,3h 2h,"received, received, folds, does",,,,,,folded,0.0,caballeroXXX
+6,41.83,4c 8c,"has, received, received, calls",5s 5h Qc,calls,Ac,calls,9s,"checks, mucks",-4.53,38979
+4,24.84,4h 7s,"has, received, received, folds, does",,,,,,folded,-0.5,BoTPuMHeDichBro
+5,24.84,Jd 5h,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,21.89,Qh Qs,"received, received, raises",3d 7c 6c,"bets, allin",Kh,,,,19.94,IlxxxlI
+5,21.14,Qc Ah,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,20.0,Ad Qs,"received, received, raises",Jh 8s 4h,"bets, mucks, mucks",,,,,1.14,IlxxxlI
+5,20.0,9c,"received, received, folds, does",,,,,,folded,0.0,legenda99
+5,20.0,7d Ah,"has, received, received, folds, does",,,,,,folded,-0.25,legenda99
+5,24.34,6c,"has, received, received, folds",3s 7c 3c,,,,5c,,-0.25,BoTPuMHeDichBro
+5,24.84,4c,"has, received, received, folds, does",,,,,,folded,-0.5,SenNoSen
+6,20.0,8d Ah,"has, received, received, folds",2c 4d 6s,,9h,,,,-0.5,SenNoSen
+5,24.84,9h Qd,"received, received, folds",3h 7d 6c,,8d,,3d,,0.0,Goomashroom
+6,20.0,4d,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,24.84,6c 2s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,24.84,Qd 9c,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,20.0,3c 8c,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+6,20.0,4c 2s,"received, received, folds, does",,,,,,folded,0.0,legenda99
+6,20.0,Jc,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+6,20.0,5h Jh,"has, received, received, folds, does",,,,,,folded,-0.5,legenda99
+5,25.09,Ks 7c,"has, received, received, folds",7d 7s 8d,,7h,,6h,,-0.25,SenNoSen
+5,24.84,8d 8h,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,24.84,Qs 8c,"received, received, folds",6d 7c 9d,,,,,,0.0,Smok5
+6,20.0,5s Ac,"received, received, folds",4s 3c 10d,,3s,,Qd,,0.0,eu4ria
+6,20.0,5d,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,20.0,Jd 6c,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,24.84,4h 4c,"received, received, folds",7c 3h 4d,,,,,,0.0,eu4ria
+6,20.0,8h 3h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,24.84,7s 4s,"received, received, folds",Kc 10h 3s,,,,,,0.0,eu4ria
+5,24.84,2c 6c,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+6,20.0,9c 3s,"has, received, received, folds",7c 7s Kc,,6d,,2s,,-0.25,legenda99
+6,20.0,9h 5s,"has, received, received, folds, does",,,,,,folded,-0.5,SenNoSen
+3,87.9,5s 3c,"has, received, received, checks",6d 4c 4s,checks,Qh,"raises, mucks, mucks",,,5.4,IlxxxlI
+5,24.39,2c 9c,"has, received, received, calls",Ac Kd Ad,"bets, mucks, mucks",,,,,0.45,IlxxxlI
+3,88.9,8c 4s,"has, received, received, folds, does",,,,,,folded,-1.0,JJaromir
+4,87.9,3s 4s,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+6,20.0,5c Ad,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,87.9,6s Qd,"received, received, folds, does",,,,,,folded,0.0,Popka1337
+6,20.0,5c,"received, received, folds",6h 6c 10s,,,,,,0.0,Goomashroom
+6,89.9,9d,"has, received, received, calls",2h 6c Kh,"checks, folds, does",,,,folded,-2.0,JJaromir
+5,24.89,Kh 4h,"has, received, received, checks",Ac Qs 4c,"checks, folds, folded",5h,,3c,,-0.5,Goomashroom
+6,20.0,7c 5h,"received, received, folds",Jh Jd Kh,,2c,,,,0.0,Goomashroom
+6,91.9,4s Jd,"has, received, received, folds, does",,,,,,folded,-2.0,DonCesarGrinder
+5,24.89,8s 5d,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+4,24.14,Kd Kh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,91.9,Ad 6d,"received, received, folds, does",,,,,,folded,0.0,DonCesarGrinder
+6,20.17,5d 5c,"received, received, calls",Jc 8c 6c,checks,,"folds, does",,folded,-1.5,eu4ria
+4,24.14,7h 6s,"received, received, folds, does",,,,,,folded,0.0,Smok5
+5,20.67,4d Jd,"has, received, received, calls, folds, does",,,,,,folded,-0.5,Goomashroom
+6,87.35,9s Ks,"received, received, raises",8s 9c 2s,"bets, mucks, mucks",,,,,4.55,IlxxxlI
+4,22.97,Jc 9c,"received, received, calls",3c Jh 3s,"bets, mucks, mucks",,,,,1.17,IlxxxlI
+5,21.17,4c 7h,"has, received, received, folds",4d Qd 5d,,,,,,-0.5,SenNoSen
+5,87.35,8h 3c,"received, received, folds, does",,,,,,folded,0.0,KingGuciGuci
+4,23.22,2d 8d,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,22.97,8s 5h,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,21.17,Ad 8d,"received, received, folds",6s Ah Kd,,6h,,4h,,0.0,SenNoSen
+5,21.17,As 4d,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,80.0,7d 7c,"received, received, calls",6c 3c Qd,checks,7s,"bets, mucks, mucks",,,7.35,IlxxxlI
+5,21.17,Jc Kh,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,22.97,5s 2s,"received, received, folds",9s 8s 6h,,,,,,0.0,BoTPuMHeDichBro
+6,23.66,Js Qd,"has, received, received, raises",4d 4h 2h,bets,7s,"checks, folds, does",,folded,-2.49,Goomashroom
+5,80.0,Ah Qd,"has, received, received, raises",9s 10c 7h,checks,9c,"checks, folds, does",,folded,-12.75,DonCesarGrinder
+5,22.22,Kh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,83.0,7c Ac,"has, received, received, raises, folds, does",,,,,,folded,-12.15,DonCesarGrinder
+6,22.07,9h Ah,"has, received, received, calls",5d Qc 4h,checks,3h,"bets, mucks, mucks",,,1.59,IlxxxlI
+5,21.47,Kc Qc,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,22.72,Ad 2d,"has, received, received, raises",2c 9s Qh,checks,,"checks, folds, does",,folded,-1.25,BoTPuMHeDichBro
+6,22.07,3s,"received, received, folds",6c Jc 2s,,5d,,8d,,0.0,Goomashroom
+6,21.32,Qc Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,83.0,3h 2c,"received, received, folds",10h 7h 2h,,8h,,Ac,,0.0,bunchy
+6,20.0,Kc Kd,"received, received, raises",Jd Ks 6s,"bets, mucks, mucks",,,,,1.32,IlxxxlI
+5,22.83,Ad,"has, received, received, raises",As 8s Kd,checks,Jc,bets,Kh,"checks, calls",-0.11,"Smok5, IlxxxlI"
+5,83.0,2d 7s,"received, received, folds, does",,,,,,folded,0.0,KingGuciGuci
+5,22.83,7h Ks,"received, received, folds, does",,,,,,folded,0.0,BoTPuMHeDichBro
+5,80.0,Ah Jd,"received, received, raises, mucks, mucks",,,,,,,3.0,IlxxxlI
+6,34.94,Kc Qc,"received, received, raises, calls",10c 8s Qd,calls,7c,calls,,,-19.25,GreinSeint
+5,22.08,Ad Jc,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,80.0,9s 4s,"has, received, received, calls",5h 5d Jh,"bets, folds, does",,,,folded,-4.0,KingGuciGuci
+5,22.08,7s 3h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,35.19,Jh 5h,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,21.33,6s 6h,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,21.58,3c 4h,"has, received, received, folds",Ac Qc Ks,,,,,,-0.25,SenNoSen
+6,32.96,4h,"has, received, received, calls",4s 7c 5c,"checks, calls",Ac,checks,,bets,2.23,IlxxxlI
+5,22.08,Qc 6s,"has, received, received, folds, does",,,,,,folded,-0.5,SenNoSen
+6,24.25,Ad As,"received, received, raises, calls",5s 3h Kh,calls,Qh,"bets, mucks, mucks",,,8.71,IlxxxlI
+5,22.08,Ks 7c,"received, received, folds",8h 3c 10c,,,,9c,,0.0,Hakuna_Matata777
+6,80.0,3c 4s,"has, received, received, folds",As 7s Kc,,4c,,Ad,,-2.0,DonCesarGrinder
+6,24.25,2h Qd,"received, received, folds",2d 10h 7c,,7s,,Ad,,0.0,wethco
+5,22.08,4c Kh,"received, received, folds",Jd 2h 10c,,,,,,0.0,SenNoSen
+6,80.0,2h 3h,"received, received, folds",3c Kc 9s,,,,,,0.0,JJaromir
+6,24.25,2d 7h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,22.08,7s Ac,"received, received, folds, does",,,,,,folded,0.0,Smok5
+6,80.0,2d 7c,"received, received, folds, does",,,,,,folded,0.0,JJaromir
+6,24.25,Ad 5h,"received, received, folds, does",,,,,,folded,0.0,Goomashroom
+6,80.0,Jh 5c,"received, received, folds, does",,,,,,folded,0.0,KingGuciGuci
+6,24.5,6c Qh,"has, received, received, folds, does",,,,,,folded,-0.25,GreinSeint
+5,22.08,2h,"received, received, folds, does",,,,,,folded,0.0,Hakuna_Matata777
+5,22.33,7s,"has, received, received, folds, does",,,,,,folded,-0.25,BoTPuMHeDichBro
+6,23.0,Ad Qs,"has, received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,80.0,5s Kd,"received, received, folds",4c 2s Jc,,,,,,0.0,JJaromir
+5,22.08,9c,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,23.0,9c Jd,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,81.0,4s 6s,"has, received, received, folds, does",,,,,,folded,-1.0,DonCesarGrinder
+6,80.0,6h 4c,"has, received, received, mucks, mucks",,,,,,,1.0,IlxxxlI
+6,23.0,6h 8c,"received, received, folds",4h 2c 9s,,,,,,0.0,Goomashroom
+5,22.08,3s 3c,"received, received, folds",5d 9h Ah,,3h,,9s,,0.0,Smok5
+6,23.0,2h,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+6,23.0,Qh 7h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,22.08,6s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,23.25,Jh Qd,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,22.08,8c Qh,"received, received, folds, does",,,,,,folded,0.0,Smok5
+5,21.75,Ad Qh,"has, received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+5,21.33,Ac Kh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,21.75,5c 2s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,21.75,9c 2s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,21.58,As 6d,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,22.08,9h 3s,"has, received, received, folds, does",,,,,,folded,-0.5,SenNoSen
+6,21.75,3c Kc,"received, received, folds",3d 4d Qc,,5s,,5c,,0.0,wethco
+6,22.0,Qc 6d,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,20.75,Ac Js,"has, received, received, raises, mucks, mucks",,,,,,,1.25,IlxxxlI
+5,22.08,8c Qd,"received, received, folds",Jc Kd 8s,,Ac,,3h,,0.0,BoTPuMHeDichBro
+5,20.75,9d 4c,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,20.0,Jc Js,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,22.08,3d 7s,"received, received, folds, does",,,,,,folded,0.0,BoTPuMHeDichBro
+5,22.08,4h,"received, received, folds, does",,,,,,folded,0.0,Smok5
+6,20.0,5s,"received, received, folds",6s 10c Js,,3h,,2h,,0.0,wethco
+5,22.08,Kc,"received, received, folds",As 9c 8d,,5c,,6c,,0.0,BoTPuMHeDichBro
+6,20.0,2h Jc,"received, received, folds",9s 4h Jh,,2s,,,,0.0,SenNoSen
+4,31.63,2s Js,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,20.25,3s 3h,"has, received, received, raises",Ks 5h 10d,"is, checks",6d,checks,8c,checks,1.83,IlxxxlI
+6,20.0,4d Qc,"has, received, received, folds",3h 10d 3s,,8h,,7c,,-0.25,SenNoSen
+5,20.75,8h 6h,"has, received, received, folds, does",,,,,,folded,-0.5,BoTPuMHeDichBro
+6,20.0,6c 2c,"has, received, received, folds, does",,,,,,folded,-0.5,Hakuna_Matata777
+6,20.0,5d 5s,"received, received, raises",Jh As 9d,bets,2c,checks,,"checks, mucks",-2.11,eu4ria
+5,20.75,Kd Jc,"received, received, folds, does",,,,,,folded,0.0,Hakuna_Matata777
+5,20.75,7s,"received, received, folds, does",,,,,,folded,0.0,BoTPuMHeDichBro
+5,20.75,5s Kc,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,20.0,9c,"received, received, folds",9h Ac 3c,,Kd,,Qd,,0.0,SenNoSen
+5,20.75,9h Kc,"received, received, folds",7c 10s Ad,,,,,,0.0,BoTPuMHeDichBro
+6,20.0,4s Jd,"received, received, folds",5h 4h 5s,,,,,,0.0,Hakuna_Matata777
+5,20.0,2c 5c,"has, received, received, calls",2h 10d Kc,"checks, calls",8h,"bets, mucks, mucks",,,2.72,IlxxxlI
+5,21.0,2c 5h,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+5,20.75,7d 7h,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+5,20.75,9h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,20.67,Ac 7c,"received, received, raises",3c 9h 8d,bets,9d,checks,Ah,bets,-3.69,wethco
+4,20.75,5s,"received, received, folds, does",,,,,,folded,0.0,BoTPuMHeDichBro
+4,20.75,6s 7s,"received, received, folds, does",,,,,,folded,0.0,Smok5
+4,20.0,As Qd,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,23.25,9s Qs,"has, received, received, raises",5s Kd 2h,"checks, folds, does",,,,folded,-2.58,dscshift
+5,23.75,Qs 9c,"has, received, received, checks",2h 4c 2s,checks,Ks,"checks, folds, does",,folded,-0.5,dscshift
+4,20.0,4h 6d,"has, received, received, folds",Qc 6s Ks,,,,,,-0.25,BoTPuMHeDichBro
+5,23.75,Qc 7h,"received, received, folds",5d 10h 4c,,6s,,,,0.0,dscshift
+5,23.75,Js 7h,"received, received, folds",9h Qh Qd,,7s,,4s,,0.0,dscshift
+5,20.0,Jd Qh,"has, received, received, checks",9d 10d Kd,checks,6d,bets,Jh,"bets, folds, folded",-2.36,Smok5
+6,23.75,4d Qs,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,20.0,6s 8d,"received, received, folds, does",,,,,,folded,0.0,BoTPuMHeDichBro
+5,20.0,8c,"received, received, folds",4h 2d As,,,,,,0.0,BoTPuMHeDichBro
+6,24.0,4s 6c,"has, received, received, folds",4d 3s 5d,,,,,,-0.25,SenNoSen
+5,20.0,7s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+8,59.5,8s 5h,"received, received, folds",3c 7d 4d,,Qd,,,,0.0,1jackoff1
+6,24.5,3s,"has, received, received, folds",6c As Js,,,,,,-0.5,eu4ria
+5,20.0,2c 6s,"has, received, received, folds",10c Ks 5d,,Kh,,Jc,,-0.25,Smok5
+6,24.5,Jh 3s,"received, received, folds",Ks 5s 3h,,3c,,Jd,,0.0,dscshift
+4,20.0,3h,"has, received, received, folds, does",,,,,,folded,-0.5,SenNoSen
+8,59.5,2s Qc,"received, received, folds",4d 9s 5h,,,,,,0.0,1jackoff1
+6,24.5,4d 5d,"received, received, folds",5c 4c Ac,,8s,,Qd,,0.0,wethco
+7,59.5,4h 5d,"received, received, folds, does",,,,,,folded,0.0,smellskindyfishy
+6,24.5,4h 4d,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+7,59.5,Kd 9d,"received, received, folds",Kc 8s Ad,,,,,,0.0,1jackoff1
+4,20.0,6h 2d,"received, received, folds",Jd Jc 9c,,Ks,,,,0.0,SenNoSen
+6,23.75,Qs 9c,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,24.0,7c Js,"has, received, received, folds, does",,,,,,folded,-0.25,dscshift
+6,23.75,Ac Kh,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+4,20.0,3h 2s,"received, received, folds",9d 7d Kc,,,,,,0.0,pokanaktus
+7,59.5,Qs 8h,"received, received, folds",10s 2h Kd,,,,,,0.0,NoizeyCrckt
+4,20.0,As 4h,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+6,23.75,Js 3c,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+6,23.75,9s Qs,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+6,23.75,Kd 6c,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+7,59.5,9h 5d,"received, received, folds",6s 7d 6c,,Ks,,,,0.0,1jackoff1
+5,20.0,Kd,"has, received, received, folds",Jc Qc 3h,,5h,,Js,,-0.25,eu4ria
+6,23.75,Ad,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,20.0,8c 2c,"has, received, received, checks",6d 8d Ah,"checks, folds, does",,,,folded,-0.5,Smok5
+6,24.0,8h 6s,"has, received, received, folds",3c 2d Kc,,,,,,-0.25,SenNoSen
+5,20.0,3h 6c,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+7,20.0,,"has, received, received, allin",Kd Jd 10s,,5s,,3s,,39.5,"Ms, IlxxxlI"
+6,24.5,8h Js,"has, received, received, folds",5s 2c 4s,,As,,3c,,-0.5,dscshift
+5,20.0,9s Kd,"received, received, folds",2d 6h 6d,,6s,,9d,,0.0,Smok5
+6,24.5,6h 5d,"received, received, folds",4c 4h 6s,,7h,,,,0.0,eu4ria
+6,24.5,Qh 5d,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+5,20.0,As 5d,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+7,20.0,Kd Qh,"has, received, received, raises",8s 4d 3d,bets,4h,"checks, folds, folded",3s,,-4.0,Ms
+6,23.75,Qs Ad,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,20.0,6d 9h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,23.75,8c 2s,"received, received, folds",10d Jh Kh,,,,,,0.0,dscshift
+6,22.62,Ad Qc,"has, received, received, raises",8h 2s Jd,"bets, mucks, mucks",,,,,1.13,IlxxxlI
+5,20.0,Ah 6c,"has, received, received, folds",10c 3h Jd,,Jh,,,,-0.25,BoTPuMHeDichBro
+7,20.0,Jd,"received, received, folds",6c 3h Qd,,7d,,,,0.0,1jackoff1
+6,23.62,8c,"has, received, received, calls",4h Qh 3d,"checks, folds, does",,,,folded,-1.0,SenNoSen
+6,23.62,Kd 6s,"received, received, folds",5d 10c Qc,,9s,,,,0.0,dscshift
+7,20.0,6s 2c,"received, received, folds",Ac 3c Jd,,2h,,5c,,0.0,"1jackoff1, haroldbb"
+6,22.87,Ac,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+6,22.87,9s,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,20.0,7h 8d,"has, received, received, calls",4h 8c Ac,checks,6c,checks,,"checks, calls, mucks",-1.95,SenNoSen
+6,22.87,4s 7h,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+7,20.0,2d 2s,"received, received, folds",Ah Qc 9c,,5h,,6d,,0.0,Ease
+5,20.0,3h Ac,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,23.12,Qs 2h,"has, received, received, folds",2c 8s Qc,,Jh,,7c,,-0.25,dscshift
+7,20.0,As 4s,"received, received, folds, does",,,,,,folded,0.0,Hakuna_Matata777
+6,20.0,3d,"received, received, folds",Js 2c 3s,,8s,,,,0.0,SenNoSen
+5,23.62,5c,"has, received, received, folds",Jd 4h Jc,,8d,,,,-0.5,eu4ria
+5,38.69,Ad Js,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+5,23.62,8h 3d,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+6,20.0,6c Ad,"received, received, calls, folds, does",,,,,,folded,-0.5,BoTPuMHeDichBro
+7,20.0,Ac 7c,"received, received, folds",9h Qs 6h,,4d,,3c,,0.0,1jackoff1
+6,20.0,Qc 7c,"has, received, received, folds, does",,,,,,folded,-0.25,pokanaktus
+5,23.62,4s Kd,"received, received, folds",7s Qs 9h,,Qh,,,,0.0,pokanaktus
+6,20.0,7c 3s,"has, received, received, folds, does",,,,,,folded,-0.5,eu4ria
+7,20.0,4h 7s,"received, received, folds",Qc 9d 2d,,,,,,0.0,1jackoff1
+5,23.62,7c Js,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+5,20.0,Ad Ah,"has, received, received, raises",7h 6s 6c,"bets, allin",5h,,Kc,,18.24,IlxxxlI
+6,26.64,Jc 9h,"received, received, folds",2d 3d 4s,,,,,,0.0,BoTPuMHeDichBro
+6,23.87,6h Jd,"has, received, received, folds, does",,,,,,folded,-0.25,eu4ria
+6,26.64,Ac 3c,"received, received, folds, does",,,,,,folded,0.0,pingpong420
+5,20.0,9h 4h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+6,24.37,Js,"has, received, received, folds, does",,,,,,folded,-0.5,pokanaktus
+7,20.0,3d Jc,"received, received, folds",Qd 7h 8h,,Kh,,,,0.0,1jackoff1
+6,26.64,4h,"received, received, folds, does",,,,,,folded,0.0,pokanaktus
+6,24.37,3d 7h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+2,43.3,6d,"has, received, received, folds, does",,,,,,folded,-1.0,SenNoSen
+6,20.0,Kd 3d,"has, received, received, calls",5c 7s As,"checks, folds, does",,,,folded,-0.5,rpportugal
+5,20.0,3s 2s,"received, received, folds",10h 8h 5c,,7h,,,,0.0,DonkReaper
+6,20.0,5s 3d,"has, received, received, checks",As 6c 6s,"checks, folds, does",,,,folded,-0.5,1jackoff1
+6,20.0,8c,"received, received, raises, folds, does",,,,,,folded,-1.5,eu4ria
+6,20.25,Qd Qs,"has, received, received, raises",10d Ac 6c,"checks, calls",5s,checks,Ks,checks,6.39,IlxxxlI
+6,24.37,3s 6c,"received, received, folds",Kc 8s 5h,,Jc,,5c,,0.0,eu4ria
+3,41.5,9c 8s,"has, received, received, calls",7s 7h 6h,"bets, mucks, mucks",,,,,1.8,IlxxxlI
+6,20.0,8c As,"has, received, received, folds, does",,,,,,folded,-0.25,sucazappa
+6,24.37,3h Jh,"received, received, folds, does",,,,,,folded,0.0,wethco
+6,20.75,2h 3d,"has, received, received, folds",6h 8c 5h,,Kc,,2c,,-0.5,JoJoLoring
+3,40.0,Kh Qd,"received, received, raises, mucks, mucks",,,,,,,1.5,IlxxxlI
+6,23.62,Kc Jh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+7,20.0,3d Js,"received, received, folds",Jd Qd 7c,,Ah,,5h,,0.0,frenzybarb
+6,20.0,5c 8h,"has, received, received, folds, does",,,,,,folded,-0.5,sucazappa
+5,20.0,Jh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+4,40.0,9s 6s,"has, received, received, calls",9c Kh Ad,bets,8d,"bets, folds, does",,folded,-3.0,CrimZnole
+6,23.87,6h 5h,"has, received, received, folds, does",,,,,,folded,-0.25,pokanaktus
+4,40.0,Kd 4d,"has, received, received, folds, does",,,,,,folded,-1.0,plin777
+5,40.0,Qd 9h,"received, received, folds, does",,,,,,folded,0.0,SenNoSen
+7,20.0,Ac 2d,"received, received, folds",8s 5c 6h,,7d,,6d,,0.0,1jackoff1
+4,20.0,2s,"received, received, folds",3d 7s Jh,,,,,,0.0,BoTPuMHeDichBro
+6,20.0,5s Ad,"has, received, received, calls",7h 3s 5c,"checks, calls",7c,"checks, calls",,checks,3.87,IlxxxlI
+4,20.0,3h,"received, received, folds, does",,,,,,folded,0.0,eu4ria
+5,40.9,Qh,"received, received, raises",7c 3h 6d,checks,,calls,4s,"folds, folded",-3.7,CrimZnole
+4,20.0,4d Jc,"has, received, received, folds, does",,,,,,folded,-0.25,pokanaktus
+8,20.0,6d 6c,"received, received, calls",Qd Ac 10d,checks,Ad,"folds, does",,folded,-0.5,1jackoff1
+5,40.0,Kh 7s,"has, received, received, calls",2d 9s 8c,"bets, mucks, mucks",,,,,0.9,IlxxxlI
+8,20.0,Js,"has, received, received, folds",5h 8c 6h,,7c,,3c,,-0.25,1jackoff1
+7,20.0,As 5s,"has, received, received, folds",3h Kh 2s,,Ad,,,,-0.5,haroldbb
+7,20.0,2d Ks,"received, received, folds",Qs Jc 9c,,5c,,7h,,0.0,haroldbb
+8,20.0,Js 8s,"received, received, folds",10s Kd 3h,,3c,,,,0.0,1jackoff1
+7,20.0,Qh 9s,"received, received, folds",Kd 8s 10d,,,,,,0.0,1jackoff1
+7,20.0,As 4h,"received, received, folds",Kc 8h Qd,,9h,,Kd,,0.0,JoJoLoring
+7,20.0,9c 4d,"received, received, folds, does",,,,,,folded,0.0,rpportugal
+7,20.0,8d Ad,"has, received, received, raises",5c Jh 7c,bets,6h,bets,5s,"checks, folds, folded",-2.0,1jackoff1
+7,20.0,Ad 4d,"has, received, received, folds",3c 2c 8d,,,,,,-0.5,1jackoff1
+8,25.82,Qc 2s,"received, received, folds, does",,,,,,folded,0.0,HorsePussy
+8,25.82,8s 2h,"received, received, folds",5h Jh Qh,,Ac,,2s,,0.0,texaswarthog
+7,23.75,Ac Ah,"received, received, raises",Ks Jh 10h,"bets, mucks, mucks",,,,,2.07,IlxxxlI
+7,23.75,Jd,"received, received, folds",5s 5d 4s,,3h,,7h,,0.0,texaswarthog
+8,20.0,Kc Ks,"received, received, raises, mucks, mucks",,,,,,,3.75,IlxxxlI
+9,20.0,Jc 9d,"received, received, folds",6d Qh 10h,,Ks,,6s,,0.0,Chipburnner
+9,20.25,4d,"has, received, received, folds",10c 7c 9d,,As,,,,-0.25,Chipburnner
+9,20.75,5c Kd,"has, received, received, folds",4c 7d 8d,,2d,,6s,,-0.5,GagaPoker
+9,20.75,7s 2c,"received, received, folds",Qs Js 4s,,4c,,,,0.0,"texaswarthog, Chipburnner"
+8,22.5,Qd Kh,"received, received, raises, folds, does",,,,,,folded,-1.75,FirstClan
+8,21.75,Ad Qh,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+8,21.75,4d 2c,"received, received, folds",2h 10d 7h,,Jc,,4c,,0.0,texaswarthog
+8,21.75,Kd 9c,"received, received, folds",9d 10s 6h,,6s,,4d,,0.0,Chipburnner
+8,21.75,9s Ad,"received, received, folds",10s 8d 6h,,,,,,0.0,Chipburnner
+7,21.75,9d 4s,"received, received, folds",3d 5c 6s,,Ks,,9h,,0.0,ACESOVAKINGZ
+7,20.0,4s 4c,"has, received, received, raises, mucks, mucks",,,,,,,1.75,IlxxxlI
+8,20.0,5d 4s,"has, received, received, folds",As Jc 9h,,7h,,,,-0.5,texaswarthog
+8,20.0,7c 6s,"received, received, folds, does",,,,,,folded,0.0,Parcker
+8,20.0,Jc 7h,"received, received, folds",Kc 5c 10c,,5s,,,,0.0,imperceptible
+8,20.0,Qc 7c,"received, received, folds",Jd Ah 6h,,,,,,0.0,ACESOVAKINGZ
+8,20.0,8h Ac,"received, received, folds",6d 10h 3d,,,,,,0.0,texaswarthog
+9,20.0,8d 2h,"received, received, folds",Ah Kh 7d,,,,,,0.0,GagaPoker
+9,20.0,Qc Kc,"has, received, received, raises, folds, does",,,,,,folded,-3.8,Spagetti1
+9,20.0,2c Kc,"has, received, received, folds, does",,,,,,folded,-0.5,MaxWoof
+9,20.0,3c Qh,"received, received, folds",2c 5s 8s,,6s,,As,,0.0,texaswarthog
+9,20.0,,"received, received, raises, folds, does",,,,,,folded,-1.75,Chipburnner
+9,20.0,As 2c,"received, received, folds, does",,,,,,folded,0.0,Chipburnner
+8,20.0,Jd 7c,"received, received, folds",As 5d 4h,,3c,,,,0.0,GagaPoker
+8,20.0,Ad Jc,"received, received, folds",Js 4h Kc,,8d,,Qd,,0.0,Chipburnner
+8,20.0,7c 2d,"received, received, folds",Ad 9s 6s,,8s,,,,0.0,ACESOVAKINGZ
+8,20.0,3s 9d,"received, received, folds, does",,,,,,folded,0.0,GagaPoker
+8,20.0,Kd 7c,"has, received, received, folds",6s 9s 3d,,Kc,,9h,,-0.25,imperceptible
+7,20.0,4h Jd,"has, received, received, folds, does",,,,,,folded,-0.5,Spagetti1
+9,26.39,2c Qc,"received, received, folds, does",,,,,,folded,0.0,Parcker
+9,26.39,3c 3d,"received, received, folds",8h Ks 2d,,5d,,Ah,,0.0,FirstClan
+9,26.39,2s Kh,"received, received, folds",2c 10d 3d,,As,,,,0.0,ChrisNola
+9,26.39,Kh 8c,"received, received, folds, does",,,,,,folded,0.0,kidsquid
+9,26.39,As 2c,"received, received, folds",7d 6d Ad,,2d,,7s,,0.0,sr86
+9,26.39,5s 9d,"received, received, folds, does",,,,,,folded,0.0,Parcker
+9,26.64,Kc 3c,"has, received, received, folds, does",,,,,,folded,-0.25,FirstClan
+9,27.14,4d,"has, received, received, folds",9c 8s Jh,,Qc,,Jd,,-0.5,kidsquid
+9,27.14,Kc,"received, received, folds, does",,,,,,folded,0.0,Spagetti1
+9,27.14,4c Jh,"received, received, folds",7h 6s 9h,,,,4d,,0.0,kidsquid
+9,22.43,,"received, received, raises",6c 10d 6s,"checks, calls",4d,checks,Qs,"bets, mucks",4.71,IlxxxlI
+9,22.43,Jh 5h,"received, received, folds",Jc 7d 4s,,5s,,,,0.0,ChrisNola
+9,22.43,8d Ah,"received, received, folds",8c 5s 6h,,Ac,,,,0.0,parmele
+9,22.43,5c 8d,"received, received, folds, does",,,,,,folded,0.0,Spagetti1
+9,22.43,5h Jd,"received, received, folds",Qs 7h Kd,,3h,,,,0.0,FirstClan
+9,22.68,Qd 9h,"has, received, received, folds",Jd 7c 10c,,8d,,5c,,-0.25,Parcker
+8,23.18,Qh 7c,"has, received, received, folds",3s Ah 2h,,,,6c,,-0.5,ChrisNola
+8,23.18,Ac,"received, received, folds",8h Qc 8s,,5c,,3c,,0.0,hotshothotgg
+8,23.18,6h 7c,"received, received, folds",Jd Kh 10d,,,,,,0.0,Spagetti1
+9,23.18,7h 7c,"received, received, folds",9c 4d 8h,,,,,,0.0,hotshothotgg
+9,23.18,5c,"received, received, folds, does",,,,,,folded,0.0,hotshothotgg
+9,23.18,3h Jc,"received, received, folds",Qh 4s 7d,,Kd,,,,0.0,FirstClan
+8,23.43,5d 2d,"has, received, received, folds",8d 7h 3h,,5h,,7c,,-0.25,hotshothotgg
+8,23.93,Kc 6d,"has, received, received, folds",Ad 4h 2c,,9c,,Qh,,-0.5,ChrisNola
+8,23.93,9s Ks,"received, received, folds, does",,,,,,folded,0.0,haroldbb
+8,23.93,2d Ks,"received, received, folds, does",,,,,,folded,0.0,haroldbb
+8,23.93,2h Qs,"received, received, folds",10h 3d 10c,,,,,,0.0,haroldbb
+8,23.93,Jh Qs,"received, received, folds",Kc Qh Jc,,,,,,0.0,sr86
+9,23.93,4s,"received, received, folds",9s 3s Ac,,4c,,Jc,,0.0,sr86
+9,23.93,Ad 3h,"received, received, folds",2s 5h 5c,,Jd,,5s,,0.0,haroldbb
+9,24.18,5c,"has, received, received, folds",4s Ah 9s,,7h,,,,-0.25,hotshothotgg
+9,24.68,7h,"has, received, received, folds",Jh Kh 5d,,8c,,7s,,-0.5,ChrisNola
+9,21.66,Kc Qd,"received, received, raises",3h Kd Jh,checks,3s,"bets, mucks, mucks",,,3.02,IlxxxlI
+9,21.66,7c 3h,"received, received, folds",10s 2s Kc,,6s,,Ac,,0.0,FirstClan
+9,21.66,5h 4c,"received, received, folds, does",,,,,,folded,0.0,Parcker
+9,21.66,7h As,"received, received, folds",10s 10h Qs,,5h,,,,0.0,sr86
+7,21.66,5d 8d,"received, received, folds",10d 8c Jh,,Js,,Qs,,0.0,parmele
+8,20.91,5h 5d,"received, received, raises, mucks, mucks",,,,,,,0.75,IlxxxlI
+8,19.51,Ac 9s,"has, received, received, calls",8s Qh 2s,checks,As,checks,Qd,checks,1.4,IlxxxlI
+7,20.01,3d As,"has, received, received, folds, does",,,,,,folded,-0.5,FirstClan
+7,20.01,3c 6h,"received, received, folds",9d 2c 4s,,,,,,0.0,ChrisNola
+6,20.01,6h,"received, received, folds, does",,,,,,folded,0.0,parmele
+5,20.01,7s,"received, received, folds",7h Qc 2c,,,,,,0.0,FirstClan
+7,20.01,8c 2s,"received, received, folds, does",,,,,,folded,0.0,sr86
+8,20.26,4c 4s,"has, received, received, folds",Qd 3c 8c,,6s,,Ks,,-0.25,parmele
+8,20.76,Kc 4s,"has, received, received, folds",8s As Ac,,,,,,-0.5,Brucelegend
+9,20.76,9s 4h,"received, received, folds",4d 6c 3d,,Qd,,,,0.0,parmele
+7,36.84,2h 9d,"received, received, folds",10h Qc Ac,,3s,,,,0.0,"sr86, johnnyboxx7"
+7,36.84,Jc Qd,"received, received, folds",6d 6s 3s,,,,Qs,,0.0,VegasMike420
+9,20.76,3d 4h,"received, received, folds",9d Qc 7h,,7c,,5d,,0.0,WICHONSKI
+9,20.76,3h,"received, received, folds, does",,,,,,folded,0.0,iflopznuts
+7,36.84,Jc 2s,"received, received, folds",Qd 2h 3h,,,,,,0.0,FirstClan
+8,20.76,4h Jh,"received, received, folds, does",,,,,,folded,0.0,WICHONSKI
+7,36.84,6s,"received, received, folds, does",,,,,,folded,0.0,VegasMike420
+8,20.76,4c Jd,"received, received, folds",8s Ah Jc,,,,,,0.0,WICHONSKI
+8,19.17,7h 8h,"received, received, raises",6s As 9c,checks,Qd,checks,6c,"bets, mucks",1.59,IlxxxlI
+7,36.84,8h 2c,"received, received, folds",8d 3d Ad,,2d,,9c,,0.0,BBDub27
+8,19.42,Ks 7d,"has, received, received, folds",5d Qs 8d,,Js,,8c,,-0.25,Brucelegend
+8,37.09,2d,"has, received, received, folds",8h 3d 7c,,4c,,9c,,-0.25,sr86
+8,19.92,7c Jc,"has, received, received, folds",Ad 8s Qh,,,,,,-0.5,WICHONSKI
+7,19.92,4h,"received, received, folds, does",,,,,,folded,0.0,WICHONSKI
+8,19.92,7d 5d,"received, received, folds, does",,,,,,folded,0.0,Brucelegend
+8,35.5,7h Ah,"has, received, received, calls",4d 8c 3d,checks,5h,checks,7c,checks,1.59,IlxxxlI
+8,19.92,5c Qc,"received, received, folds",3s 9s Qd,,,,,,0.0,Brucelegend
+8,19.92,4c Js,"received, received, folds",2c Jh Ad,,Ah,,,,0.0,sr86
+8,29.77,7c 7s,"received, received, raises",4s 8s 9h,bets,5h,"checks, calls",Qh,checks,5.73,IlxxxlI
+9,19.92,6h,"received, received, folds",Kh 3c 8c,,,,4s,,0.0,parmele
+9,20.17,9d 6c,"has, received, received, folds, does",,,,,,folded,-0.25,WICHONSKI
+8,29.77,9h Qd,"received, received, folds",2c Kh 3d,,Kc,,,,0.0,FirstClan
+7,29.77,6h 8c,"received, received, folds, does",,,,,,folded,0.0,sr86
+6,29.77,2h,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+9,20.67,Jh 2h,"has, received, received, folds",8d 9h 9c,,Qd,,Qs,,-0.5,ChrisNola
+6,29.77,Ad 3s,"received, received, folds",10c Kh 6c,,9c,,,,0.0,VegasMike420
+9,10.0,Jc Js,"received, received, raises, allin",7c Kd 8h,,6d,,8s,,10.67,IlxxxlI
+6,29.77,4h Ks,"received, received, folds",7h 7c 7d,,5d,,,,0.0,BBDub27
+9,10.0,Ac 9c,"received, received, folds",7s 8h 10d,,4d,,Qh,,0.0,iflopznuts
+6,22.99,Ah 3h,"received, received, raises",5d 3c Ad,bets,4c,raises,4h,checks,6.78,IlxxxlI
+8,10.0,5h 8h,"received, received, folds, does",,,,,,folded,0.0,Brucelegend
+7,23.24,Qh 6h,"has, received, received, folds, does",,,,,,folded,-0.25,FirstClan
+9,10.0,9h Ks,"received, received, folds",9s Qc 5s,,Jh,,,,0.0,iflopznuts
+6,23.74,Jd 4h,"has, received, received, folds",3c 5h Jc,,,,,,-0.5,solasso
+9,12.67,As Kh,"received, received, raises",7d 10s Qc,"checks, allin",9s,,2h,,-12.67,ChrisNola
+7,23.74,Kh,"received, received, folds, does",,,,,,folded,0.0,BBDub27
+7,23.74,Jd,"received, received, folds",2h Qs 4d,,,,,,0.0,VegasMike420
+9,12.67,2d 6h,"received, received, folds",3s 6d Jc,,5s,,Qs,,0.0,Brucelegend
+7,23.74,6c Jh,"received, received, folds",6h Ac 10s,,,,,,0.0,sr86
+8,12.92,Ks 9d,"has, received, received, folds",10c 4c Jc,,3h,,,,-0.25,iflopznuts
+6,23.74,2s 4c,"received, received, folds, does",,,,,,folded,0.0,Daggens
+8,13.42,9h 8s,"has, received, received, folds",Qc Qs 4s,,Js,,Ad,,-0.5,haroldbb
+7,23.99,2c 7h,"has, received, received, folds",4c 6c Js,,9s,,2h,,-0.25,sr86
+8,13.42,3h,"received, received, folds",Qh 3d Js,,,,,,0.0,iflopznuts
+7,24.49,4h 6s,"has, received, received, folds, does",,,,,,folded,-0.5,BBDub27
+9,13.42,4h Ah,"received, received, folds",Jc 2s 9h,,4s,,Ad,,0.0,ChrisNola
+7,24.49,7c 2h,"received, received, folds",4c 5h 2c,,Qd,,3d,,0.0,PoePoe28
+8,10.0,Qs Kc,"received, received, raises",Qc 10d Qh,bets,Ks,bets,2s,"allin, mucks",3.42,IlxxxlI
+8,24.49,7c Qc,"received, received, folds",3d 2d 9c,,7s,,Ac,,0.0,sr86
+8,24.49,9s 6d,"received, received, folds, does",,,,,,folded,0.0,Haid
+8,10.0,8c Kh,"received, received, folds",As 6s 2d,,Kd,,2c,,0.0,ChrisNola
+7,24.49,2s 7h,"received, received, folds",4c 4d 6h,,,,,,0.0,VegasMike420
+8,10.0,Js 7c,"received, received, folds",3c 8h Jc,,9h,,4c,,0.0,ChrisNola
+6,24.49,2s 8d,"received, received, folds",10d 3c Qs,,5d,,3s,,0.0,Mestre83
+8,10.0,Qs Ks,"received, received, raises",Qh 9s 10s,"bets, allin",4h,,2c,,-10.0,iflopznuts
+7,24.49,3h 8s,"received, received, folds",Qh Jc Kh,,4c,,9h,,0.0,BBDub27
+7,10.0,8s 3d,"received, received, folds",6d 6s 7h,,As,,Qc,,0.0,WICHONSKI
+6,10.0,Kc 5s,"has, received, received, folds",9c Qs 6h,,,,,,-0.25,iflopznuts
+7,24.74,Ks 8h,"has, received, received, folds",4s 9s 3h,,,,,,-0.25,Mestre83
+6,10.0,2c Jd,"has, received, received, checks",Kd Qs 9d,"checks, folds, does",,,,folded,-0.5,WICHONSKI
+6,10.0,7s 5d,"received, received, folds, does",,,,,,folded,0.0,WICHONSKI
+8,20.0,Qd,"has, received, received, raises",3h 5s Qs,bets,4h,bets,,"bets, mucks",4.74,IlxxxlI
+6,10.0,Ks 7s,"received, received, folds",Qh Jd 10c,,,,,,0.0,WICHONSKI
+5,10.0,5c,"received, received, folds",Ad 4s 6s,,9s,,,,0.0,WICHONSKI
+5,10.0,6c 2s,"received, received, folds",4d Kd 9c,,7d,,2c,,0.0,iflopznuts
+4,10.25,3s 4c,"has, received, received, folds, does",,,,,,folded,-0.25,WICHONSKI
+5,10.0,Ad Qd,"has, received, received, mucks, mucks",,,,,,,0.25,IlxxxlI
+6,25.84,Qd Kd,"received, received, folds, does",,,,,,folded,0.0,MANTISGUYV10
+6,25.84,3h Ks,"received, received, folds, does",,,,,,folded,0.0,MANTISGUYV10
+6,25.84,8c 4d,"received, received, folds, does",,,,,,folded,0.0,jviana
+6,26.09,Qh 6s,"has, received, received, folds, does",,,,,,folded,-0.25,Log_in
+6,20.0,Jh 7h,"has, received, received, calls",8s 10d 10h,"checks, calls",9c,"bets, allin, mucks, mucks",,,6.09,IlxxxlI
+6,20.0,3d Qh,"received, received, folds, does",,,,,,folded,0.0,naprimer
+6,20.0,Ad 8c,"received, received, folds, does",,,,,,folded,0.0,naprimer
+6,20.0,8c,"received, received, folds",Ah Kd 6c,,9d,,7d,,0.0,jviana
+7,20.0,8s 5d,"received, received, folds, does",,,,,,folded,0.0,MANTISGUYV10
+7,20.0,4s,"has, received, received, folds",8s 3s 8h,,Kd,,7s,,-0.25,Tanker123
+8,20.0,9c 7s,"has, received, received, folds",As 6d Qs,,,,,,-0.5,naprimer
+8,20.0,Jd 8c,"received, received, folds",10d 8s 2s,,,,,,0.0,Tanker123
+8,20.0,3d 4s,"received, received, folds",7h 3c Ac,,,,,,0.0,MANTISGUYV10
+8,20.0,8d Ks,"received, received, folds",Kc 6s 9d,,,,,,0.0,jviana
+8,20.0,7d 9h,"received, received, folds",Kd 3c 2s,,,,,,0.0,jviana
+8,20.0,3s Ac,"received, received, folds",5d Qc Qs,,6s,,7c,,0.0,Tanker123
+8,20.0,6h 2c,"has, received, received, folds",Kc Jc 7h,,,,,,-0.25,MANTISGUYV10
+8,20.0,5s 8d,"has, received, received, folds",4d 9c Qc,,7s,,Jd,,-0.5,MANTISGUYV10
+8,20.0,Jc Kd,"received, received, folds",Qs 8c Ad,,5d,,,,0.0,MANTISGUYV10
+9,20.0,4c Jd,"received, received, folds, does",,,,,,folded,0.0,MANTISGUYV10
+9,20.0,7h 4h,"received, received, folds",Ad 9c 4s,,,,,,0.0,Tanker123
+8,20.0,8c 2h,"received, received, folds, does",,,,,,folded,0.0,Vonalarta
+7,20.0,4h 6h,"received, received, folds",Jc Js 5c,,,,Qh,,0.0,tbmfc
+7,20.0,7h 6d,"received, received, folds",3h 6h 4s,,,,,,0.0,Tanker123
+7,20.0,3h 7d,"has, received, received, folds, does",,,,,,folded,-0.25,Tanker123
+7,20.0,Qc 2s,"has, received, received, folds",Kh 3h 5c,,,,,,-0.5,MANTISGUYV10
+7,20.0,4c 5d,"received, received, folds",8c 10s 8s,,,,,,0.0,MANTISGUYV10
+7,20.0,7h 8c,"received, received, folds",Js Qh 4s,,,,,,0.0,MANTISGUYV10
+9,20.0,3h 5c,"received, received, folds, does",,,,,,folded,0.0,tbmfc
+9,20.0,8h 6d,"received, received, folds, does",,,,,,folded,0.0,tbmfc
+9,20.0,7c,"received, received, folds",9s 3c Js,,Kd,,,,0.0,MANTISGUYV10
+8,20.0,Qs 5c,"has, received, received, folds",Jd Qd 3s,,7d,,Ks,,-0.25,BiGFck
+9,20.0,Jc 4d,"has, received, received, folds, does",,,,,,folded,-0.5,Vonalarta
+9,20.0,2h 4d,"received, received, folds",Qs Ks 4c,,,,,,0.0,MANTISGUYV10
+8,20.0,2s 6d,"received, received, folds",10c 5c 2h,,,,,,0.0,gmjohn
+9,20.0,2s 2h,"received, received, folds, does",,,,,,folded,0.0,n0hvn
+9,20.0,7h 3s,"received, received, folds",8c 8h 5d,,7d,,Js,,0.0,Log_in
+9,20.0,7d Ac,"received, received, folds",7c 3c 3h,,,,,,0.0,MANTISGUYV10
+9,20.0,As Ks,"has, received, received, raises, allin",9h Jh 3h,,5c,,Js,,-20.0,Vonalarta
+8,20.0,8h Ah,"has, received, received, checks",5h 3d 3s,"checks, calls",8s,"checks, calls",7h,"checks, allin",-20.0,MANTISGUYV10
+8,20.0,Kh 6h,"received, received, folds, does",,,,,,folded,0.0,MANTISGUYV10
+7,20.0,9c 5c,"received, received, folds",4s Qs Kd,,,,,,0.0,Log_in
+8,20.0,Kc 2h,"received, received, folds, does",,,,,,folded,0.0,naprimer
+8,20.0,3d 6d,"received, received, folds",4h 8s 9c,,,,,,0.0,gmjohn
+8,20.0,Jh 9h,"received, received, folds, does",,,,,,folded,0.0,naprimer
+8,20.0,9h Ah,"received, received, folds",4d 3c Ac,,,,,,0.0,Log_in
+9,20.0,4c 7c,"has, received, received, folds",4s 9h 6c,,,,,,-0.25,tbmfc
+9,20.0,8d,"has, received, received, checks",Qc 9s Ad,checks,Ks,"checks, folds, does, folded",,,-0.5,gmjohn
+5,20.45,Ks 8c,"received, received, folds, does",,,,,,,0.0,saidafrente
+4,10.0,7s 5s,"has, received, received, calls",Ac Qc Qs,"bets, folds, does, folded",,,,,-1.0,AARON81

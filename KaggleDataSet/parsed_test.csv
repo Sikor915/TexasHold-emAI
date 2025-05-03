@@ -1,0 +1,2 @@
+num_players,player_stack,player_cards,pre_flop,flop,decision_flop,turn,decision_turn,river,decision_river,net_result,winners
+8,31.57,Ad Kd,"received, received, raises",10d 2h 5s,checks,2c,checks,4d,"checks, folds, folded",-1.75,VamosRafaFTW

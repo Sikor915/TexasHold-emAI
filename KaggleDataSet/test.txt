@@ -1,0 +1,61 @@
+Game started at: 2016/11/29 15:23:24
+Game ID: 787026881 0.25/0.50 (PRR) Garuda - 3 (Hold'em)
+Seat 8 is the button
+Seat 1: choiCES (87.40).
+Seat 2: hoocher (63.11).
+Seat 3: Parcker (97.82).
+Seat 4: IlxxxlI (31.57).
+Seat 5: VamosRafaFTW (49.21).
+Seat 6: dankmann (95.08).
+Seat 7: BlueSmoke (46.89).
+Seat 8: Maria_Pia (20).
+Player choiCES has small blind (0.25)
+Player hoocher has big blind (0.50)
+Player BlueSmoke wait BB
+Player choiCES received a card.
+Player choiCES received a card.
+Player hoocher received a card.
+Player hoocher received a card.
+Player Parcker received a card.
+Player Parcker received a card.
+Player IlxxxlI received card: [Ad]
+Player IlxxxlI received card: [Kd]
+Player VamosRafaFTW received a card.
+Player VamosRafaFTW received a card.
+Player dankmann received a card.
+Player dankmann received a card.
+Player Maria_Pia received a card.
+Player Maria_Pia received a card.
+Player Parcker folds
+Player IlxxxlI raises (1.75)
+Player VamosRafaFTW calls (1.75)
+Player dankmann calls (1.75)
+Player Maria_Pia folds
+Player choiCES folds
+Player hoocher folds
+*** FLOP ***: [10d 2h 5s]
+Player IlxxxlI checks
+Player VamosRafaFTW checks
+Player dankmann checks
+*** TURN ***: [10d 2h 5s] [2c]
+Player IlxxxlI checks
+Player VamosRafaFTW checks
+Player dankmann checks
+*** RIVER ***: [10d 2h 5s 2c] [4d]
+Player IlxxxlI checks
+Player VamosRafaFTW bets (3.40)
+Player dankmann calls (3.40)
+Player IlxxxlI folds
+Player dankmann mucks cards
+------ Summary ------
+Pot: 12.16 Rake 0.44 JP fee 0.20
+Board: [10d 2h 5s 2c 4d]
+Player choiCES does not show cards.Bets: 0.25 Collects: 0. Loses: 0.25
+Player hoocher does not show cards.Bets: 0.50 Collects: 0. Loses: 0.50
+Player Parcker does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player IlxxxlI does not show cards.Bets: 1.75 Collects: 0. Loses: 1.75
+*Player VamosRafaFTW shows: Straight to 5 [3c Ac]. Bets: 5.15 Collects: 12.16 Wins: 7.01
+Player dankmann mucks (does not show cards). Bets: 5.15 Collects: 0. Loses: 5.15
+Player BlueSmoke does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Maria_Pia does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/11/29 15:24:40
