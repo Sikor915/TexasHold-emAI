@@ -1,13 +1,15 @@
 import numpy
-import os
-import sys
 import torch
-import torch.nn.functional as F
-from torch import nn
+import pandas as pd
+#import torch.nn.functional as F
+
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
-import pandas as pd
+#from torch import nn
 
 """def check_accuracy(loader, model):
     num_correct = 0
@@ -62,9 +64,29 @@ test_acc = check_accuracy(test_loader, model)
 print(f"Training Accuracy: {train_acc:.2f}")
 print(f"Test Accuracy: {test_acc:.2f}")"""
 
-pokerTrainDF = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.1.csv")
+#added 13.05 -------------------------------------
+
+def count_items(cell, sep=", "):
+    if pd.isna(cell) or cell == "":
+        return 0
+    return len(cell.split(sep))
+
+#Zrobic zlaczenie tych danych z Kaggle + Pluribus
+pokerTrainDF20 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.0.csv")
+pokerTrainDF21 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.1.csv")
+pokerTrainDF = pd.concat([pokerTrainDF20, pokerTrainDF21], ignore_index=True)
 #print(pokerTrainDF.head())
 print(pokerTrainDF.columns)
+
+MAX_PRE   = pokerTrainDF["pre_flop"].apply(lambda s: count_items(s)).max()
+MAX_FLOP  = pokerTrainDF["flop"].apply(lambda s: count_items(s, sep=" ")).max()
+MAX_DF    = pokerTrainDF["decision_flop"].apply(lambda s: count_items(s)).max()
+MAX_DT    = pokerTrainDF["decision_turn"].apply(lambda s: count_items(s)).max()
+MAX_DR    = pokerTrainDF["decision_river"].apply(lambda s: count_items(s)).max()
+
+print(f"Max lengths → pre:{MAX_PRE}, flop:{MAX_FLOP}, d_flop:{MAX_DF}, d_turn:{MAX_DT}, d_river:{MAX_DR}")
+
+#added 13.05 -------------------------------------
 
 def encode_cards(cards_str):
     ranks = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A']
@@ -78,7 +100,7 @@ def encode_cards(cards_str):
     return [card2id[c] for c in cards if c in card2id]
 
 def encode_actions(actions_str):
-    action_vocab = ["folds", "calls", "raises", "checks", "allin" ,"bets", "mucks", "received"]
+    action_vocab = ["folds", "calls", "raises", "checks", "allin" ,"bets", "mucks"]
     action2id = {a: i for i, a in enumerate(action_vocab)}
 
     if not isinstance(actions_str, str):
@@ -102,6 +124,49 @@ def collate_fn(batch):
             collated[key] = torch.stack(items)
 
     return collated
+
+#added 13.05 -------------------------------------
+
+def collate_and_pad(batch):
+    # define a helper to pad/truncate a list of 1D tensors
+    def fix(seq_list, max_len):
+        # pad with -1 (or any sentinel) or truncate
+        out = []
+        for seq in seq_list:
+            if seq.size(0) < max_len:
+                pad = seq.new_full((max_len - seq.size(0),), -1)
+                out.append(torch.cat([seq, pad], dim=0))
+            else:
+                out.append(seq[:max_len])
+        return torch.stack(out, dim=0)
+
+    cards = fix([b["cards"] for b in batch], 2)  # always 2 hole cards
+    flop = fix([b["flop"] for b in batch], MAX_FLOP)
+    pre = fix([b["pre_flop"] for b in batch], MAX_PRE)
+    d_flop = fix([b["decision_flop"] for b in batch], MAX_DF)
+    d_turn = fix([b["decision_turn"] for b in batch], MAX_DT)
+    d_river = fix([b["decision_river"] for b in batch], MAX_DR)
+
+    # stack scalars
+    num_players = torch.stack([b["num_players"] for b in batch])
+    player_stack = torch.stack([b["player_stack"] for b in batch])
+    blind = torch.stack([b["blind"] for b in batch])
+    net_result = torch.stack([b["net_result"] for b in batch])
+
+    return {
+        "cards": cards,
+        "flop": flop,
+        "pre_flop": pre,
+        "decision_flop": d_flop,
+        "decision_turn": d_turn,
+        "decision_river": d_river,
+        "num_players": num_players,
+        "player_stack": player_stack,
+        "blind": blind,
+        "net_result": net_result
+    }
+
+#added 13.05 -------------------------------------
 
 class DataSet(torch.utils.data.Dataset):
     def __init__(self, data_frame):
@@ -163,9 +228,45 @@ class PokerAI(nn.modules):
         return self.model(x)"""
 
 pokerTrainDataSet = DataSet(pokerTrainDF)
-pokerTrainDataLoader = DataLoader(pokerTrainDataSet, batch_size=2, shuffle=False, collate_fn=collate_fn)
+#pokerTrainDataLoader = DataLoader(pokerTrainDataSet, batch_size=8, shuffle=False, collate_fn=collate_fn)
+pokerDataLoader = DataLoader(pokerTrainDataSet, batch_size=64, shuffle=False, collate_fn=collate_and_pad)
 
-for batch_idx, row in enumerate(pokerTrainDataLoader):
+"""for batch_idx, row in enumerate(pokerTrainDataLoader):
     print(f"Batch {batch_idx}:")
     print(row)
     break  # Just to see the first batch
+"""
+
+#added 13.05 -------------------------------------
+
+all_X, all_y = [], []
+for batch in pokerDataLoader:
+    B = batch["cards"].size(0)
+    Xb = torch.cat([
+        batch["cards"],  # shape (B,2)
+        batch["flop"],  # (B, MAX_FLOP)
+        batch["pre_flop"],  # (B, MAX_PRE)
+        batch["decision_flop"],  # (B, MAX_DF)
+        batch["decision_turn"],  # (B, MAX_DT)
+        batch["decision_river"],  # (B, MAX_DR)
+        batch["num_players"].unsqueeze(1),  # (B,1)
+        batch["player_stack"].unsqueeze(1),  # (B,1)
+        batch["blind"].unsqueeze(1)  # (B,1)
+    ], dim=1)
+    all_X.append(Xb)
+    all_y.append(batch["net_result"])
+
+X = torch.cat(all_X, dim=0).numpy()
+y = torch.cat(all_y, dim=0).numpy()
+
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
+
+rfr = RandomForestRegressor(n_estimators=300)
+rfr.fit(X_train, y_train)
+#rfr.fit(X,y)
+
+accuracy = rfr.score(X_val, y_val)
+#accuracy = rfr.score(X, y);
+print(f"Validation Accuracy: {accuracy:.4f}")
+
+#added 13.05 -------------------------------------

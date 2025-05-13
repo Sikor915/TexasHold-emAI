@@ -53,7 +53,7 @@ def parse_poker_game(game_text, player_name):
             folded_stage = "river"
 
 
-    # Pre-flop actions
+    # Pre-flop actions - remove the "received" action because its useless
     if "*** FLOP ***" in game_text:
         pre_flop_section = game_text.split("*** FLOP ***")[0]
     else:
@@ -61,7 +61,7 @@ def parse_poker_game(game_text, player_name):
         pre_flop_section = game_text.split("------ Summary ------")[0]
     data["pre_flop"] = [
         action for action in re.findall(rf"Player {player_name} (\w+)(?: \([\d\.]+\))?", pre_flop_section)
-        if action not in ["has", "posts"]  # Exclude "has small/big blind"
+        if action not in ["has", "posts", "received"]  # Exclude "has small/big blind" and "received a card"
     ]
     # Flop, turn, river cards
     flop_match = re.search(r"\*\*\* FLOP \*\*\*: \[(.*?)\]", game_text)
