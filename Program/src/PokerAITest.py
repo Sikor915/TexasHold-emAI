@@ -259,7 +259,7 @@ for batch in pokerDataLoader:
 X = torch.cat(all_X, dim=0).numpy()
 y = torch.cat(all_y, dim=0).numpy()
 
-X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
 
 rfr = RandomForestRegressor(n_estimators=300)
 rfr.fit(X_train, y_train)

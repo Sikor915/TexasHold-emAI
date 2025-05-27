@@ -1,0 +1,42 @@
+----------------./my_dqn_model.keras----------------
+----------------./my_dqn_model.kerasTue 27-May-2025 14:33----------------
+Epsilon after episode 0: 0.9995
+----------------./my_dqn_model.keras Tue 27-May-2025 14:34----------------
+Epsilon after episode 100: 0.9555087299739674
+Epsilon after episode 100: 0.9555087299739674
+Epsilon after episode 100: 0.9555087299739674
+Epsilon after episode 100: 0.9555087299739674
+Epsilon after episode 200: 0.9088966542508279
+Epsilon after episode 200: 0.9088966542508279
+Epsilon after episode 200: 0.9088966542508279
+Epsilon after episode 200: 0.9088966542508279
+Epsilon after episode 300: 0.8710686293383069
+Epsilon after episode 300: 0.8710686293383069
+Epsilon after episode 300: 0.8710686293383069
+Epsilon after episode 300: 0.8710686293383069
+Epsilon after episode 400: 0.826093128108349
+Epsilon after episode 400: 0.826093128108349
+Epsilon after episode 400: 0.826093128108349
+Epsilon after episode 400: 0.826093128108349
+Epsilon after episode 500: 0.7881557787912421
+Epsilon after episode 500: 0.7881557787912421
+Epsilon after episode 500: 0.7881557787912421
+Epsilon after episode 500: 0.7881557787912421
+Epsilon after episode 600: 0.7557308208051414
+Epsilon after episode 600: 0.7557308208051414
+Epsilon after episode 600: 0.7557308208051414
+Epsilon after episode 600: 0.7557308208051414
+Epsilon after episode 700: 0.7239153763467987
+Epsilon after episode 700: 0.7239153763467987
+Epsilon after episode 700: 0.7239153763467987
+Epsilon after episode 700: 0.7239153763467987
+Epsilon after episode 800: 0.69101592732676
+Epsilon after episode 800: 0.69101592732676
+Epsilon after episode 800: 0.69101592732676
+Epsilon after episode 800: 0.69101592732676
+Epsilon after episode 900: 0.658293410227447
+Epsilon after episode 900: 0.658293410227447
+Epsilon after episode 900: 0.658293410227447
+Epsilon after episode 900: 0.658293410227447
+
+----------------
