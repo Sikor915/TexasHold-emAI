@@ -1,6 +1,7 @@
 import deuces as d
 import numpy as np
 import GeneticPlayerStuff.Helper_Functions as hf
+import sys
 
 from pypokerengine.players import BasePokerPlayer
 from deuces import card
@@ -35,13 +36,14 @@ class GeneticPlayer(BasePokerPlayer):
         """
         self.aggresion = agg
         self.default_prob = def_prob
+        #self.round = 0
 
 
-    def mutate(self):
-        self.aggresion = self.aggresion * (1 + np.random.uniform(-0.1, 0.1))
-        self.default_prob = hf.normalize(self.default_prob * (1 + np.random.uniform(-0.1, 0.1, size=(5,3))))
+    def mutate(self, mutation_rate=0.1):
+        self.aggresion = self.aggresion * (1 + np.random.uniform(-mutation_rate, mutation_rate))
+        self.default_prob = hf.normalize(self.default_prob * (1 + np.random.uniform(-mutation_rate, mutation_rate, size=(5,3))))
 
-    def win_prob(self, your_hand, river, no_other_players, sim=100000):
+    def win_prob(self, your_hand, river, no_other_players, sim=5000):
 
         if len(river) == 0:
             if (your_hand[0][1] == your_hand[1][1]) or (your_hand[0][0] == your_hand[1][0]):
@@ -49,7 +51,7 @@ class GeneticPlayer(BasePokerPlayer):
             else:
                 return 0.4
         else:
-            all_cards = [a+b for a in suits for b in ranks]
+            all_cards = [b+a for a in suits for b in ranks]
             for card in your_hand:
                 all_cards.remove(card)
             for card in river:
@@ -89,6 +91,7 @@ class GeneticPlayer(BasePokerPlayer):
             return win_count / sim
 
     def declare_action(self, valid_actions, hole_card, round_state):
+
         player_hand = [card[1] + card[0].lower() for card in hole_card]
         river_cards = [card[1] + card[0].lower() for card in round_state['community_card']]
         player_no = round_state['next_player']
@@ -106,18 +109,28 @@ class GeneticPlayer(BasePokerPlayer):
         min_raise = valid_actions[2]['amount']['min']
         max_raise = valid_actions[2]['amount']['max']
 
+        if len(river_cards) == 0:
+            return ("call", min_bet)
+
         if min_bet == 0: # This is true when the player is first
             win_prob = self.win_prob(player_hand, river_cards, other_players_no - 1)
-            rr = win_prob * (other_players_no + 1)
-            prob = self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))]
+            rr = (win_prob * (other_players_no + 1))
+            prob = list(self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
             prob[1] = prob[0] + prob[1]
-            prob[0] = 0 # This is the probability of folding so we zero it for first action
+            prob[0] = 0
+            #self.round += 1
         else:
             win_prob = self.win_prob(player_hand, river_cards, other_players_no)
             pot_size_odds = min_bet/(pot + min_bet)
 
             rr = win_prob / pot_size_odds
-            prob = self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))]
+            prob = list(self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
+
+        """win_prob = self.win_prob(player_hand, river_cards, other_players_no)
+        pot_size_odds = min_bet / (pot + min_bet)
+
+        rr = win_prob / pot_size_odds
+        prob = self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))]"""
 
         action = np.random.choice(['fold', 'call', 'raise'], p=prob)
 
@@ -133,7 +146,7 @@ class GeneticPlayer(BasePokerPlayer):
             else:
                 chips = int(chips)
 
-            if len(valid_actions) == 3:
+            if len(valid_actions) == 3 and (min_raise != -1 or max_raise != -1):
                 return (action, chips)
             else:
                 return ("call", min_bet)

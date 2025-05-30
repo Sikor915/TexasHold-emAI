@@ -39,7 +39,7 @@ def setup_poker_game(dqn_agent1, initial_stack=1000):
     action_size = 3
 
     config = setup_config(max_round=100, initial_stack=initial_stack, small_blind_amount=10)
-
+    """
     # Register the main training player
     dqn_player1 = DQNPokerPlayer(dqn_agent1, "DQN_Player_Train", state_size, training_mode=True)
     config.register_player(name="DQN_Player_Train", algorithm=dqn_player1)
@@ -57,7 +57,7 @@ def setup_poker_game(dqn_agent1, initial_stack=1000):
     # # Optionally, add other types of players
     # config.register_player(name="Random_Player", algorithm=RandomPlayer())
     # config.register_player(name="SmartPlayer", algorithm=SmartPlayer())
-
+    """
     return config
 
 NB_SIMULATION = 1000
@@ -149,7 +149,7 @@ class SmartPlayer(BasePokerPlayer):
     def receive_round_result_message(self, winners, hand_info, round_state):
         pass
 
-
+"""
 class DQNPokerPlayer(BasePokerPlayer):
     def __init__(self, dqn_agent, name, state_size, training_mode=True):
         super().__init__()
@@ -383,7 +383,7 @@ for episode in range(1000):
 
         if episode % 100 == 0 and episode > 0:
             open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write(f"Epsilon after episode {episode}: {dqn_agent.epsilon}\n")
-    """if episode % 1000 == 0 and episode > 0:
+    """"""if episode % 1000 == 0 and episode > 0:
         clear_output(wait=True)
         print(f"Epsilon after episode {episode}: {dqn_agent.epsilon}")
 
@@ -415,7 +415,7 @@ for episode in range(1000):
 
         plt.tight_layout()
         plt.show()"""
-
+"""
 open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write("\n----------------\n")
 
 clear_output(wait=True)
@@ -449,6 +449,6 @@ plt.legend()
 
 plt.tight_layout()
 plt.show()
-
+"""
 
 
