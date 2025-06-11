@@ -41,7 +41,7 @@ def initialize_network(input_shape, action_size):
     action_output = layers.Dense(action_size, activation='linear', name='action_output')(x)
 
     # Bet amount output
-    bet_amount_output = layers.Dense(5, activation='softmax', name='bet_amount_output')(x)
+    bet_amount_output = layers.Dense(20, activation='softmax', name='bet_amount_output')(x)
 
     # Build the model
     model = models.Model(inputs=input_layer, outputs=[action_output, bet_amount_output])
@@ -75,7 +75,7 @@ def choose_action(state, model, valid_actions, epsilon):
         # Exploration: Randomly choose a valid action
         best_action = np.random.choice([action['action'] for action in valid_actions])
         # Randomly choose a bet amount category (assuming a fixed number of categories)
-        bet_amount_category = np.random.randint(0, 5)  # Adjust '5' to your number of bet amount categories
+        bet_amount_category = np.random.randint(0, 20)  # Adjust '5' to your number of bet amount categories
     else:
         # Exploitation: Predict Q-values for actions and bet amounts
         predictions = model.predict(state.reshape(1, -1))

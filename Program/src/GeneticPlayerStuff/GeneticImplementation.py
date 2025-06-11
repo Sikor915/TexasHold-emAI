@@ -8,11 +8,11 @@ from GeneticPlayerStuff.Genetic_Agent import GeneticPlayer
 from pypokerengine.api.game import setup_config, start_poker
 from concurrent.futures import ThreadPoolExecutor
 
-POPULATION_SIZE = 5
-EPOCHES = 20
+POPULATION_SIZE = 7
+EPOCHES = 200
 MUTATION_RATE = 0.15
-MAX_GAMES_PLAYED = 4
-MAX_ROUNDS = 1
+MAX_GAMES_PLAYED = 3
+MAX_ROUNDS = 3
 INITIAL_STACK = 200
 SMALL_BLIND = 1
 
@@ -42,19 +42,6 @@ class Population(object):
             new_gen.append(child)
 
         self.pops = new_gen
-
-    def select_parents(self, fitness_scores):
-        # Modify the selection so that the best fitness scores are more likely to be selected
-        total_fitness = sum(fitness_scores)
-        probabilities = [f / total_fitness for f in fitness_scores]
-        return np.random.choice(self.pops, size=2, p=probabilities)
-
-    def crossover(self, parent1, parent2):
-        child_prob = hf.add_lists([parent1.actions_prob, parent2.actions_prob])
-        child_prob = [x / 2 for x in child_prob]
-        child_prob = hf.normalize(child_prob)
-        child_agg = (parent1.aggresion + parent2.aggresion) / 2
-        return GeneticPlayer(child_prob, child_agg)
 
     def compute_gen_fitness(self):
         # Prepare the game (call play_game) and compute fitness scores (chips left)
@@ -88,6 +75,19 @@ class Population(object):
 
         return round_fitness
 
+    def select_parents(self, fitness_scores):
+        # Modify the selection so that the best fitness scores are more likely to be selected
+        total_fitness = sum(fitness_scores)
+        probabilities = [f / total_fitness for f in fitness_scores]
+        return np.random.choice(self.pops, size=2, p=probabilities)
+
+    def crossover(self, parent1, parent2):
+        child_prob = hf.add_lists([parent1.actions_prob, parent2.actions_prob])
+        child_prob = [x / 2 for x in child_prob]
+        child_prob = hf.normalize(child_prob)
+        child_agg = (parent1.aggresion + parent2.aggresion) / 2
+        return GeneticPlayer(child_prob, child_agg)
+
     def log_summary(self, fitness_scores, top=3):
         # Sort by fitness descending
         indexed_scores = list(enumerate(fitness_scores))
@@ -107,7 +107,6 @@ class Population(object):
                 "default_prob": np.array(player.actions_prob).tolist()
             })
 
-        # Optional: add statistics
         summary["max_fitness"] = float(max(fitness_scores))
         summary["mean_fitness"] = float(np.mean(fitness_scores))
         summary["min_fitness"] = float(min(fitness_scores))
@@ -130,5 +129,5 @@ if __name__ == "__main__":
     population = Population(POPULATION_SIZE)
 
     for epoch in range(EPOCHES):
-        print(f"Epoch {epoch + 1}/{20}")
+        print(f"Epoch {epoch + 1}/{EPOCHES}")
         population.birth();
