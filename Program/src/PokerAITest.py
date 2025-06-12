@@ -72,8 +72,8 @@ def count_items(cell, sep=", "):
     return len(cell.split(sep))
 
 #Zrobic zlaczenie tych danych z Kaggle + Pluribus
-pokerTrainDF20 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.0.csv")
-pokerTrainDF21 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.1.csv")
+pokerTrainDF20 = pd.read_csv("C:/Users/sawic/Desktop/BIAI Poker AI/TexasHold-emAI/KaggleDataSet/parsed_poker_games_2.0.csv")
+pokerTrainDF21 = pd.read_csv("C:/Users/sawic/Desktop/BIAI Poker AI/TexasHold-emAI/KaggleDataSet/parsed_poker_games_2.1.csv")
 pokerTrainDF = pd.concat([pokerTrainDF20, pokerTrainDF21], ignore_index=True)
 #print(pokerTrainDF.head())
 print(pokerTrainDF.columns)
