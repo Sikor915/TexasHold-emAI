@@ -35,121 +35,34 @@ def estimate_hand_strength(nb_simulation, nb_player, hole_card, community_card):
     return average_win_rate
 
 def setup_poker_game(dqn_agent1, initial_stack=1000):
-    state_size = 150
+    input_shape = (150,)
     action_size = 3
+    state_size = input_shape[0]
 
-    config = setup_config(max_round=100, initial_stack=initial_stack, small_blind_amount=10)
-    """
+    config = setup_config(max_round=100, initial_stack=initial_stack, small_blind_amount=100)
+
     # Register the main training player
     dqn_player1 = DQNPokerPlayer(dqn_agent1, "DQN_Player_Train", state_size, training_mode=True)
     config.register_player(name="DQN_Player_Train", algorithm=dqn_player1)
 
-    # Optionally, load or initialize additional models if needed
-    model_path = './my_dqn_model.keras'
-
     # Register other players, potentially older versions or different strategies
     for i in range(1, NUM_PLAYERS):
-        dqn_model = load_or_initialize_model(model_path, state_size, action_size)
-        dqn_agent = DQNPokerAgent(state_size, action_size, model=dqn_model, epsilon=0.0)
-        dqn_player = DQNPokerPlayer(dqn_agent, f"DQN_Player_Old_{i}", state_size, training_mode=False)
-        config.register_player(name=f"DQN_Player_Old_{i}", algorithm=dqn_player)
-
+        model_path = './my_dqn_model' + str(i) + '.keras'
+        dqn_model = load_or_initialize_model(model_path, input_shape, action_size)
+        dqn_agent = DQNPokerAgent(state_size, action_size, model=dqn_model, epsilon=1.0)
+        dqn_player = DQNPokerPlayer(dqn_agent1, f"DQN_Player_Train_{i}", state_size, training_mode=True)
+        config.register_player(name=f"DQN_Player_Train_{i}", algorithm=dqn_player)
+        dqn_model.save(model_path)
     # # Optionally, add other types of players
     # config.register_player(name="Random_Player", algorithm=RandomPlayer())
     # config.register_player(name="SmartPlayer", algorithm=SmartPlayer())
-    """
+
     return config
 
 NB_SIMULATION = 1000
 
-class HonestPlayer(BasePokerPlayer):  # Do not forget to make parent class as "BasePokerPlayer"
-
-    def declare_action(self, valid_actions, hole_card, round_state):
-        community_card = round_state['community_card']
-        win_rate = estimate_hole_card_win_rate(
-            nb_simulation=NB_SIMULATION,
-            nb_player=self.nb_player,
-            hole_card=gen_cards(hole_card),
-            community_card=gen_cards(community_card)
-        )
-        if win_rate >= 1.0 / self.nb_player:
-            action = valid_actions[1]  # fetch CALL action info
-        else:
-            action = valid_actions[0]  # fetch FOLD action info
-        return action['action'], action['amount']
-
-    def receive_game_start_message(self, game_info):
-        self.nb_player = game_info['player_num']
-
-    def receive_round_start_message(self, round_count, hole_card, seats):
-        pass
-
-    def receive_street_start_message(self, street, round_state):
-        pass
-
-    def receive_game_update_message(self, action, round_state):
-        pass
-
-    def receive_round_result_message(self, winners, hand_info, round_state):
-        pass
 
 
-class SmartPlayer(BasePokerPlayer):
-
-    def declare_action(self, valid_actions, hole_card, round_state):
-        # Process the current game state
-        current_street = round_state['street']
-        pot_size = round_state['pot']['main']['amount']
-        community_cards = round_state['community_card']
-
-        # Simple strategy: If we have a pair or high card (A, K, Q, J), we bet, otherwise we fold
-        high_cards = ['A', 'K', 'Q', 'J']
-        has_high_card = any(card[1] in high_cards for card in hole_card)
-        has_pair = hole_card[0][1] == hole_card[1][1]
-
-        win_rate = estimate_hole_card_win_rate(
-            nb_simulation=NB_SIMULATION,
-            nb_player=self.nb_player,
-            hole_card=gen_cards(hole_card),
-            community_card=gen_cards(community_cards)
-        )
-
-        if (has_high_card or has_pair) and win_rate >= 1.0 / self.nb_player:
-
-            action = 'raise'
-            action_dict = next((item for item in valid_actions if item["action"] == action), None)
-            # Check if raise is a valid action, otherwise call
-            if action_dict:
-                action_amount = random.randint(action_dict["amount"]["min"], action_dict["amount"]["max"])
-            #                 action_amount = int(action_dict["amount"]["max"] / 5)
-            else:
-                action = 'call'
-                action_dict = next((item for item in valid_actions if item["action"] == action), None)
-                action_amount = action_dict["amount"]
-        else:
-            action = 'fold'
-            action_dict = next((item for item in valid_actions if item["action"] == action), None)
-            action_amount = action_dict["amount"]
-
-        return action, action_amount
-
-    # The following methods are not modified but are required to be present
-    def receive_game_start_message(self, game_info):
-        self.nb_player = game_info['player_num']
-
-    def receive_round_start_message(self, round_count, hole_card, seats):
-        pass
-
-    def receive_street_start_message(self, street, round_state):
-        pass
-
-    def receive_game_update_message(self, action, round_state):
-        pass
-
-    def receive_round_result_message(self, winners, hand_info, round_state):
-        pass
-
-"""
 class DQNPokerPlayer(BasePokerPlayer):
     def __init__(self, dqn_agent, name, state_size, training_mode=True):
         super().__init__()
@@ -173,6 +86,8 @@ class DQNPokerPlayer(BasePokerPlayer):
             print("State size:", state.shape)  # Should output (130,)
 
         action, bet_amount_category = self.dqn_agent.act(self.current_state, valid_actions)
+        #print(hole_card)
+        #print(bet_amount_category)
         self.last_action = action
         self.bet_amount_category = bet_amount_category
 
@@ -182,9 +97,10 @@ class DQNPokerPlayer(BasePokerPlayer):
         action_dict = next((item for item in valid_actions if item["action"] == action), None)
 
         if action == 'raise' and isinstance(action_dict['amount'], dict):
+            #print(action_dict['amount'])
             min_raise = action_dict['amount']['min']
             max_raise = action_dict['amount']['max']
-            fraction = (self.bet_amount_category + 1) / 5
+            fraction = (self.bet_amount_category + 1) / 20
             amount = int(min_raise + fraction * (max_raise - min_raise))
         else:
             amount = action_dict['amount'] if action_dict else 0
@@ -337,118 +253,120 @@ class DQNPokerPlayer(BasePokerPlayer):
     def receive_street_start_message(self, street, round_state):
         pass
 
-# Initialize dictionaries to store metrics for each player
-total_gains = {}
-cumulative_rewards = {}
-win_rates = {}
+if __name__ == "__main__":
 
-# Define model path
-model_path = './my_dqn_model.keras'
+    # Initialize dictionaries to store metrics for each player
+    total_gains = {}
+    cumulative_rewards = {}
+    win_rates = {}
 
-# Define the input shape and action size for your model
-input_shape = (150,)
-action_size = 3
-state_size = input_shape[0]
+    # Define model path
+    model_path = './my_dqn_model.keras'
 
-# Initialize or load the main model
-dqn_model = load_or_initialize_model(model_path, input_shape, action_size)
-dqn_agent = DQNPokerAgent(state_size, action_size, model=dqn_model,epsilon = 1)
-# Save the current model for the other players
-dqn_model.save(model_path)
+    # Define the input shape and action size for your model
+    input_shape = (150,)
+    action_size = 3
+    state_size = input_shape[0]
 
-open(os.path.join(os.path.dirname(__file__), "Logs\\modelDataLogs.txt"), "a").write("----------------" + model_path + datetime.datetime.now().strftime(" %a %d-%b-%Y %H:%M") + "----------------\n")
+    # Initialize or load the main model
+    dqn_model = load_or_initialize_model(model_path, input_shape, action_size)
+    dqn_agent = DQNPokerAgent(state_size, action_size, model=dqn_model,epsilon = 1)
+    # Save the current model for the other players
+    dqn_model.save(model_path)
 
-for episode in range(1000):
-    initial_stack = random.randint(1,10) * 100  # every game will have different initial stacks for now small blind remains 10
-    # Setup and start the poker game with the current model playing against its previous version
-    config = setup_poker_game(dqn_agent, initial_stack=initial_stack)
-    game_result = start_poker(config, verbose=0)
+    open(os.path.join(os.path.dirname(__file__), "Logs\\modelDataLogs.txt"), "a").write("----------------" + model_path + datetime.datetime.now().strftime(" %a %d-%b-%Y %H:%M") + "----------------\n")
 
-    # Update metrics based on game results...
-    for player in game_result['players']:
-        name = player['name']
-        stack_change = player['stack'] - initial_stack
+    for episode in range(10000):
+        initial_stack = 100000  # every game will have different initial stacks for now small blind remains 10
+        # Setup and start the poker game with the current model playing against its previous version
+        config = setup_poker_game(dqn_agent, initial_stack=initial_stack)
+        game_result = start_poker(config, verbose=0)
 
-        # Initialize player metrics if new
-        if name not in total_gains:
-            total_gains[name] = [0]
-            cumulative_rewards[name] = []
-            win_rates[name] = []
+        # Update metrics based on game results...
+        for player in game_result['players']:
+            name = player['name']
+            stack_change = player['stack'] - initial_stack
 
-        # Update player metrics
-        total_gains[name].append(total_gains[name][-1] + stack_change)
-        cumulative_rewards[name].append(total_gains[name][-1])
-        win_rate = sum(r > 0 for r in total_gains[name]) / len(total_gains[name])
-        win_rates[name].append(win_rate)
+            # Initialize player metrics if new
+            if name not in total_gains:
+                total_gains[name] = [0]
+                cumulative_rewards[name] = []
+                win_rates[name] = []
 
-        if episode % 100 == 0 and episode > 0:
-            open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write(f"Epsilon after episode {episode}: {dqn_agent.epsilon}\n")
-    """"""if episode % 1000 == 0 and episode > 0:
-        clear_output(wait=True)
-        print(f"Epsilon after episode {episode}: {dqn_agent.epsilon}")
+            # Update player metrics
+            total_gains[name].append(total_gains[name][-1] + stack_change)
+            cumulative_rewards[name].append(total_gains[name][-1])
+            win_rate = sum(r > 0 for r in total_gains[name]) / len(total_gains[name])
+            win_rates[name].append(win_rate)
 
-        # Save the current model
-        dqn_model.save(model_path)
-        # Clear the current figure to ensure old plots are not shown
-        plt.clf()
+            if episode % 100 == 0 and episode > 0:
+                open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write(f"Epsilon after episode {episode}: {dqn_agent.epsilon}\n")
+        """if episode % 1000 == 0 and episode > 0:
+            clear_output(wait=True)
+            print(f"Epsilon after episode {episode}: {dqn_agent.epsilon}")
+    
+            # Save the current model
+            dqn_model.save(model_path)
+            # Clear the current figure to ensure old plots are not shown
+            plt.clf()
+    
+            # Plot metrics
+            plt.figure(figsize=(12, 6))
+    
+            # Plot cumulative rewards
+            plt.subplot(1, 2, 1)
+            for name, rewards in cumulative_rewards.items():
+                plt.plot(rewards, label=f'{name} Total Gains')
+            plt.xlabel('Episode')
+            plt.ylabel('Total Gains')
+            plt.title('Total Gains per Episode')
+            plt.legend()
+    
+            # Plot win rates
+            plt.subplot(1, 2, 2)
+            for name, rates in win_rates.items():
+                plt.plot(rates, label=f'{name} Win Rate')
+            plt.xlabel('Episode')
+            plt.ylabel('Win Rate')
+            plt.title('Win Rate per Episode')
+            plt.legend()
+    
+            plt.tight_layout()
+            plt.show()"""
 
-        # Plot metrics
-        plt.figure(figsize=(12, 6))
+    open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write("\n----------------\n")
 
-        # Plot cumulative rewards
-        plt.subplot(1, 2, 1)
-        for name, rewards in cumulative_rewards.items():
-            plt.plot(rewards, label=f'{name} Total Gains')
-        plt.xlabel('Episode')
-        plt.ylabel('Total Gains')
-        plt.title('Total Gains per Episode')
-        plt.legend()
+    clear_output(wait=True)
+    print(f"Epsilon after episode {episode}: {dqn_agent.epsilon}")
 
-        # Plot win rates
-        plt.subplot(1, 2, 2)
-        for name, rates in win_rates.items():
-            plt.plot(rates, label=f'{name} Win Rate')
-        plt.xlabel('Episode')
-        plt.ylabel('Win Rate')
-        plt.title('Win Rate per Episode')
-        plt.legend()
+    # Save the current model
+    dqn_model.save(model_path)
+    # Clear the current figure to ensure old plots are not shown
+    plt.clf()
 
-        plt.tight_layout()
-        plt.show()"""
-"""
-open(os.path.join(os.path.dirname(__file__), "Logs/modelDataLogs.txt"), "a").write("\n----------------\n")
+    # Plot metrics
+    plt.figure(figsize=(12, 6))
 
-clear_output(wait=True)
-print(f"Epsilon after episode {episode}: {dqn_agent.epsilon}")
+    # Plot cumulative rewards
+    plt.subplot(1, 2, 1)
+    for name, rewards in cumulative_rewards.items():
+        plt.plot(rewards, label=f'{name} Total Gains')
+    plt.xlabel('Episode')
+    plt.ylabel('Total Gains')
+    plt.title('Total Gains per Episode')
+    plt.legend()
 
-# Save the current model
-dqn_model.save(model_path)
-# Clear the current figure to ensure old plots are not shown
-plt.clf()
+    # Plot win rates
+    plt.subplot(1, 2, 2)
+    for name, rates in win_rates.items():
+        plt.plot(rates, label=f'{name} Win Rate')
+    plt.xlabel('Episode')
+    plt.ylabel('Win Rate')
+    plt.title('Win Rate per Episode')
+    plt.legend()
 
-# Plot metrics
-plt.figure(figsize=(12, 6))
+    plt.tight_layout()
+    plt.show()
 
-# Plot cumulative rewards
-plt.subplot(1, 2, 1)
-for name, rewards in cumulative_rewards.items():
-    plt.plot(rewards, label=f'{name} Total Gains')
-plt.xlabel('Episode')
-plt.ylabel('Total Gains')
-plt.title('Total Gains per Episode')
-plt.legend()
-
-# Plot win rates
-plt.subplot(1, 2, 2)
-for name, rates in win_rates.items():
-    plt.plot(rates, label=f'{name} Win Rate')
-plt.xlabel('Episode')
-plt.ylabel('Win Rate')
-plt.title('Win Rate per Episode')
-plt.legend()
-
-plt.tight_layout()
-plt.show()
-"""
 
 

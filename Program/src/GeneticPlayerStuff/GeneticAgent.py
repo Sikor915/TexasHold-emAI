@@ -28,22 +28,22 @@ class GeneticPlayer(BasePokerPlayer):
 
             [fold, call, raise]
 
-            [0.7, 0.2, 0.0],
+            [0.8, 0.2, 0.0],
             [0.6, 0.3, 0.1],
             [0.1, 0.8, 0.1],
             [0.0, 0.5, 0.5],
             [0.0, 0.2, 0.8]
         """
         self.aggresion = agg
-        self.default_prob = def_prob
+        self.actions_prob = def_prob
         #self.round = 0
 
 
     def mutate(self, mutation_rate=0.1):
         self.aggresion = self.aggresion * (1 + np.random.uniform(-mutation_rate, mutation_rate))
-        self.default_prob = hf.normalize(self.default_prob * (1 + np.random.uniform(-mutation_rate, mutation_rate, size=(5,3))))
+        self.actions_prob = hf.normalize(self.actions_prob * (1 + np.random.uniform(-mutation_rate, mutation_rate, size=(5, 3))))
 
-    def win_prob(self, your_hand, river, no_other_players, sim=5000):
+    def win_prob(self, your_hand, river, no_other_players, sim=10000):
 
         if len(river) == 0:
             if (your_hand[0][1] == your_hand[1][1]) or (your_hand[0][0] == your_hand[1][0]):
@@ -115,7 +115,7 @@ class GeneticPlayer(BasePokerPlayer):
         if min_bet == 0: # This is true when the player is first
             win_prob = self.win_prob(player_hand, river_cards, other_players_no - 1)
             rr = (win_prob * (other_players_no + 1))
-            prob = list(self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
+            prob = list(self.actions_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
             prob[1] = prob[0] + prob[1]
             prob[0] = 0
             #self.round += 1
@@ -124,13 +124,7 @@ class GeneticPlayer(BasePokerPlayer):
             pot_size_odds = min_bet/(pot + min_bet)
 
             rr = win_prob / pot_size_odds
-            prob = list(self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
-
-        """win_prob = self.win_prob(player_hand, river_cards, other_players_no)
-        pot_size_odds = min_bet / (pot + min_bet)
-
-        rr = win_prob / pot_size_odds
-        prob = self.default_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))]"""
+            prob = list(self.actions_prob[np.argmin(abs(np.array([0.6, 0.8, 1.0, 1.2, 1.4]) - rr))])
 
         action = np.random.choice(['fold', 'call', 'raise'], p=prob)
 
