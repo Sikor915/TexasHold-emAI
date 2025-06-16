@@ -13,8 +13,8 @@ EPOCHES = 200
 MUTATION_RATE = 0.15
 MAX_GAMES_PLAYED = 3
 MAX_ROUNDS = 3
-INITIAL_STACK = 200
-SMALL_BLIND = 1
+INITIAL_STACK = 100000
+SMALL_BLIND = 100
 
 
 class Population(object):
@@ -27,7 +27,8 @@ class Population(object):
             self.pops.append(GeneticPlayer(prob, np.random.uniform(0.1, 2)))
 
     def birth(self):
-        # This method is called in each epoch. It should then call compute_gen_fitness
+        # This method is called in each epoch.
+        # It should then call compute_gen_fitness
         # Setup the generation of new players
 
         fitness_scores = self.compute_gen_fitness()
@@ -35,11 +36,15 @@ class Population(object):
         fitness_scores = [i/sum(fitness_scores) for i in fitness_scores]
 
         new_gen = []
-        for _ in range(self.size):
+        for _ in range(self.size - 2):
             parent1, parent2 = self.select_parents(fitness_scores)
             child = self.crossover(parent1, parent2)
             child.mutate(MUTATION_RATE)
             new_gen.append(child)
+
+        pop_fitness = list(zip(self.pops, fitness_scores))
+        pop_fitness.sort(key=lambda x: x[1], reverse=True)
+        new_gen.extend([x[0] for x in pop_fitness[:2]])
 
         self.pops = new_gen
 

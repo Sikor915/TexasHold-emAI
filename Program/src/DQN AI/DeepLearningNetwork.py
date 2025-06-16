@@ -75,25 +75,22 @@ def choose_action(state, model, valid_actions, epsilon):
         # Exploration: Randomly choose a valid action
         best_action = np.random.choice([action['action'] for action in valid_actions])
         # Randomly choose a bet amount category (assuming a fixed number of categories)
-        bet_amount_category = np.random.randint(0, 20)  # Adjust '5' to your number of bet amount categories
+        bet_amount_category = np.random.randint(0, 20)
     else:
         # Exploitation: Predict Q-values for actions and bet amounts
         predictions = model.predict(state.reshape(1, -1))
-        q_values = predictions[0][0]  # Assuming the first output corresponds to actions
-        bet_amounts = predictions[1][0]  # Assuming the second output corresponds to bet amounts
+        q_values = predictions[0][0]
+        bet_amounts = predictions[1][0]
 
         # Map valid actions to their indices
         action_indices = {action['action']: idx for idx, action in enumerate(valid_actions)}
 
-        # Ensure there is a best action by selecting the first valid action as default
         if valid_actions:
             best_action = valid_actions[0]['action']
 
-        # Choose the best action based on Q-values, considering only valid actions
         valid_q_values = [q_values[action_indices[action['action']]] for action in valid_actions]
         best_action = valid_actions[np.argmax(valid_q_values)]['action']
 
-        # Choose the bet amount category with the highest probability
         bet_amount_category = np.argmax(bet_amounts)
 
     if best_action is None:
@@ -126,17 +123,17 @@ def compute_reward(round_state, action, action_details, is_winner, pot_size_befo
 
     # Adjust rewards for winning or losing the round
     if is_winner:
-        reward += 10  # Reward for winning
+        reward += 10
     else:
-        reward -= 10  # Penalty for losing
+        reward -= 10
 
     # Consider the action taken
     if action == 'fold':
-        reward -= 5  # Discourage folding by default
+        reward -= 5
     elif action == 'raise':
         bet_amount = action_details.get('amount', 0)
-        pot_ratio = bet_amount / max(1, pot_size_before)  # Avoid division by zero
-        reward += 5 * pot_ratio  # Reward for aggressive play when raising
+        pot_ratio = bet_amount / max(1, pot_size_before)
+        reward += 5 * pot_ratio  # Reward for aggressive play
 
     # Adjust reward based on changes in stack size, to encourage preservation of chips
     stack_change = stack_size_after - stack_size_before
