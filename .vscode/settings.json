@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Program/src/DQN AI",
+        "./Program/src/DQNAI"
+    ]
+}
