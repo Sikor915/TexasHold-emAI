@@ -1,68 +1,13 @@
 import numpy
 import torch
 import pandas as pd
-#import torch.nn.functional as F
+import joblib
 
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
-
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
-#from torch import nn
-
-"""def check_accuracy(loader, model):
-    num_correct = 0
-    num_samples = 0
-    model.eval()
-    with torch.no_grad():
-        for x, y in loader:
-            x = x.to(device).reshape(x.shape[0], -1)
-            y = y.to(device)
-            scores = model(x)
-            _, predictions = scores.max(1)
-            num_correct += (predictions == y).sum()
-            num_samples += predictions.size(0)
-            model.train()
-
-    return num_correct / num_samples
-
-class NeuralNetwork(nn.Module):
-    def __init__(self, input_size, num_classes):
-        super(NeuralNetwork, self).__init__()
-        self.fc1 = nn.Linear(input_size, 50)  # Fully connected layer 1
-        self.fc2 = nn.Linear(50, num_classes)  # Fully connected layer 2
-    def forward(self, x):
-        x = F.relu(self.fc1(x))  # Apply ReLU activation
-        x = self.fc2(x)  # Output layer
-        return x
-
-train_dataset = datasets.MNIST(root='dataset/', train=True, transform=transforms.ToTensor(), download=True)
-test_dataset = datasets.MNIST(root='dataset/', train=False, transform=transforms.ToTensor(), download=True)
-train_loader = DataLoader(dataset=train_dataset, batch_size=64, shuffle=True)
-test_loader = DataLoader(dataset=test_dataset, batch_size=64, shuffle=False)
-
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = NeuralNetwork(input_size=784, num_classes=10).to(device)
-criterion = nn.CrossEntropyLoss()
-optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-for epoch in range(3):
-    for batch_idx, (data, targets) in enumerate(train_loader):
-        data = data.to(device).reshape(data.shape[0], -1)  # Flatten images
-
-        targets = targets.to(device)
-
-        scores = model(data)
-        loss = criterion(scores, targets)
-
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
-
-train_acc = check_accuracy(train_loader, model)
-test_acc = check_accuracy(test_loader, model)
-print(f"Training Accuracy: {train_acc:.2f}")
-print(f"Test Accuracy: {test_acc:.2f}")"""
 
 #added 13.05 -------------------------------------
 
@@ -72,11 +17,11 @@ def count_items(cell, sep=", "):
     return len(cell.split(sep))
 
 #Zrobic zlaczenie tych danych z Kaggle + Pluribus
-pokerTrainDF20 = pd.read_csv("C:/Users/sawic/Desktop/BIAI Poker AI/TexasHold-emAI/KaggleDataSet/parsed_poker_games_2.0.csv")
-pokerTrainDF21 = pd.read_csv("C:/Users/sawic/Desktop/BIAI Poker AI/TexasHold-emAI/KaggleDataSet/parsed_poker_games_2.1.csv")
+pokerTrainDF20 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.0.csv")
+pokerTrainDF21 = pd.read_csv("../../KaggleDataSet/parsed_poker_games_2.1.csv")
 pokerTrainDF = pd.concat([pokerTrainDF20, pokerTrainDF21], ignore_index=True)
 #print(pokerTrainDF.head())
-print(pokerTrainDF.columns)
+#print(pokerTrainDF.columns)
 
 MAX_PRE   = pokerTrainDF["pre_flop"].apply(lambda s: count_items(s)).max()
 MAX_FLOP  = pokerTrainDF["flop"].apply(lambda s: count_items(s, sep=" ")).max()
@@ -84,7 +29,7 @@ MAX_DF    = pokerTrainDF["decision_flop"].apply(lambda s: count_items(s)).max()
 MAX_DT    = pokerTrainDF["decision_turn"].apply(lambda s: count_items(s)).max()
 MAX_DR    = pokerTrainDF["decision_river"].apply(lambda s: count_items(s)).max()
 
-print(f"Max lengths → pre:{MAX_PRE}, flop:{MAX_FLOP}, d_flop:{MAX_DF}, d_turn:{MAX_DT}, d_river:{MAX_DR}")
+#print(f"Max lengths → pre:{MAX_PRE}, flop:{MAX_FLOP}, d_flop:{MAX_DF}, d_turn:{MAX_DT}, d_river:{MAX_DR}")
 
 #added 13.05 -------------------------------------
 
@@ -213,29 +158,10 @@ class DataSet(torch.utils.data.Dataset):
             "net_result": torch.tensor(float(row["net_result"]), dtype=torch.float32)
         }
         return sample
-"""
-class PokerAI(nn.modules):
-    def __init__(self):
-        super().__init__()
-        self.model = nn.Sequential(
-            nn.Linear(10, 64),  # Input layer
-            nn.ReLU(),
-            nn.Linear(64, 32),  # Hidden layer
-            nn.ReLU(),
-            nn.Linear(32, 2)    # Output layer (2 classes: win or lose)
-        )
-    def forward(self, x):
-        return self.model(x)"""
 
 pokerTrainDataSet = DataSet(pokerTrainDF)
 #pokerTrainDataLoader = DataLoader(pokerTrainDataSet, batch_size=8, shuffle=False, collate_fn=collate_fn)
 pokerDataLoader = DataLoader(pokerTrainDataSet, batch_size=64, shuffle=False, collate_fn=collate_and_pad)
-
-"""for batch_idx, row in enumerate(pokerTrainDataLoader):
-    print(f"Batch {batch_idx}:")
-    print(row)
-    break  # Just to see the first batch
-"""
 
 #added 13.05 -------------------------------------
 
@@ -261,6 +187,19 @@ y = torch.cat(all_y, dim=0).numpy()
 
 X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.25, random_state=42)
 
+FEATURE_DIM = Xb.size(1)  # total number of features
+FEATURE_ORDER = [
+    ("cards", 2),
+    ("flop", MAX_FLOP),
+    ("pre_flop", MAX_PRE),
+    ("decision_flop", MAX_DF),
+    ("decision_turn", MAX_DT),
+    ("decision_river", MAX_DR),
+    ("num_players", 1),
+    ("player_stack", 1),
+    ("blind", 1)
+]
+
 rfr = RandomForestRegressor(n_estimators=300)
 rfr.fit(X_train, y_train)
 #rfr.fit(X,y)
@@ -268,5 +207,7 @@ rfr.fit(X_train, y_train)
 accuracy = rfr.score(X_val, y_val)
 #accuracy = rfr.score(X, y);
 print(f"Validation Accuracy: {accuracy:.4f}")
+
+joblib.dump((rfr, FEATURE_DIM, FEATURE_ORDER), "poker_rfr_model.pkl")
 
 #added 13.05 -------------------------------------
